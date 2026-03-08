@@ -49,6 +49,9 @@ class Settings:
     GOOGLE_SHEET_ID: str = os.getenv("GOOGLE_SHEET_ID", "")
     GOOGLE_SHEET_NAME: str = os.getenv("GOOGLE_SHEET_NAME", "Form Responses 1")
 
+    # ── Background Worker ─────────────────────────────────
+    POLL_INTERVAL_SECONDS: int = int(os.getenv("POLL_INTERVAL_SECONDS", "300"))
+
     # ── Logging ──────────────────────────────────────────
     LOG_LEVEL: str = os.getenv("LOG_LEVEL", "INFO")
 

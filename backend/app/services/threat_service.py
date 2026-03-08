@@ -19,6 +19,7 @@ logger = get_logger(__name__)
 async def create_threat(
     db: AsyncSession,
     data: ThreatSubmissionCreate,
+    source_row_hash: str | None = None,
 ) -> ThreatSubmissionORM:
     """Insert a new threat submission and return the ORM instance."""
     submission = ThreatSubmissionORM(
@@ -28,12 +29,26 @@ async def create_threat(
         threat_type=data.threat_type,
         description=data.description,
         submission_time=datetime.utcnow(),
+        source_row_hash=source_row_hash,
     )
     db.add(submission)
     await db.flush()          # populate submission.id without committing
     await db.refresh(submission)
     logger.info("Created threat submission id=%d", submission.id)
     return submission
+
+
+async def submission_exists_by_hash(
+    db: AsyncSession,
+    row_hash: str,
+) -> bool:
+    """Return True if a submission with this source_row_hash already exists."""
+    result = await db.execute(
+        select(ThreatSubmissionORM.id)
+        .where(ThreatSubmissionORM.source_row_hash == row_hash)
+        .limit(1)
+    )
+    return result.scalar() is not None
 
 
 async def get_threat_by_id(

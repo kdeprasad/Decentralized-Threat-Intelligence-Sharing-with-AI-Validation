@@ -37,6 +37,7 @@ class ThreatSubmissionORM(Base):
     threat_type = Column(String(100), nullable=False)     # e.g. phishing, malware
     description = Column(Text, nullable=True)
     submission_time = Column(DateTime, default=datetime.utcnow, nullable=False)
+    source_row_hash = Column(String(64), nullable=True, unique=True, index=True)  # SHA-256 dedup hash
 
     # Relationship
     validation = relationship(

@@ -14,6 +14,7 @@ from app.database.db import engine
 from app.database.schema import Base
 from app.api.routes_threats import router as threats_router
 from app.api.routes_validation import router as validation_router
+from app.services import background_worker
 from app.utils.logger import get_logger
 
 logger = get_logger(__name__)
@@ -22,12 +23,22 @@ logger = get_logger(__name__)
 # ── Lifespan: runs on startup / shutdown ────────────────
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    """Create database tables (if they don't exist) when the app starts."""
+    """Create database tables, then start the background polling worker."""
     logger.info("Starting %s v%s", settings.APP_NAME, settings.APP_VERSION)
+
+    # Create tables
     async with engine.begin() as conn:
         await conn.run_sync(Base.metadata.create_all)
     logger.info("Database tables ready.")
+
+    # Start background Google Sheets polling worker
+    background_worker.start()
+    logger.info("Background worker started (interval=%ds).", settings.POLL_INTERVAL_SECONDS)
+
     yield
+
+    # Shutdown
+    background_worker.stop()
     logger.info("Shutting down %s", settings.APP_NAME)
     await engine.dispose()
 
