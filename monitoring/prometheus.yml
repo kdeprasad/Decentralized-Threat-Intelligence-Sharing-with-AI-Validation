@@ -1,0 +1,15 @@
+# ──────────────────────────────────────────────────────────
+# Prometheus configuration — Threat Intelligence Platform
+# ──────────────────────────────────────────────────────────
+
+global:
+  scrape_interval: 15s
+  evaluation_interval: 15s
+
+scrape_configs:
+  - job_name: "threat-intel-backend"
+    metrics_path: /metrics
+    static_configs:
+      - targets: ["backend:8000"]
+        labels:
+          service: "threat-intel"

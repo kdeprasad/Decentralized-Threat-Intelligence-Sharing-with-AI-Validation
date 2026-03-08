@@ -1,0 +1,54 @@
+# ──────────────────────────────────────────────────────────
+# Docker Compose — Threat Intelligence Platform
+# Services: FastAPI backend  +  PostgreSQL database
+# ──────────────────────────────────────────────────────────
+
+version: "3.9"
+
+services:
+  # ── FastAPI backend ───────────────────────────────────
+  backend:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    container_name: threat-intel-backend
+    ports:
+      - "8000:8000"
+    env_file:
+      - ../backend/.env
+    depends_on:
+      db:
+        condition: service_healthy
+    volumes:
+      - ../backend:/app # live-reload during development
+    networks:
+      - threat-net
+
+  # ── PostgreSQL database ───────────────────────────────
+  db:
+    image: postgres:15-alpine
+    container_name: threat-intel-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: threat_intel
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -U postgres" ]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+    networks:
+      - threat-net
+
+volumes:
+  pgdata:
+
+
+networks:
+  threat-net:
+    driver: bridge
