@@ -52,6 +52,12 @@ class Settings:
     # ── Background Worker ─────────────────────────────────
     POLL_INTERVAL_SECONDS: int = int(os.getenv("POLL_INTERVAL_SECONDS", "300"))
 
+    # ── ML Model ─────────────────────────────────────────
+    ML_MODEL_PATH: str = os.getenv(
+        "ML_MODEL_PATH",
+        str(Path(__file__).resolve().parent.parent.parent / "ml" / "model.pkl"),
+    )
+
     # ── Logging ──────────────────────────────────────────
     LOG_LEVEL: str = os.getenv("LOG_LEVEL", "INFO")
 

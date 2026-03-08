@@ -1,0 +1,2001 @@
+ip_address,domain,malware_hash,threat_type,description,label
+,0wlpyy4ejdi1r.tk,6d044c34db1d328b807bfb7cbe9b65a1,data_exfiltration,Domain hosting exploit kit distributing malware,1
+146.216.182.61,83vechrcchia7veya.top,,phishing,Data exfiltration via DNS tunnelling detected,1
+196.82.225.103,kkgnmfj74brr.tk,,command_and_control,Data exfiltration via DNS tunnelling detected,1
+170.143.238.44,waiodxsckw0hd7xyg7k.buzz,,denial_of_service,Data exfiltration via DNS tunnelling detected,1
+,61coht.xyz,,command_and_control,Malicious macro in Office document,1
+,,,phishing,test,0
+209.184.12.79,i5bdnfpi8ufdq3uykm9.tk,53877ac575e5c9dbcc0d858d55605c2dd3428efe65b853438514916c9cc47934,malware,Credential harvesting page impersonating corporate SSO,1
+191.0.207.97,,aa906ece1bc0243fa2c85ebc6b04f7793288f8ca5a5065a06308aa32b2fcac56,data_exfiltration,,0
+116.53.88.157,,2fc97af6f6e79a641bd290e6bd724b64d93c8819e8b16f88085f6182d037e142,other,Ransomware dropper detected in email attachment,1
+,3sd0a46mxdr.com,,ransomware,,0
+153.80.205.168,,,denial_of_service,Malicious macro in Office document,1
+,,,brute_force,,0
+71.187.188.189,7980i3p64n2.cc,a27ccb272065ee70e162c99e5cc2251071dd697da23790dd9be4f7b8472f90cb,brute_force,Credential harvesting page impersonating corporate SSO,1
+204.134.99.243,,,malware,Botnet command-and-control beacon every 60 seconds,1
+,9geexjziz8d.tk,48a83113e8a9ad216dba4a5b062e7576,ransomware,Phishing email targeting employees with fake login page,1
+191.230.42.143,,,command_and_control,Malicious macro in Office document,1
+172.2.225.75,,8f65e1991e57afc8a9b81cd8993044a8798c7b8d8318415a1184649ae517ba8f,command_and_control,Credential harvesting page impersonating corporate SSO,1
+,,,malware,,0
+,zc7um3lxerhogfdr3gk.top,e0adb2039f2f6f81ba60f91a019fbef6ce8d0eebb66f37caaf19c733e8b4aa7b,malware,Domain hosting exploit kit distributing malware,1
+63.76.237.87,,,data_exfiltration,,0
+100.102.22.50,,,denial_of_service,Credential harvesting page impersonating corporate SSO,1
+,,,data_exfiltration,hello world,0
+,zvnyz.cc,ca459a002b37956d91045c106f9762a6,denial_of_service,Ransomware dropper detected in email attachment,1
+237.34.93.15,,c3dbdd05bb86e237dea3ac3e93c3ab91,malware,Data exfiltration via DNS tunnelling detected,1
+160.130.95.197,,,command_and_control,,0
+,8ml2j4bw2l59t.xyz,6515b02083485fa4ba322121ecc0a6ea,data_exfiltration,Data exfiltration via DNS tunnelling detected,1
+,v7nwtono2.cn,,command_and_control,Credential harvesting page impersonating corporate SSO,1
+45.111.187.173,9pkd469l9cz50t5ikm.tk,93d6972771f4adba300fd7ff57bb0f7c,other,Brute force SSH attempts from this IP,1
+58.55.47.168,,,data_exfiltration,,0
+,6uoq8q.top,95e5b516b170fdb13290182f4700c7f4,brute_force,Phishing email targeting employees with fake login page,1
+,emswzx1cl.xyz,b508c99f364da1b90e5ab08a8fa641b2452c4b80105462978da63927cb3d6bb5,ransomware,Credential harvesting page impersonating corporate SSO,1
+248.254.71.227,f2baxlbvgn3lw9sh.org,,phishing,,0
+24.105.67.117,lkpp9s4.top,,ransomware,Botnet command-and-control beacon every 60 seconds,1
+47.46.14.109,tnm4wljybw056p4p1rz.buzz,,data_exfiltration,Ransomware dropper detected in email attachment,1
+,,,command_and_control,,0
+,,c8ddc99ff1d8c1bf97188e3a702bf63b35cc1eb3fe2ac3a696b0adeff3463cc5,ransomware,,0
+,,,other,,1
+154.148.216.234,1akc83e.cn,,ransomware,Domain hosting exploit kit distributing malware,1
+100.18.141.37,wjfc8rbc0havhhqp1.ru,525939e72a31275979dca07ec9a40181f25e0857ae5703ecec709be61fb740da,brute_force,Data exfiltration via DNS tunnelling detected,1
+227.177.186.113,,,other,,0
+,,,other,just checking,0
+160.118.10.244,sfivn2q3n.top,9f75c7d99b3f85fbefb25811a2d0e781,brute_force,Phishing email targeting employees with fake login page,1
+,,,brute_force,,0
+55.111.179.159,,,phishing,not sure,0
+242.7.25.69,,a82039bab3701dec870500694210e283096657c904f3c629664c019683fb28ae,denial_of_service,,1
+146.129.72.195,,,denial_of_service,,0
+,,,brute_force,unknown,0
+50.114.187.114,,,command_and_control,,1
+,,,ransomware,n/a,0
+145.230.210.20,6callu9sh2qjsgv.ru,e65fb63e897632218cf31e7d83602f6a,command_and_control,Botnet command-and-control beacon every 60 seconds,1
+,,,brute_force,,0
+,,df2fd65d246884344f22216cee70a1ac84e44fd74d46ca3d89222fea3dd57875,ransomware,n/a,0
+139.255.114.17,,,denial_of_service,Ransomware dropper detected in email attachment,1
+,,55ab6caf0b2bd317f13063d0d1de8027,other,just checking,0
+,,,phishing,,0
+,qpuq94gmgo.gov,,ransomware,,0
+,,,phishing,,0
+,t0pc67kyc.tk,,data_exfiltration,Suspicious outbound traffic to known C2 server,1
+197.40.67.142,5tie5f.cc,,phishing,Suspicious outbound traffic to known C2 server,1
+94.27.93.200,,,brute_force,,0
+29.123.236.82,,,denial_of_service,Brute force SSH attempts from this IP,1
+217.87.172.136,fu35qs6o2yk6i2y.buzz,,ransomware,Brute force SSH attempts from this IP,1
+185.141.184.154,,c792bd7833bde7124c29c4c582151ae3e92263e6de1ebccc9d72cb8e4afd7e7b,brute_force,Botnet command-and-control beacon every 60 seconds,1
+54.229.197.202,0ypi.net,,command_and_control,,0
+,,c2fae2354482eddddea33c08d06be605,malware,,0
+,n0fy.cn,,malware,Ransomware dropper detected in email attachment,1
+51.81.1.123,rgmhj0.xyz,817db1b60d0946a1fb302d9f2759298b4c3a164cf5aae8d1aa1fdac3b244af9a,data_exfiltration,Drive-by download serving banking trojan,1
+,,6ba34369b5899ba550b32ba8d3dbc84266672bc067f95281c73aa343e4853c5d,command_and_control,,0
+143.85.200.128,,,phishing,Ransomware dropper detected in email attachment,1
+,,,denial_of_service,Botnet command-and-control beacon every 60 seconds,1
+,lk3v8m7w.org,,phishing,,0
+,22ac5iz70.xyz,,phishing,Domain hosting exploit kit distributing malware,1
+,,,brute_force,,0
+152.207.13.235,gnhjbv95inae.ru,,command_and_control,Brute force SSH attempts from this IP,1
+38.31.144.204,,,command_and_control,Credential harvesting page impersonating corporate SSO,1
+102.249.209.95,,,denial_of_service,,0
+172.207.246.143,l7g3g56xfnjbyjrx.cn,9a5226d10260058e8778f075e9cd5a609d8d58ebba2187ed7219a20f995654ea,phishing,Data exfiltration via DNS tunnelling detected,1
+19.23.181.96,cw5sgvce0zfdp9pwbrvn.cc,,phishing,Data exfiltration via DNS tunnelling detected,1
+,2ukk.cc,,brute_force,Data exfiltration via DNS tunnelling detected,1
+,,,malware,,0
+,cuhjq7.top,,other,Drive-by download serving banking trojan,1
+,,,brute_force,,0
+,,,other,,0
+,,,command_and_control,Phishing email targeting employees with fake login page,1
+,,,data_exfiltration,Credential harvesting page impersonating corporate SSO,1
+,,,brute_force,123,0
+143.158.88.158,1sor3o2e7mkpo8i.ru,03dffe7ddb674d553c4bf09d9028a4290ec2b2afe110bf125bd45e2ca91bd299,phishing,Suspicious outbound traffic to known C2 server,1
+,,,denial_of_service,,0
+99.204.129.249,alwlmig5ch6fd1.cn,,phishing,Brute force SSH attempts from this IP,1
+181.87.26.90,,,brute_force,Phishing email targeting employees with fake login page,1
+211.47.54.126,,,ransomware,Data exfiltration via DNS tunnelling detected,1
+80.249.102.111,n7j2qvte9xtk.top,,malware,Ransomware dropper detected in email attachment,1
+,kvpddoeiz4vj.org,,other,,0
+208.14.97.110,,,brute_force,,0
+,,,command_and_control,test,0
+189.16.172.83,,8e923fa6d3cea0fccb4df11d7ce5693463217b89a6ba68062d700c30f4623a7a,malware,Domain hosting exploit kit distributing malware,1
+183.236.51.167,p6s197a7cjg.xyz,0f5555136cc895cbeb2e1d393392b99ad72db49ee333769de74214eb6138be08,other,Ransomware dropper detected in email attachment,1
+127.188.226.217,,48e51f15312990e1a160f32d546cd5a59a4c77ebee4848311c01fa7a9c25e16f,other,Domain hosting exploit kit distributing malware,1
+2.203.25.147,kbs3f2nwdrfmz8jbmz.tk,17be0c4b783005d6f271f16e55fc39fce4e00db50f39338499661d297928db86,malware,Domain hosting exploit kit distributing malware,1
+,,,command_and_control,,0
+,,,denial_of_service,ignore this,0
+,,,phishing,,0
+,oq1p02mp4i1f483i2.net,,malware,just checking,0
+66.54.125.51,6vkly6s1huzd5t99i.top,,ransomware,Phishing email targeting employees with fake login page,1
+204.14.129.47,,b3f1fd6a64d2966776301074035b921d,command_and_control,Ransomware dropper detected in email attachment,1
+,yobmrxpzo.cc,,other,Botnet command-and-control beacon every 60 seconds,1
+225.17.104.156,sxtiftb9crtk81ko.cn,,malware,Malicious macro in Office document,1
+,hkwds1hphhqfrbsnhn.edu,,command_and_control,,0
+,,cfeb83ba6b80ea70c88a3743f0d56ccf,other,,0
+,,,brute_force,,0
+67.221.16.220,,,malware,Drive-by download serving banking trojan,1
+83.62.196.152,,2d8360ecad9bb9819214f23cd0f03d9b623eedf57588a0e8a594cc274211c5a6,data_exfiltration,Suspicious outbound traffic to known C2 server,1
+,,,ransomware,hello world,0
+,cevd8kscnwu56.cc,,brute_force,Botnet command-and-control beacon every 60 seconds,1
+112.142.7.120,,,phishing,Suspicious outbound traffic to known C2 server,1
+,,,command_and_control,ignore this,0
+,wmyj.tk,,ransomware,Data exfiltration via DNS tunnelling detected,1
+,,,data_exfiltration,,0
+217.198.156.220,,9609886221ab1ee01416951720d92ad53a938a2142288bf92f1670199a5da9cc,malware,,1
+,,adfa2531b007a826c66710013a65d483ce53211d549bcfbb0525207c682a6e70,ransomware,Credential harvesting page impersonating corporate SSO,1
+123.211.42.74,19x6756nndpol3db1vhk.cn,0152b2aa03db2b36fa5d9e2cf30944d1bcb919243d27319dd2afbebfe3531591,data_exfiltration,,1
+,,,phishing,n/a,0
+41.53.161.101,qbzwxugd.top,ae22a53c2461f1dbfd78cfe96d13a75d37147bd42df84698a0696981df1fa546,data_exfiltration,Credential harvesting page impersonating corporate SSO,1
+,qwueex0.net,,other,,0
+,,,brute_force,Malicious macro in Office document,1
+,ra5y01.ru,,denial_of_service,Credential harvesting page impersonating corporate SSO,1
+192.85.137.84,2q7yndej6hh7yn.ru,1fc224eb718a8ee526848360e69d6bdb0cc67d8787c08762f91d0eca376af6ed,other,Suspicious outbound traffic to known C2 server,1
+17.38.246.75,,,denial_of_service,unknown,0
+,,,other,n/a,0
+,,,malware,Domain hosting exploit kit distributing malware,1
+221.254.121.149,,,other,Domain hosting exploit kit distributing malware,1
+,,,command_and_control,,0
+102.226.236.104,,,brute_force,Brute force SSH attempts from this IP,1
+79.173.240.131,c8lfqv.tk,,brute_force,Botnet command-and-control beacon every 60 seconds,1
+,,,ransomware,Botnet command-and-control beacon every 60 seconds,1
+120.24.76.29,,bca0e8d81d2b91553a17aab23dc0f6e4,denial_of_service,Domain hosting exploit kit distributing malware,1
+181.165.114.164,oxqd1cgmnyqbc6b4p.cc,,malware,Suspicious outbound traffic to known C2 server,1
+248.159.236.242,3jgtskkea.ru,b32c2f3e51ef47673f8cd6e77e9983d0bab7e57611fff4945979df18e5061d29,other,Phishing email targeting employees with fake login page,1
+,4nh6gqne686dw3.ru,a34c6d917e9a09c3b62b059fded8dd8f3aeb6e9d4eeada94c6af5cc4755b3e80,other,,1
+106.218.204.212,,,other,,0
+108.31.82.154,24n7.tk,ea09cf159b2c237b6a8e828604e2d5857808d8feecc314504936471f12bac7f7,phishing,Credential harvesting page impersonating corporate SSO,1
+39.20.48.181,,,data_exfiltration,Credential harvesting page impersonating corporate SSO,1
+,,76d81a02a426f909ab43c31c176fab5ef14f8ec28d4d2d1cc230a9be41825085,data_exfiltration,,1
+,rx5qfar.xyz,,data_exfiltration,Domain hosting exploit kit distributing malware,1
+,cogmsefduqhxn3yrndp.gov,,denial_of_service,,0
+,,,other,unknown,0
+217.88.210.253,,7e83801b7cef8460d33d5864641860afb2d396066dc29ae83047f07032bc1f2a,phishing,Malicious macro in Office document,1
+223.247.21.60,,,denial_of_service,,0
+245.217.42.107,up58g7ya.cn,b33694951f4ada054de69dcadafdfc08,denial_of_service,Data exfiltration via DNS tunnelling detected,1
+179.20.241.26,,,denial_of_service,Data exfiltration via DNS tunnelling detected,1
+,,1d9b14750e988942a791baa8ccc0949b,data_exfiltration,,0
+,,,command_and_control,just checking,0
+,,,phishing,,0
+,0nlsliwvj7j5rtu0gmp.tk,,other,,1
+,,,other,,0
+,184uuazomi.org,,ransomware,,0
+157.94.122.91,hyt1kukf1e3j.buzz,095bef87a1eaf2bce4219eb404dd86a8fb989246efeb6bddaef0139f266a9e29,command_and_control,Botnet command-and-control beacon every 60 seconds,1
+,1ja8627cc27rcm.org,,phishing,,0
+,aan07v099clqhc.top,632842d0e17f5d7af75cc1fdebc7f3d0,data_exfiltration,Malicious macro in Office document,1
+229.250.81.73,r2bp99l97jtqzjuy3e.buzz,93fdf6156cf88c7302dd0efa6e5688f4,data_exfiltration,Credential harvesting page impersonating corporate SSO,1
+1.222.37.169,wcar1dw.tk,,command_and_control,Domain hosting exploit kit distributing malware,1
+252.89.12.238,,,ransomware,,0
+,,,malware,123,0
+,,,ransomware,,0
+167.221.33.237,5hde.buzz,71a3aa9e2a4cd2165a980fd2f4c7d0a2d68c04dbca4098103df215203c62bd3b,other,Malicious macro in Office document,1
+,,,malware,,1
+129.46.124.7,,b369ac72496857be4f973db141c3135f,phishing,Phishing email targeting employees with fake login page,1
+,mhw85inhrf2md54n8jfa.buzz,1e23367a4e78e1f774157384d3dea7cd,other,Brute force SSH attempts from this IP,1
+121.13.74.150,,,other,Credential harvesting page impersonating corporate SSO,1
+97.227.190.58,,d6ec4573ebb831d142723b63c58bb4c4bc1d70f7dcd2c27e810f430d8700d218,data_exfiltration,Botnet command-and-control beacon every 60 seconds,1
+121.31.129.180,87ssz.xyz,,other,Brute force SSH attempts from this IP,1
+,d4v9n6tdqulj2ed.xyz,61d4fd653a363a7fb4a833f4943d182f,other,Suspicious outbound traffic to known C2 server,1
+,5rswfxlbc3lrqpb8sh.tk,bb5e5408fd30cf4e15d7b927471efec8,malware,Drive-by download serving banking trojan,1
+,y32kwqkf5on.cn,917727199230de6a36b19b160b2161db63e927b6a24521999580a102deb478e9,denial_of_service,Brute force SSH attempts from this IP,1
+159.101.70.39,,,brute_force,,0
+181.238.235.141,6s33b2lcf.cn,230bc4781de0644c6e517217bb1252b038096ef494bcf8dd06385dbfbd9b320f,data_exfiltration,Botnet command-and-control beacon every 60 seconds,1
+120.48.64.51,3lpqh1xt7c1qtw.top,,malware,Ransomware dropper detected in email attachment,1
+153.96.42.134,,,malware,n/a,0
+,,,command_and_control,Domain hosting exploit kit distributing malware,1
+,7wj4nmkr3jgtpdkdjpx.cn,,denial_of_service,Malicious macro in Office document,1
+167.167.106.56,,,data_exfiltration,Domain hosting exploit kit distributing malware,1
+,,,denial_of_service,,0
+228.6.67.27,,,denial_of_service,Phishing email targeting employees with fake login page,1
+226.108.218.158,,5152e99b4b8cf7516cd15cdb4ce7c2a8b08de6ce3b0d880c93b87a8054d9aa22,denial_of_service,Malicious macro in Office document,1
+,,,denial_of_service,asdf,0
+220.185.109.199,,,other,,0
+45.133.192.108,8loye.xyz,615df6fc0b61c21fd8032812c3027db2c0eb4beadf4b06bae16d6439393f142b,ransomware,Credential harvesting page impersonating corporate SSO,1
+,,,command_and_control,,0
+,86biofssd488cn.com,,ransomware,,0
+,kdawgce6ys4.ru,44ff1367bc080a64ae75f0d40e72eb70,other,Drive-by download serving banking trojan,1
+,3rdw5os4u.top,,denial_of_service,Data exfiltration via DNS tunnelling detected,1
+,,,other,unknown,0
+218.31.62.78,,1fd499e7d579941b8c5975f2aeb0e11dfea16f0f3057952dd8d3e6250bfd82bf,malware,Ransomware dropper detected in email attachment,1
+,vq27ouaml3g.cc,,denial_of_service,Domain hosting exploit kit distributing malware,1
+79.121.148.176,7ysdiw8g7144nt.xyz,,ransomware,Data exfiltration via DNS tunnelling detected,1
+73.40.1.92,y8n8k5xoixdvc76.buzz,7a4dec95a3faf1bdcc75dcc72d3d4497,denial_of_service,Phishing email targeting employees with fake login page,1
+,,,brute_force,unknown,0
+81.67.157.118,,,brute_force,Data exfiltration via DNS tunnelling detected,1
+169.246.55.112,qi29z1s10vjdg2tdkpu5.cc,,phishing,Domain hosting exploit kit distributing malware,1
+,,,brute_force,Phishing email targeting employees with fake login page,1
+40.7.78.60,0ha9o35nnay.tk,,data_exfiltration,Phishing email targeting employees with fake login page,1
+220.10.41.95,,,brute_force,,0
+,9epk2v1oz.tk,e7b177fe3a8662268368e8df7e42f4cc2b92b1c3ec7e2eab8c4a0f91e7aaf833,phishing,Data exfiltration via DNS tunnelling detected,1
+,,,phishing,,0
+106.4.80.186,hzj8xreusk.top,,data_exfiltration,Domain hosting exploit kit distributing malware,1
+13.64.50.202,,e581961d65eca3d2f3a0120c5b02b08d,ransomware,n/a,0
+,,,brute_force,,0
+,,,command_and_control,unknown,0
+160.213.240.7,nyfmm.cc,e8449dd9dd554e08ca3fe0aadd2b7244dee80a6886500adafbd32547195f5cee,data_exfiltration,Domain hosting exploit kit distributing malware,1
+168.247.195.3,,,denial_of_service,,1
+,,6fe0c9e28e699ff1a2fb24a5428e56aa15290b2e7150e05f970df4c7d7943dd0,data_exfiltration,Ransomware dropper detected in email attachment,1
+,,b077cec8260d8de07d3e0271479d7f1c,data_exfiltration,Brute force SSH attempts from this IP,1
+72.187.185.211,ruwdfdxm5.xyz,,phishing,Data exfiltration via DNS tunnelling detected,1
+98.208.195.56,,,data_exfiltration,Suspicious outbound traffic to known C2 server,1
+,,,command_and_control,,0
+,,,malware,test,0
+,73xz.edu,87291e65e991754297932f45c5e7d989192a31acbed6ca450726e31cfff044f6,denial_of_service,,0
+253.232.119.149,,,data_exfiltration,Phishing email targeting employees with fake login page,1
+40.124.129.63,ew5httm2s1s9obut4xu.top,,other,Credential harvesting page impersonating corporate SSO,1
+40.251.52.39,,,malware,,0
+23.165.244.252,zx7sj0eu74cn3v.ru,2201b757fae091a4563ea1e8174bce39,command_and_control,Malicious macro in Office document,1
+23.69.29.83,3uy057gvcaosn0te592h.tk,,command_and_control,Credential harvesting page impersonating corporate SSO,1
+,,,denial_of_service,Brute force SSH attempts from this IP,1
+,tw9bs79qys54q.tk,7dd72e6953ad919127ab47b6002c724b03eba5fc5018cbd8ed0554311d7886b0,data_exfiltration,Data exfiltration via DNS tunnelling detected,1
+21.123.43.166,7h2d70uco8yg262r.top,,malware,Phishing email targeting employees with fake login page,1
+,,921cc026bdbc13a667858115ba20e73a75cfa63923713a19430b4994c02c4f79,denial_of_service,,0
+,,,phishing,,0
+242.209.140.239,drpc2brdpznamou.top,,ransomware,,1
+201.179.71.242,ffgmxr.cn,fa191a868323add03ba47a6d57632044,denial_of_service,Malicious macro in Office document,1
+94.170.168.7,u4uotynq6l6fvrg02ez.ru,,phishing,Ransomware dropper detected in email attachment,1
+228.162.157.91,,c3968c75b99aa560837cb17ca0b0c523,denial_of_service,Drive-by download serving banking trojan,1
+172.69.92.158,8gnjuqzq6ci7j9thq.xyz,7affeb96db31c1db2cd0dd7e1ced9046,brute_force,Domain hosting exploit kit distributing malware,1
+,l2vby.xyz,59b862239cf6ad7e782285ea5a5dfdba3c2fa7654a9fffd2d3b3880f46410cf9,other,Malicious macro in Office document,1
+3.195.33.164,jaqu4wfz8wmezk5v.top,bf648bc90653eaa54b1a272542c283f4,denial_of_service,Brute force SSH attempts from this IP,1
+,,db3809a27f57d6decb2f213b1498429c8ebcd3444e99f19a83f95518016a8514,phishing,asdf,0
+,,78126571f61a4c82edecdaaf3d75b55f,phishing,ignore this,0
+,,,malware,,0
+52.7.172.136,,,malware,123,0
+,,,other,ignore this,0
+,vvvtco6h1z43ebsfrv.xyz,,denial_of_service,Data exfiltration via DNS tunnelling detected,1
+120.223.200.237,pay5g.ru,,phishing,Credential harvesting page impersonating corporate SSO,1
+,,,data_exfiltration,,0
+,,,malware,,0
+,,,denial_of_service,Brute force SSH attempts from this IP,1
+96.133.223.48,6tg1zvgxg7.org,bb1439ba79beb0d372b0596c43462c21,ransomware,,0
+,,,brute_force,unknown,0
+,erkb0tqhk964wpx.top,,malware,Domain hosting exploit kit distributing malware,1
+227.238.62.109,,,denial_of_service,123,0
+25.106.115.34,oqvi9c4r57.cn,936676ee37c6090ab8371567a01b829989a8db31391aff67904e72e8234c8436,denial_of_service,Phishing email targeting employees with fake login page,1
+239.218.120.71,rx9n7bfseloh8n.cn,a5e6f4bcb025487c9f13a55517b0ed931e32899433e72a4bc1faf8c298d01774,denial_of_service,Suspicious outbound traffic to known C2 server,1
+105.151.169.101,jlvgrnakl66siz.gov,,brute_force,test,0
+,,4fc9de245182a28b93115f17db63bef74f937a0a27ddf460eb1b9577c4985a7a,brute_force,Phishing email targeting employees with fake login page,1
+,y0ox1dpcti3rp27.top,026866876691f23f424f4eb4827809b6,ransomware,Ransomware dropper detected in email attachment,1
+107.7.51.147,9tkdt7cpjcn2o58t3j.ru,510971203c4fada1764541a9c14e2dc679591768c5c2a030091d327ded270e4f,data_exfiltration,,1
+,,,other,,0
+71.46.254.80,azkj9z9ns1g84tmna6.buzz,d11953366f6e2e41daa2c112944b4183,command_and_control,Credential harvesting page impersonating corporate SSO,1
+,,c05096f19a4c32bb5e48a3735ad914c5,command_and_control,,0
+,,,phishing,,0
+143.99.141.186,4akv6sdf.cn,,brute_force,Phishing email targeting employees with fake login page,1
+170.41.11.115,52p26c25ky4g34.ru,,phishing,Ransomware dropper detected in email attachment,1
+,mer9p0sly0.xyz,,data_exfiltration,Malicious macro in Office document,1
+65.66.225.225,,,ransomware,,0
+2.230.79.142,,,data_exfiltration,Data exfiltration via DNS tunnelling detected,1
+,pquhex6.ru,d7d5d34c18080240e23926cb627ab52600b56ba46f7e6d25acd62cbc94bb54d6,denial_of_service,,1
+,giikv2tuyetdzziiw.edu,,other,,0
+226.27.122.119,,8d2aebb6ce75f784c099dc5e4187f555,data_exfiltration,Domain hosting exploit kit distributing malware,1
+83.165.94.210,,,ransomware,,0
+,,,command_and_control,,0
+66.198.236.170,5j5bpv5wrv.xyz,8d18bca28ffb23c6e5650f5257bc7bc7ccfb459e005b935f4be47bd7befe3c62,command_and_control,Data exfiltration via DNS tunnelling detected,1
+,,,ransomware,,0
+179.30.220.179,2gpzpj.xyz,,malware,,1
+,,,command_and_control,,0
+10.191.143.201,,1cb657e2eb139e64fc91b59d0e9a7399205ae3ba99087a3915b205f44c2e1618,denial_of_service,Data exfiltration via DNS tunnelling detected,1
+195.182.82.194,,4b19827ec32d191b4be88a7b25daa5e0,malware,Botnet command-and-control beacon every 60 seconds,1
+167.141.160.240,,,phishing,just checking,0
+72.119.87.56,715w0wpn.buzz,,denial_of_service,Drive-by download serving banking trojan,1
+,,,ransomware,asdf,0
+121.242.174.241,8uudyubc.ru,96daee7eaa588da70d578f1f6f56aaf587d2fea9a04fae27d27430409094cbb0,other,Malicious macro in Office document,1
+,km23diyi1fuf.top,,ransomware,Suspicious outbound traffic to known C2 server,1
+228.20.245.11,,,command_and_control,,0
+119.24.46.118,99ha5or7l77hr5jicg49.cn,,malware,Ransomware dropper detected in email attachment,1
+,,,ransomware,ignore this,0
+,,,denial_of_service,123,0
+,,dcbe5edb203fe1aa3773b87d3d77bbff,ransomware,Ransomware dropper detected in email attachment,1
+,,5d4139324678b527ed5058312967e692,ransomware,just checking,0
+32.244.144.9,,,data_exfiltration,123,0
+,,,brute_force,Data exfiltration via DNS tunnelling detected,1
+44.135.211.227,,,denial_of_service,ignore this,0
+8.128.227.14,,,other,Brute force SSH attempts from this IP,1
+,,,brute_force,,0
+126.162.147.149,c1o8rsxkuv1.cn,bfcb41135d0499e9bb9d98d110110ef9639ad76c76e6e0c1e77e5829e060b7b3,brute_force,Data exfiltration via DNS tunnelling detected,1
+223.208.217.144,,1758ab22c49abb19ad17df626265624fbefe8d37e68e9b7372705f62acc36529,other,Botnet command-and-control beacon every 60 seconds,1
+177.173.83.202,,443ac3fb5b5d00840339fcd4ca66f50f,command_and_control,Malicious macro in Office document,1
+124.3.151.85,sit71nohwh.cn,596e68341d0a27dee798d071af7fbdfc70448aea428cceedeac97043ffd178b2,brute_force,Data exfiltration via DNS tunnelling detected,1
+138.185.45.241,,7bbb989d703c10d537c6eb6b2e2e0ac9,phishing,Drive-by download serving banking trojan,1
+31.160.24.187,,a8c8103d3708bc2ded4678ad91229a43,data_exfiltration,Botnet command-and-control beacon every 60 seconds,1
+19.231.72.18,s4a3h7jxbz.ru,b1e461bfe9bb2c5b8462e8aa0181ef8796aac4ba8f314ec117f18fddc068075c,phishing,Drive-by download serving banking trojan,1
+188.13.129.152,,04647fc7216b5d0e259cdc79dd01dec3,brute_force,Domain hosting exploit kit distributing malware,1
+,cbk3.gov,57cf11860ccb76bf5f67552a31644a83c4340a08167a20e92f8d47d78aaa8680,ransomware,,0
+,,,command_and_control,not sure,0
+,,,command_and_control,,1
+16.221.128.133,3b9fz5itmlp92.xyz,d02a0520d49572e0a8c51c4015808f96,other,Data exfiltration via DNS tunnelling detected,1
+120.22.129.59,podkbao6ujok18a1q.xyz,162c08a1533c341c9e8fdde5f0f883b8378973f18a53fde55f42d7b145c66d7b,denial_of_service,Drive-by download serving banking trojan,1
+121.197.228.167,,,data_exfiltration,Botnet command-and-control beacon every 60 seconds,1
+18.195.9.217,,,ransomware,hello world,0
+62.171.77.152,l8vdkuiqv1pr.cc,,ransomware,Phishing email targeting employees with fake login page,1
+55.40.217.51,,01d01fb965c7de95f0608c67231facff9832dd2a3f0e65e85d75607b172221be,command_and_control,Suspicious outbound traffic to known C2 server,1
+,,,malware,,0
+186.134.192.244,,,brute_force,123,0
+,rhbza5.gov,c6d3e5dd859e5aa18d7dcae6064c7e43bb9d04465dd7cc86c6f5df6bdb344e00,command_and_control,,0
+73.114.44.212,,0c89d965d1ca04ae5b697386e9c16d9f88a308098a4f8971b2ce8a8d3ff35db8,brute_force,Suspicious outbound traffic to known C2 server,1
+160.24.23.251,6i8zw4j9l66.xyz,17b0b4f0f0a03fd867b97622531f415496cb7363d1248f3c4027f3d8de784c39,malware,Brute force SSH attempts from this IP,1
+,,ca8113b71e818e5f0b3bbbe52e5cdceb782d8fbab8fc57201baa620d54f576ee,brute_force,Brute force SSH attempts from this IP,1
+240.107.47.10,bc8f69j4asfj2b5y.tk,,data_exfiltration,Drive-by download serving banking trojan,1
+,,2fc622a9eb80c3f6c0810e393604521e88b3ceacbb8be36a3e2d0e19c424174a,brute_force,,0
+,,,other,Malicious macro in Office document,1
+,,,phishing,hello world,0
+,,,ransomware,n/a,0
+71.104.252.250,cod66sj26dhxcu6e0n.cn,a38b80c6c3e0364eea0bd34fa0fd5ccac73d56be9f92e242f5cc8ac2477af230,other,Data exfiltration via DNS tunnelling detected,1
+,,efb4ebb319d22cffe342ed373f8df399d9cda3bc434ff958bd4df1ce7c2067b7,ransomware,Botnet command-and-control beacon every 60 seconds,1
+224.147.49.165,,,brute_force,,1
+,bugny7wxwfcorvdgm.cn,,phishing,Botnet command-and-control beacon every 60 seconds,1
+37.203.178.217,84ytkagoscpi60.cc,,command_and_control,Drive-by download serving banking trojan,1
+,,,other,,0
+66.65.31.213,o1gfiyyuk2rdj0iaq.tk,c0bbc72c6f6630c11c3129165e021722dae93d4d4c6f3fe2416104e6dd81d16b,ransomware,,1
+7.235.245.130,v0z8xvwutvx.xyz,,phishing,Data exfiltration via DNS tunnelling detected,1
+214.139.229.206,2dc6.cn,,ransomware,Domain hosting exploit kit distributing malware,1
+,ar04.org,3a6b033a85ac271c8254c37cd3a88fcd96b9ca9f47c92d9e7b3907338c657b51,denial_of_service,,0
+135.120.159.20,aeb1y5mxdp2k8x6.xyz,78e3a5b1b10e1a4a62b26fb7a58ba041,brute_force,Ransomware dropper detected in email attachment,1
+225.29.1.247,,,phishing,Ransomware dropper detected in email attachment,1
+40.119.97.206,,,malware,Data exfiltration via DNS tunnelling detected,1
+198.100.200.79,,,ransomware,,0
+216.74.18.122,,,denial_of_service,Malicious macro in Office document,1
+225.70.161.55,1z90gckf280680ghbh.com,,denial_of_service,just checking,0
+2.166.58.71,fendz5.buzz,47efb28f547c2e07643008459f0bc5d2,command_and_control,Ransomware dropper detected in email attachment,1
+47.20.122.184,tgul9e.tk,620841bfa1f2054215e4c2fe3cc8f208,phishing,Data exfiltration via DNS tunnelling detected,1
+31.175.190.184,,,ransomware,n/a,0
+40.234.71.230,,,brute_force,Botnet command-and-control beacon every 60 seconds,1
+75.235.110.188,2d9s4mdxqj48x7.tk,,ransomware,Brute force SSH attempts from this IP,1
+74.122.110.207,,,other,Phishing email targeting employees with fake login page,1
+,,,phishing,not sure,0
+202.16.28.100,tzpc1zhme78k6dc360.tk,,other,Data exfiltration via DNS tunnelling detected,1
+119.10.101.94,,,data_exfiltration,not sure,0
+,b28to0.cn,,other,Domain hosting exploit kit distributing malware,1
+,,,command_and_control,,0
+,aqtxq1e6hsj2lk.cc,,command_and_control,Malicious macro in Office document,1
+30.121.60.230,04ancegq.cc,ceb03dfde78e502e279ed39f936dd9bb,ransomware,Data exfiltration via DNS tunnelling detected,1
+208.116.138.86,143a5x0di9scwy1i3xc6.cc,6aaaa42518386ff3c04f4852c0e79453a45c29a2ef424f3e8011ca44cc5ca546,brute_force,Data exfiltration via DNS tunnelling detected,1
+,cuki34gae9ft.cn,,command_and_control,Brute force SSH attempts from this IP,1
+186.99.180.147,,,command_and_control,,0
+142.247.204.221,,,other,n/a,0
+101.164.196.98,fmey.cc,,malware,Drive-by download serving banking trojan,1
+,,,denial_of_service,not sure,0
+,,8cd8e7abd3350eae8f07832dc3b104cb,denial_of_service,,0
+,,18c8085256a992470dc48a0296f2e461,other,Data exfiltration via DNS tunnelling detected,1
+156.27.95.24,un2j9d.top,,brute_force,Phishing email targeting employees with fake login page,1
+160.196.224.85,9cdw5oj6k0ngbh.buzz,43d35035bb92c64808a9af0980dd9f42928b2d07052503fdc9c31a3930b76f90,ransomware,Credential harvesting page impersonating corporate SSO,1
+17.151.90.162,rsjn2445tksfe3g5ft.ru,5a4967a81d1bac3b1434a39e35e643f6345acde7e8e689bd8c11d3a24d58b0f9,other,Ransomware dropper detected in email attachment,1
+236.31.99.245,,,other,Botnet command-and-control beacon every 60 seconds,1
+218.226.134.124,em6c5nenss.top,,phishing,Ransomware dropper detected in email attachment,1
+,1tcn3oykyfkj7tn.cn,,phishing,Domain hosting exploit kit distributing malware,1
+59.233.218.70,sowf0e4yndhdvyqg.top,f8c7a6138628bf3015ec770e3f0444d7,data_exfiltration,Phishing email targeting employees with fake login page,1
+,4u8193zgqa.buzz,,denial_of_service,Data exfiltration via DNS tunnelling detected,1
+,i1ggbgdl77.org,,phishing,,0
+,,ca4a8f1d70b2646f239009d21900f3499f27dea77005587182b417a9f873ee4e,denial_of_service,Botnet command-and-control beacon every 60 seconds,1
+156.11.108.83,,,denial_of_service,,0
+221.73.173.81,,6965afbe1d864e694a5ddaebd58c5c0a65ab82f0939e1156ff0beaeff97ff666,denial_of_service,Credential harvesting page impersonating corporate SSO,1
+185.105.234.219,,,command_and_control,,0
+9.34.39.183,ofikp7wnuvkm.xyz,0ff4be6a5de135cd6b19fb6278b20163b861c7c535d46aafc00bbde5ff2b9bcd,data_exfiltration,,1
+65.253.177.74,36phb07d.xyz,,phishing,Brute force SSH attempts from this IP,1
+,y520yy85q4wvvj.org,,brute_force,test,0
+31.178.249.230,qmpomuypi76d.cc,,brute_force,Domain hosting exploit kit distributing malware,1
+,1m2x.ru,,denial_of_service,Suspicious outbound traffic to known C2 server,1
+8.236.10.93,z7wdl0wot2.top,fa05a836656f6229420a45ceaf279db9,ransomware,Data exfiltration via DNS tunnelling detected,1
+,,,denial_of_service,asdf,0
+113.67.8.237,,,brute_force,,0
+153.162.83.250,,f7dd4d4583a79f3bb74f87eb18fa33385dd83073f33029a59a5fe9916e423482,phishing,Domain hosting exploit kit distributing malware,1
+148.184.97.245,gtagnzeip2ez7ptsp.cn,6677e841f2621127aeb8178bff396086aa47f6313e519e93a689d58caa55bd83,ransomware,Domain hosting exploit kit distributing malware,1
+,,605b75d3902e8598ac6d1ae301970a74d8de3a54f61f9a6ea61790ce32ea2faa,denial_of_service,Phishing email targeting employees with fake login page,1
+12.185.86.245,6jef1vbz5awa4ol8.buzz,,brute_force,Botnet command-and-control beacon every 60 seconds,1
+183.207.67.32,jmokwm8lbo0nwlvrd5j1.cc,6c76f85a711edfa9b542167b6bd305850fc8b2bcc7374411256c64443eaa5549,data_exfiltration,,1
+,,,malware,123,0
+206.75.227.54,,,data_exfiltration,asdf,0
+,fzp3d03js7roa53.top,d7da5e388b0012bd4828336cece4a1511ab099fc15534e71b1223bc763fb138b,ransomware,Domain hosting exploit kit distributing malware,1
+,1lys.gov,,brute_force,,0
+,c5z4ygjjeydw3rlzr87.net,,command_and_control,not sure,0
+80.10.57.59,,008185455575b20b5d58f68f7f21d5f30bf1d021c54e0a0287b260b87ec0ca83,malware,Domain hosting exploit kit distributing malware,1
+29.52.132.38,,,malware,Ransomware dropper detected in email attachment,1
+,,,brute_force,,0
+163.68.57.173,,9e358442bbdf3f5262285a0307adeecb,other,not sure,0
+246.138.209.171,,,brute_force,Botnet command-and-control beacon every 60 seconds,1
+,,75f0b1f896f8a3ec341b9a4237b0f257,denial_of_service,Suspicious outbound traffic to known C2 server,1
+,,,malware,test,0
+216.137.222.53,,,ransomware,Botnet command-and-control beacon every 60 seconds,1
+181.153.98.40,i1fdm27jp1ma02svr5.xyz,4bbf3b62de135831a164659c14674562,data_exfiltration,Botnet command-and-control beacon every 60 seconds,1
+147.246.149.243,,5c4f76fad307dff3767d2fe9c4cdddfc27b92c7f82e1c2882f4eabde288cb45c,denial_of_service,Credential harvesting page impersonating corporate SSO,1
+,fwjvpi3arfq0nnf.org,,malware,,0
+59.104.32.69,zrmr.tk,aac2be4a1d6a913ce30441884688faf1d55b70463b4133bf98a8e4bf2e1b6b4c,malware,Domain hosting exploit kit distributing malware,1
+43.75.87.192,,,phishing,Data exfiltration via DNS tunnelling detected,1
+,,,command_and_control,ignore this,0
+107.22.233.132,93mnamd.ru,25962b060783f43efa2b75a3ae280437793ee784ffda17fd8798cc04b99e900a,denial_of_service,Credential harvesting page impersonating corporate SSO,1
+70.146.115.113,9wdsjjm60r.tk,b9efd671de3577ec8a18c823538e2381,malware,Data exfiltration via DNS tunnelling detected,1
+11.247.158.117,v6al52f5w5y4esjkv4w.com,,denial_of_service,,0
+239.60.38.80,,88a695578347d186c570b01be5d65915d3691d59dacf6d29ab5ed4fd265babf0,data_exfiltration,Malicious macro in Office document,1
+,,39fa7c8c4ded9369750406acd774287e9b7b64fe094780129bce774d02fc5050,data_exfiltration,Ransomware dropper detected in email attachment,1
+227.55.124.224,,3d31e9adba51adb66065f1a84c494755,ransomware,,0
+47.30.236.91,635pis3sd.xyz,5491068694360fab10c5ca106c45a03f,denial_of_service,Brute force SSH attempts from this IP,1
+90.36.177.29,02c3yew5gu.cc,44120c4d84187405844e113d4e96b75d,other,Phishing email targeting employees with fake login page,1
+138.140.12.124,,08773fbf263db0d7346306ad74fe3e2f231703d2ae404f5b23b4af57d1b9388b,ransomware,Ransomware dropper detected in email attachment,1
+,kbtwyrp2owuokpw.edu,,ransomware,,0
+5.90.14.165,,bee790dae73ada38ff4138b9704e85cc,malware,Phishing email targeting employees with fake login page,1
+,,,denial_of_service,just checking,0
+69.116.43.20,orvkcgg9uly1.xyz,,other,Botnet command-and-control beacon every 60 seconds,1
+153.167.131.86,,fdf105565f8daaff375d6e0e162183d460fc3f9708f1568e3a6b795470abc95e,brute_force,Botnet command-and-control beacon every 60 seconds,1
+44.135.148.195,,,brute_force,Domain hosting exploit kit distributing malware,1
+,hu0pmuf2wtc3.edu,,ransomware,,0
+,67fbakk7xrk77vohf2.net,,phishing,,0
+,,f84ab5ce6a41401000952a90845042ce,brute_force,Malicious macro in Office document,1
+,,4cc5c38e98088ad6d95957b85618d786654f6c88058c33d7f1e70776bc272366,other,,0
+,,d9104d311af12c811f226d34406ce7739655aaa1e1afe40447361fad793c6deb,denial_of_service,,0
+188.243.245.171,,2dd7a976bd4c814d1a77808308380617,malware,,0
+,qyf1x95aitt14u.ru,,brute_force,Credential harvesting page impersonating corporate SSO,1
+,mjinrq.cc,,other,,1
+,npkg9f.edu,,command_and_control,,0
+,,,denial_of_service,asdf,0
+170.241.163.105,,,denial_of_service,,0
+190.182.195.97,wisaqwz7o75r.cn,,command_and_control,Data exfiltration via DNS tunnelling detected,1
+239.89.213.138,,,brute_force,Ransomware dropper detected in email attachment,1
+32.133.61.143,,,malware,Suspicious outbound traffic to known C2 server,1
+,3b5icgjyq.cc,0cf1cd57954c133db63886685e6ec05e,denial_of_service,Phishing email targeting employees with fake login page,1
+68.150.173.169,ccssrur4.com,,ransomware,,0
+13.76.219.171,,,data_exfiltration,hello world,0
+,,,denial_of_service,,0
+,ib7d8k.cn,eaf048f0bbd62b4001079b36b2fbbe95,command_and_control,Phishing email targeting employees with fake login page,1
+44.129.213.134,,,brute_force,Brute force SSH attempts from this IP,1
+183.125.206.41,6wx4zarg.cn,,other,Brute force SSH attempts from this IP,1
+,,133ac7f8321d54f84040ec9a62192fec,data_exfiltration,,0
+,qkewsa0hr5h.cn,,command_and_control,Ransomware dropper detected in email attachment,1
+,,,brute_force,Drive-by download serving banking trojan,1
+8.68.234.175,36f3vupdd.cc,,brute_force,Suspicious outbound traffic to known C2 server,1
+138.184.115.112,,c242e34fa811b4e8018bf8746ab7a2c3,command_and_control,Data exfiltration via DNS tunnelling detected,1
+88.43.125.134,,,command_and_control,Credential harvesting page impersonating corporate SSO,1
+203.196.83.135,,a362ec49614e84b87e905f92292d7f22,denial_of_service,Drive-by download serving banking trojan,1
+236.27.124.95,7oxd1tzc5j8tfd1d3h7.ru,,data_exfiltration,,1
+,,,malware,,0
+,,,brute_force,Data exfiltration via DNS tunnelling detected,1
+,,,brute_force,,0
+214.155.185.176,,,malware,Ransomware dropper detected in email attachment,1
+46.1.138.233,,1eac4bc1d0c2935ef99ca2d763c16dbb3c485070aee0683071f1a170e6800bba,command_and_control,Drive-by download serving banking trojan,1
+146.147.103.211,lg45qtq10zbq9pxls.ru,a294c64d744a829b334a2f2f5596b479,phishing,Data exfiltration via DNS tunnelling detected,1
+59.193.115.70,2lk4ag05nzdh5t.cn,,denial_of_service,Malicious macro in Office document,1
+,4o2e3pchm2jt.net,9e5bd9e8eaa4782872d42067b297b2dc,data_exfiltration,,0
+,,,phishing,,0
+247.189.28.186,3mi6gqyav.xyz,a11714ce1ffae4cd51b887fd3d802000,phishing,Suspicious outbound traffic to known C2 server,1
+11.88.89.101,,e30f98dbb78d3adabae829c5de0d0acf3e6923d59ef3f88d60b3f3aea954da21,other,Ransomware dropper detected in email attachment,1
+,,,brute_force,Domain hosting exploit kit distributing malware,1
+25.79.218.197,,,malware,n/a,0
+63.178.121.44,,089936d780138e6bdf820c7847e6d9f0,phishing,,0
+,,,other,,0
+,,,brute_force,Malicious macro in Office document,1
+,,,brute_force,,0
+172.115.169.197,,8b8787fd55c64017ea99e0424c0de7ae,data_exfiltration,,1
+24.115.193.99,,,command_and_control,Phishing email targeting employees with fake login page,1
+44.212.141.205,vzder5qpyg5vd3g.cc,,other,Suspicious outbound traffic to known C2 server,1
+173.192.145.13,,,malware,Drive-by download serving banking trojan,1
+76.236.18.24,npv938xk7ku03ltgbhci.buzz,4c89c6fa58f95eced041922a6751ac2043ceb02972ff39820081478d6e1a3abf,command_and_control,Drive-by download serving banking trojan,1
+,k61fhn4j0m7akz.edu,,command_and_control,,0
+108.193.109.208,,965e82318cdf3049df3a942135482c5c11dc84f9c184f2e0840c5c31b3a78d6e,data_exfiltration,Botnet command-and-control beacon every 60 seconds,1
+243.66.212.81,pxut13xy.ru,,ransomware,Phishing email targeting employees with fake login page,1
+,z4ixeadm5zroqmiviqf.buzz,,phishing,Drive-by download serving banking trojan,1
+,,,malware,Domain hosting exploit kit distributing malware,1
+,6ojsxse15vv7k6p9u.edu,,brute_force,,0
+109.60.121.155,93gqflhqezkx5.cc,,denial_of_service,Drive-by download serving banking trojan,1
+178.121.158.249,,,command_and_control,Credential harvesting page impersonating corporate SSO,1
+38.44.220.150,9xkfid4gw2s9pq.top,4b7c7754ffaa79562a33a9c0371aea1141e63a74dab9c41950bdfce078f2580e,ransomware,Phishing email targeting employees with fake login page,1
+69.181.66.134,,524afebbfce15c47061d25d6a17395ce,data_exfiltration,Drive-by download serving banking trojan,1
+117.9.221.123,hwgo4exnzxpytp56we.buzz,,phishing,Credential harvesting page impersonating corporate SSO,1
+156.35.186.31,ehqhzg8smjppiwvg.cc,,ransomware,Data exfiltration via DNS tunnelling detected,1
+242.235.132.231,wj43anmc2twvh.top,,ransomware,Malicious macro in Office document,1
+173.14.233.140,,,data_exfiltration,,0
+157.143.40.27,,35bdf34becbf350e73c575cdf7173b00e544ea3cefa437355287f76d3ae6956d,data_exfiltration,,0
+,,,denial_of_service,,0
+128.223.111.99,,b6d2882de7fb11b71534b212d2ebe26c3bc6aa4a9ca9b8fcabb13ef639d9fb48,malware,123,0
+210.145.254.182,,2439b634ca5c63f74a2c669fa56c821166bced4b1a6e22a1cb9ccd0f69f60255,other,Domain hosting exploit kit distributing malware,1
+,,,data_exfiltration,Ransomware dropper detected in email attachment,1
+,c9jkao5n7kyr59m9.cn,,command_and_control,Data exfiltration via DNS tunnelling detected,1
+,,e6b3b3a0d8bb2a337ca6cb7c05a8fca7f20384385a14d58c685c9c3c1ee798e1,denial_of_service,,0
+,,,command_and_control,,0
+182.213.129.120,,94fe049e1cd113c54b41fa3ccfbb9389100a6e6b0414094241b5718b425eac8e,ransomware,,1
+171.104.117.24,,9da235ab2c028a1d95c20349a7f6deba47f0f915deaaa24a4d51c6eb604e62c3,ransomware,Brute force SSH attempts from this IP,1
+55.39.6.138,,,malware,Botnet command-and-control beacon every 60 seconds,1
+77.159.37.18,ra1of56q9vkr.xyz,c1fd514caeed8fc7f6f99de1c4de467e,malware,Phishing email targeting employees with fake login page,1
+,,1dbe717321bb9e5e789c93ca1e287e2e7aa44fa63dc26540fcf96d926b405dab,command_and_control,,1
+,tbewt30z.com,,data_exfiltration,,0
+95.189.71.42,rts4616p91fawni.buzz,aa51e2260ccff9941bb26ae6bb8bcf4b,brute_force,,1
+,,20304be9027e167b8fd89c19d0538e8b3177974cb0ce63f9ca6b82d4c33ad913,ransomware,,0
+,,,phishing,,0
+212.4.33.190,iyzh03ufma.org,,command_and_control,,0
+,5iv0idfy1mqkv9b.top,405974afaae73e35ce699c28a8c197c278f8c17accee85cf45abd201b8742aa3,command_and_control,Ransomware dropper detected in email attachment,1
+71.129.91.138,gl4w3solesomt.top,5d2094e14facc974b7ff086c7254aada8e6d4919e3bc8444b9dcdefb703561e9,denial_of_service,Domain hosting exploit kit distributing malware,1
+198.228.249.50,yqst3.edu,,denial_of_service,,0
+,,,denial_of_service,,0
+,,ad63c5da0aca22158ffb7868f3fb94d4,other,Malicious macro in Office document,1
+,,,other,n/a,0
+,,,command_and_control,,0
+,,,denial_of_service,,0
+126.73.35.103,,,data_exfiltration,Botnet command-and-control beacon every 60 seconds,1
+250.144.101.217,agvdf7xt2l9l853.tk,,ransomware,Data exfiltration via DNS tunnelling detected,1
+253.56.74.103,,,data_exfiltration,Botnet command-and-control beacon every 60 seconds,1
+119.52.205.234,,,data_exfiltration,,1
+,,bef5080cc2207ff72b1d3ba6d0b6b4a78a91d183ec5a8d29e03527807f019698,other,hello world,0
+1.48.39.129,,04cc264ee2a296b9ac63a26e33be3218,other,,1
+203.38.100.125,xgc4w97qk4.gov,,other,unknown,0
+20.69.131.124,,,brute_force,,0
+17.158.106.159,hpank.ru,17fd194ef9a05f3894483e2f2a2ad4798b947b71862655d61b92687184ef123c,denial_of_service,Domain hosting exploit kit distributing malware,1
+3.187.72.139,,,brute_force,,0
+,3bcg75a9mn2h9165l2l.xyz,2bdc278ab6b4b898281af568c1069329,phishing,,1
+11.33.80.67,,,other,Ransomware dropper detected in email attachment,1
+,,,other,,0
+90.200.52.24,,,other,,0
+20.176.165.121,rbiahw3nbllw.top,,command_and_control,Botnet command-and-control beacon every 60 seconds,1
+169.173.245.227,,b74932e284e1c6af56ef4fe3b427ee93f48775df9ff4228463024f225777a9b9,malware,Botnet command-and-control beacon every 60 seconds,1
+,,,malware,,0
+,,,other,Credential harvesting page impersonating corporate SSO,1
+,,2b76dc935faa173df2c8b21880e5853dea742f9f5c465c717e7bb5dcdb73eca1,malware,,0
+,,,denial_of_service,unknown,0
+186.48.241.51,jhgb0r7.com,,command_and_control,,0
+114.188.69.80,r40u.cn,d949700b24b6177354285e549dc7805c681c7ee79425f53bc57a69a8469709c9,denial_of_service,Malicious macro in Office document,1
+,18l9.edu,,other,,0
+,,,ransomware,test,0
+247.76.248.10,,,other,Ransomware dropper detected in email attachment,1
+,,,ransomware,,0
+128.105.103.20,rh65pfpjmh3r5thzzqz3.top,01f8be356c113e8877093045e6ab6b25,other,Credential harvesting page impersonating corporate SSO,1
+206.17.112.23,,06f823d8e2374e00b068070a1cb227564db88db6c2b7f9308a8a2b336ec65d58,command_and_control,Data exfiltration via DNS tunnelling detected,1
+212.67.172.15,9u52bg.gov,,command_and_control,,0
+51.60.180.169,fs3tj.cc,,command_and_control,Domain hosting exploit kit distributing malware,1
+159.245.213.90,wf5q8rdhrc.cn,,phishing,Suspicious outbound traffic to known C2 server,1
+,q0wt7ocqely.xyz,30cde54d12041608c6c5aacce755adbf32fda30d9b7781cc88fc37b47f74a562,data_exfiltration,Ransomware dropper detected in email attachment,1
+,,a154603ba27b265051d9fec6ce30c07e,malware,n/a,0
+63.77.179.106,tx03gshiyydgqt.xyz,16a7356f1d009f9f4724b19d061c5293,denial_of_service,Drive-by download serving banking trojan,1
+,,1c90273327d0b79fb71530942a78bea83c505a26b749ce12708bed90083a53e5,phishing,Ransomware dropper detected in email attachment,1
+,,,data_exfiltration,,0
+,o0df.cn,c960547d0a61ac74b4e283e7e3d6acbc,denial_of_service,Domain hosting exploit kit distributing malware,1
+,mmk9o3lm7rte6nve2.buzz,,denial_of_service,Brute force SSH attempts from this IP,1
+208.11.11.33,gafo76lu7nrbnup.buzz,,ransomware,Ransomware dropper detected in email attachment,1
+6.194.57.41,38vq0wu.xyz,ab4cca3d8d76ed43cad2fd81ea2a32b4cf4056bd68256ef07487c1ba7718f907,denial_of_service,Domain hosting exploit kit distributing malware,1
+82.97.80.61,,,brute_force,Malicious macro in Office document,1
+,brvdnncgjxjzu.net,,malware,,0
+116.106.233.111,rnabw11quq1up5.edu,,malware,,0
+,,,other,ignore this,0
+,,,other,Credential harvesting page impersonating corporate SSO,1
+184.64.14.187,cx4lhnsd.buzz,,denial_of_service,Brute force SSH attempts from this IP,1
+,,,phishing,,0
+,,,denial_of_service,just checking,0
+,w8gp7dzvsxd2w4c.tk,adabf6b6594c2bcfccd95d83d798a2e950f4b55f29ca77f6ae66deae6c572a78,ransomware,Credential harvesting page impersonating corporate SSO,1
+223.236.42.224,,,ransomware,Domain hosting exploit kit distributing malware,1
+,,,denial_of_service,,0
+,,,denial_of_service,hello world,0
+,,,data_exfiltration,n/a,0
+,,,malware,,0
+78.237.100.247,mmoxo.buzz,45b4d46c1c11ac800a292cb66207c701afeeb50d897e24ba3f2f91684e589936,other,Phishing email targeting employees with fake login page,1
+223.20.166.2,,,denial_of_service,Ransomware dropper detected in email attachment,1
+,a06oc.edu,fa6871ef466223b3541caa245a1e5b54,other,,0
+167.180.174.55,5f02ja1237irj8m12cs3.tk,08e02dfd35ea9adb5d70dc58536100eb,data_exfiltration,Phishing email targeting employees with fake login page,1
+,,,phishing,Phishing email targeting employees with fake login page,1
+,j8zsr0qk.cc,,phishing,Suspicious outbound traffic to known C2 server,1
+,c5bcvyr4nfc3wxtxebi.ru,db82d046cab3dfa8f28b7cbb07027760,brute_force,,1
+103.70.218.211,r7smgll1qs7rilzu.xyz,992450c1b371c1eb1548e460af010a81030dd162e7d827a6dd29d2515b6f7169,phishing,Drive-by download serving banking trojan,1
+,,ccc4a46d22e74e7e3c224c53100dcb389dda5aeed52d820e0115d62ab5591497,data_exfiltration,,0
+29.248.252.113,v0wbdwrx9cn8q.buzz,7f3316f0f87b03a7ef06a65202db1574c14849fa00cf7c51089eef8dad40541e,phishing,Ransomware dropper detected in email attachment,1
+,3mhcwtp7s82.xyz,,denial_of_service,Suspicious outbound traffic to known C2 server,1
+32.209.159.214,,,command_and_control,Malicious macro in Office document,1
+,o57ddf111j.edu,,other,123,0
+,,30c076f6abb805f64d82084e36fb29cfb4c2bc750fb163732155943291addc52,other,,0
+178.241.134.154,c8z8i.tk,,command_and_control,Domain hosting exploit kit distributing malware,1
+,usyzwer632il6.com,,brute_force,,0
+112.1.41.10,xp88r0.top,,command_and_control,Credential harvesting page impersonating corporate SSO,1
+,sta3aq7zuzm.net,,ransomware,123,0
+196.89.79.47,,8205ee5beec8f05aa173435b32f6a6bc,other,Suspicious outbound traffic to known C2 server,1
+,,3aea5008bb6a4a3dbb6497659935a35a5a98248cb9c1c9d9e054b965b7e18bca,data_exfiltration,,0
+,,92d38d1ac4ea09f37426250e06b6e72f,phishing,Botnet command-and-control beacon every 60 seconds,1
+127.209.23.192,,,brute_force,,0
+220.61.0.208,,,malware,Suspicious outbound traffic to known C2 server,1
+,c4yqk7w9ofi9x.top,,malware,Malicious macro in Office document,1
+47.214.252.56,foi64bhm2.tk,,denial_of_service,Domain hosting exploit kit distributing malware,1
+31.142.82.31,cjd3yg8mbvk7rr6z4lo.cn,,data_exfiltration,Phishing email targeting employees with fake login page,1
+243.235.253.113,mmrgpntbxp81nir.xyz,fa71ae0ee4f2d06e4eefb0d66b1424956d81099e0ef8175908a409404a4872d3,brute_force,Botnet command-and-control beacon every 60 seconds,1
+184.220.52.147,,,malware,Phishing email targeting employees with fake login page,1
+16.113.149.133,qqjot5aeqt.tk,,other,Phishing email targeting employees with fake login page,1
+221.23.241.114,446lago6c2s2t.xyz,,brute_force,Brute force SSH attempts from this IP,1
+,,,brute_force,,0
+,,0c5e84a5e99c21ae347c3dec79596a3f688f394a3cf0d95059c135ae6d5035f2,command_and_control,,0
+191.146.236.38,rrsrbvux9o2g4i.xyz,,ransomware,Phishing email targeting employees with fake login page,1
+168.33.215.190,4sym.buzz,aabf0a63a2382d5b842b94796633c73d74013282cc220e42f49ee8af7b535021,other,Data exfiltration via DNS tunnelling detected,1
+,,,other,Suspicious outbound traffic to known C2 server,1
+42.127.11.124,,,phishing,Botnet command-and-control beacon every 60 seconds,1
+238.88.116.142,,534a8e010c5c8e99f09dddf04dcde9ec9c093c7fd6cbb4a78ed111dfe267477a,command_and_control,Phishing email targeting employees with fake login page,1
+174.91.198.69,c0mlfbk6nh.buzz,,data_exfiltration,Brute force SSH attempts from this IP,1
+118.21.171.77,,,malware,,0
+26.4.251.144,,,ransomware,Phishing email targeting employees with fake login page,1
+25.63.136.78,qfdtzbfy1a.tk,803b793662e4468ef71d5865847967f967fcd417ba1e6825b06fafeb2bcefa46,brute_force,Drive-by download serving banking trojan,1
+,,dc7bb58934b4cb83f6241bc45d2a9ae005db00ae5c629ccdab746684a1d6bd0f,command_and_control,Data exfiltration via DNS tunnelling detected,1
+209.25.125.53,,,command_and_control,,0
+128.126.138.63,,,data_exfiltration,Botnet command-and-control beacon every 60 seconds,1
+156.99.223.233,hwgt9aaszn.top,,ransomware,Data exfiltration via DNS tunnelling detected,1
+,d1v5ki6jsrxoyjc2d.gov,,malware,123,0
+,,,phishing,,0
+,,,malware,,0
+96.47.122.46,,,data_exfiltration,hello world,0
+188.238.217.28,,,ransomware,123,0
+52.215.198.29,s17indzyn6yo.tk,,other,Phishing email targeting employees with fake login page,1
+254.163.211.150,4zhjm2nzwm3zetuq7t.tk,,brute_force,Phishing email targeting employees with fake login page,1
+,,bec9056b43bc60a505eb5dda880ccbf4,ransomware,Malicious macro in Office document,1
+,,,brute_force,test,0
+,,,malware,Malicious macro in Office document,1
+,,,brute_force,,0
+,,,data_exfiltration,,0
+239.95.9.180,fal45ovt5w2be89z7j1.ru,c38eae998811898bb621e65e35b5487f6d875362745195c2a17c41ddac9efaae,data_exfiltration,Drive-by download serving banking trojan,1
+252.235.235.206,3y6p3k0a2smr0ten91ml.top,f7421d1f93c24618a8189c9f09ea008db5c643fb532cf0fc4d91e30b80b593de,brute_force,Domain hosting exploit kit distributing malware,1
+235.76.234.11,uwqwmw1kv4rcdlc.top,,phishing,Suspicious outbound traffic to known C2 server,1
+,,a83391087d0c1007dde7547d685dafa4,denial_of_service,Suspicious outbound traffic to known C2 server,1
+,,,data_exfiltration,Data exfiltration via DNS tunnelling detected,1
+,nh6vhdv0xn2cobos4y.cc,,other,,1
+101.88.21.39,1r88.cc,,command_and_control,Botnet command-and-control beacon every 60 seconds,1
+,,191dbe7b928e807e6dbce9e1430de093,data_exfiltration,,1
+,,,ransomware,,0
+41.46.88.168,,0575abb3aca30a2c9f3d529bbc17c405,phishing,Phishing email targeting employees with fake login page,1
+,,,phishing,,0
+67.14.68.203,,,malware,not sure,0
+253.136.99.126,,02ae72c6380d844160377dd2b91b8f58,malware,unknown,0
+169.102.8.122,ttfxv9os3tgeomy7x39x.ru,b4b7f4d7cefe78e0e1f03b8dcc844bde,phishing,Brute force SSH attempts from this IP,1
+,,,denial_of_service,,0
+,,,denial_of_service,,0
+211.167.239.137,8iv017khyq75f47.xyz,,brute_force,,1
+244.186.135.138,wtjwq2of.xyz,fa6101ff0fc904086fcd857a60f6177517d47973e0aef6d5a6eb90f9d884fe24,data_exfiltration,Credential harvesting page impersonating corporate SSO,1
+219.251.231.84,wn1l.ru,,malware,Credential harvesting page impersonating corporate SSO,1
+,,,command_and_control,,0
+148.197.90.155,,,command_and_control,,0
+,,7fb7610e182ec86c183073942f662b62034e0967e776634862ad7fd9e144ca33,command_and_control,,0
+139.151.25.200,,,data_exfiltration,,0
+,,,denial_of_service,,0
+184.169.80.202,o9ix.buzz,3604cb6c4272a90e9bfc8b8db33d854f7d78795c3ad63d4e8aab23bd31d52217,phishing,Data exfiltration via DNS tunnelling detected,1
+103.140.124.38,,,brute_force,,0
+42.119.17.172,,128e69334929d2e71be51e83a723ffd5,brute_force,Botnet command-and-control beacon every 60 seconds,1
+63.146.34.113,xdnstz4pc17l36.org,,data_exfiltration,hello world,0
+,y6k5enlr6.tk,,malware,Malicious macro in Office document,1
+245.102.34.154,,,denial_of_service,Phishing email targeting employees with fake login page,1
+247.254.73.54,5fbza.ru,da01b1bbd2656dbbf6b6011d09ab09632361fd6a805652f3d999bc70c7c8365a,other,,1
+21.8.196.35,,38da2a5f7a2283e9bd698315790d4b410924ec88e88565d0c089ecd6f602cc7e,phishing,,0
+,,,malware,,0
+230.211.135.68,fw6p.top,8cbf2e353e4de0e4583c7967853b89c14105143b6b227c4d88e3c6100adb0ceb,malware,Botnet command-and-control beacon every 60 seconds,1
+,,,command_and_control,,0
+141.237.34.42,,968ec4d05e15d63efbe3507ea308fd5513f9515642a04639a47c1857aa4d19c4,ransomware,,1
+57.169.38.245,,,other,,1
+,igpcxwmwp.tk,,malware,,1
+253.140.243.91,3o1cbl7a.buzz,,other,Phishing email targeting employees with fake login page,1
+108.252.189.193,,,brute_force,,0
+,rxwjrjyg4sa.cc,3d81291573ed2ccc6b4a97b5df0eb3807e4c762255783581d94ebd827f551b8f,phishing,Phishing email targeting employees with fake login page,1
+138.159.241.187,1ua3ibqvz4h.ru,7c5219548aef9b0ad281a9bfc401b94c,denial_of_service,Credential harvesting page impersonating corporate SSO,1
+9.202.80.231,,,malware,hello world,0
+,,,malware,not sure,0
+194.124.189.121,,d19a9d8329516f23fdb3789c29f46b07741ac5a903fba5b5cdfeb880a7130d92,brute_force,Ransomware dropper detected in email attachment,1
+147.51.36.228,,,other,Domain hosting exploit kit distributing malware,1
+,,212b8297f57306b1d5fcac2503b78043b73d1cf369a72556f9fbb863817d382f,brute_force,,0
+116.239.87.74,,,denial_of_service,Suspicious outbound traffic to known C2 server,1
+171.173.64.64,z5up.buzz,,denial_of_service,,1
+102.120.38.1,plt5vzejbnlnor3.ru,275f99d9c341dcda9b5261abda67a04e,command_and_control,Data exfiltration via DNS tunnelling detected,1
+,,,ransomware,just checking,0
+162.162.219.32,,,brute_force,Suspicious outbound traffic to known C2 server,1
+228.254.38.150,,3356b0c66a6e82d8b457198a2c9b8eae48fbdfce713fbd34e3809522cd1f8820,command_and_control,Suspicious outbound traffic to known C2 server,1
+5.12.225.248,zcigudocqh5xn04xbjdd.ru,,phishing,Drive-by download serving banking trojan,1
+,7hf52pj98yizjni63.cc,,data_exfiltration,Malicious macro in Office document,1
+82.214.39.100,,,other,Data exfiltration via DNS tunnelling detected,1
+87.3.32.186,tjk8w47rx3xquj6beoy.xyz,,malware,,1
+203.81.34.99,nhmdowg234z1p.ru,da621823f79129fd8c4e36d13f7e2407,brute_force,Domain hosting exploit kit distributing malware,1
+47.247.17.197,6a9qtz.top,3f252dd293464a436413a14509a498b2,command_and_control,Credential harvesting page impersonating corporate SSO,1
+,,,phishing,,0
+,,,data_exfiltration,,0
+,,,malware,,0
+,rutoyjvkbdik0j1.top,,phishing,Botnet command-and-control beacon every 60 seconds,1
+,,,brute_force,Phishing email targeting employees with fake login page,1
+,,,denial_of_service,not sure,0
+124.114.196.58,,f6a807bccdfc6f2a43ed8c3012966313,data_exfiltration,Malicious macro in Office document,1
+,,,denial_of_service,,0
+11.86.157.183,gnagn7d0o8l.tk,,denial_of_service,,1
+,,,other,just checking,0
+,v2v8dccswsrhleeuvsl.ru,2334554cc5456352d88263073848957c,other,Ransomware dropper detected in email attachment,1
+,mot51308poe1het.ru,e91ded327d79c919c0ac40d5a36e9c51,phishing,Malicious macro in Office document,1
+39.250.108.208,,be46a083918b353eb9bc247bf7d73344,command_and_control,Brute force SSH attempts from this IP,1
+,nm0pnxi8tbyu.cn,,other,Suspicious outbound traffic to known C2 server,1
+31.195.16.123,,90de0ca960730d3f1afd00aa7642a7fb,phishing,Brute force SSH attempts from this IP,1
+210.84.39.37,,b4cebb2ec91f44900c2a7ec196c23961de3df1fe9267d489957272d43b971d16,other,Drive-by download serving banking trojan,1
+,,,ransomware,,1
+,,,command_and_control,,0
+207.121.101.19,,,ransomware,Botnet command-and-control beacon every 60 seconds,1
+16.4.179.145,,3ca96e98867f69c808694c6fcb70bb92,data_exfiltration,Credential harvesting page impersonating corporate SSO,1
+152.206.19.59,,,brute_force,Phishing email targeting employees with fake login page,1
+,wsvqyra1yaqekt.com,,phishing,test,0
+,,,denial_of_service,Ransomware dropper detected in email attachment,1
+74.170.104.7,2zgcixc85uenb3l9e7r.cn,,malware,Domain hosting exploit kit distributing malware,1
+59.145.220.3,,5bcb7dbaebdf141582c014aa033714f019f4bd03c35b657d5d7e3fcad3f536bd,malware,,0
+135.249.228.205,pw89i5de1fgnh.ru,b5c281d1dea7e7e2d2d78ed0196c6c8cf8dd29ad792c84b4d98f87d16d62c3c6,denial_of_service,,1
+,lr0a90hsbzmie207u.com,,data_exfiltration,,0
+,b0qzgemrxbi3h.com,,other,not sure,0
+,yypysnn8lfaaz7iuj23f.top,,brute_force,Phishing email targeting employees with fake login page,1
+,,,malware,Brute force SSH attempts from this IP,1
+215.31.47.176,ijter.buzz,f1eb9b5c07975b641bd8e13f5e70d50f810594e4f4cbe8e595ffedc301fb8509,data_exfiltration,Botnet command-and-control beacon every 60 seconds,1
+37.227.1.58,vz0a8cdqzl1sk5ulkh.ru,ad44801de7a7f4463c1301d5380da23aceacd0de0ebe0015ca0e6b9f0d541826,denial_of_service,Ransomware dropper detected in email attachment,1
+152.56.189.66,,,data_exfiltration,Credential harvesting page impersonating corporate SSO,1
+240.181.80.218,,,command_and_control,Suspicious outbound traffic to known C2 server,1
+51.35.84.76,,9e7eae293a14549e71508b2b03c5b457a218e51803bad974fcebf61e9d764070,brute_force,Ransomware dropper detected in email attachment,1
+220.191.37.244,jxbzubqqq2h7ngpqpe0.top,98b035835a7d4f3d1f4dcd15279373fc,denial_of_service,Domain hosting exploit kit distributing malware,1
+1.85.4.121,0ezr35jxp.ru,,command_and_control,Botnet command-and-control beacon every 60 seconds,1
+,,a95ab41de31e0c0ad04aa94670356540,malware,Domain hosting exploit kit distributing malware,1
+228.220.179.242,eq5rr.ru,,phishing,Malicious macro in Office document,1
+171.43.117.31,10huvplc3jhgss.buzz,8475427dafbc7c7d0ce7a2a6de808f0de924b4685085e5cf75952dad5a3a968c,malware,Domain hosting exploit kit distributing malware,1
+139.169.176.21,,,brute_force,Malicious macro in Office document,1
+139.31.133.217,xrxaxu.tk,,command_and_control,Malicious macro in Office document,1
+12.67.0.115,,,data_exfiltration,Domain hosting exploit kit distributing malware,1
+,,,brute_force,,0
+,2bnm9srh.org,,ransomware,,0
+212.149.102.17,,,data_exfiltration,Domain hosting exploit kit distributing malware,1
+,e57iy1d3anmm8i9.gov,,phishing,,0
+208.71.48.164,,c68e326c1d87a108f54198ac48476b5f011130fbc1432debc8bddaa66b9a533a,malware,Drive-by download serving banking trojan,1
+115.113.133.223,n3jeads6c.xyz,30cfce49ac4e7df4473629c065e7f186349f6810a1b0e12c4d16947c64d84525,ransomware,Brute force SSH attempts from this IP,1
+,hwxn5.top,08b88104f11a8f1068fc5daa43f622d0671edcad973155b36c0409813597419c,phishing,Domain hosting exploit kit distributing malware,1
+226.213.65.33,,,data_exfiltration,,0
+230.23.131.252,qewhzyubkx7ikx.net,,data_exfiltration,,0
+82.94.48.231,,,brute_force,just checking,0
+113.221.114.234,766jyigyzugs.cn,74f4b23bcea3819522997fbcfc5a6eca,other,Phishing email targeting employees with fake login page,1
+,h3dg3b45gjd3hh6t1.com,,command_and_control,,0
+54.2.125.178,sr0doj2.cc,,data_exfiltration,Data exfiltration via DNS tunnelling detected,1
+,dhs2m4sii5w.org,,ransomware,,0
+162.251.50.153,r7enjkx3yh.buzz,4d1c2b58b3f27b7d665b9fdc7ab3312343fec8d2f45760ae7aec62bd0e7502bd,malware,Ransomware dropper detected in email attachment,1
+161.7.32.9,spsklqd2vd8a.buzz,1528016d9e331fbfe57f8fb1bba12cb5685ee3e01dc1d04fa5be5bd4e80c8d4c,brute_force,Data exfiltration via DNS tunnelling detected,1
+,,,other,123,0
+,,,data_exfiltration,,0
+,,,command_and_control,hello world,0
+,zoo5z.ru,206768b1369503ecca6019af6c09f00c,denial_of_service,Ransomware dropper detected in email attachment,1
+,fh21it8qdq7q49l.edu,,phishing,,0
+,,,command_and_control,Credential harvesting page impersonating corporate SSO,1
+,,,denial_of_service,not sure,0
+,36k2l3sy8.edu,,data_exfiltration,ignore this,0
+124.239.168.148,ymj448z5.buzz,9d3e770bf77d02dd3dc696c4c4774ee2,brute_force,Domain hosting exploit kit distributing malware,1
+,,,data_exfiltration,,0
+,,,phishing,,0
+114.57.230.233,,,ransomware,Suspicious outbound traffic to known C2 server,1
+34.160.187.140,y4hsy63y1q7e998.xyz,5c563018ffa9f39c37b9520ac9358787,other,Phishing email targeting employees with fake login page,1
+,,,denial_of_service,asdf,0
+,,,command_and_control,,0
+,,,malware,,0
+,,,phishing,,0
+41.147.167.227,9cksh1wyjba1w5m3nvj.top,,denial_of_service,,1
+,,,command_and_control,Ransomware dropper detected in email attachment,1
+150.157.219.160,we764lwe07ym9vcbez.gov,,data_exfiltration,,0
+153.112.140.152,,,brute_force,,0
+220.4.7.14,,,ransomware,Data exfiltration via DNS tunnelling detected,1
+,,,brute_force,,0
+49.90.234.227,gajgwscy.cn,,malware,Credential harvesting page impersonating corporate SSO,1
+163.40.94.90,,,other,,0
+68.211.244.94,,,phishing,,1
+,02e1ttc1rt.com,,phishing,,0
+,,,data_exfiltration,,0
+,,42f0d91ff587e66d6532e60e1502a6a7c62b9d2f7b28a1a4df0b2097e117f851,other,,0
+160.231.33.74,,10523972a8b385e591449158ee320b8b1fa74c2ceb4e8d96ff6d07b51c03925e,brute_force,Malicious macro in Office document,1
+,bygpdyb3op0usghvfl.tk,ad8e632375b2648ed09d0a6479866a8a,denial_of_service,Data exfiltration via DNS tunnelling detected,1
+,,,brute_force,Suspicious outbound traffic to known C2 server,1
+218.138.190.115,,32ea58963322597a37a91c418ac4e739,ransomware,Drive-by download serving banking trojan,1
+64.158.233.187,,299bfc396d94794a18cb1b8e511fd09b,phishing,Brute force SSH attempts from this IP,1
+103.189.160.226,,,other,,0
+,1gdb1sp54ztocb.cc,3dfe9016f076be3e479c7b12156705d97c1a7157fd277cbaf1eb0f0d3d02f46e,malware,Phishing email targeting employees with fake login page,1
+15.122.4.116,6y9d.ru,,phishing,Domain hosting exploit kit distributing malware,1
+69.5.36.204,,,command_and_control,,0
+190.218.15.133,,,ransomware,,0
+,kebgr0wmbrhruyaznx6.top,,denial_of_service,Phishing email targeting employees with fake login page,1
+,uomw6lfhhynodjf7.com,1d36f3625c0f4a5e1106fa7189e99d7b31657bfb84ae698493688a773d9fa9c1,denial_of_service,ignore this,0
+,,,denial_of_service,asdf,0
+,,fd5343f2dda12512421ee839f703b6bd,data_exfiltration,Botnet command-and-control beacon every 60 seconds,1
+127.67.241.18,lx5n1mt.xyz,,data_exfiltration,Data exfiltration via DNS tunnelling detected,1
+62.46.85.99,,ea231825990f6de0694f38602f9f30bcfc6d0192e41eab12df3a2ccb7a3b889b,other,,0
+,,570cec6d01f8bcdb1bd44c6d1db7b7daa20ebfe620548c10906a181948b57e34,data_exfiltration,,0
+,,22dbcc924503deadb32c7b121984b92e,brute_force,,0
+84.214.171.13,,,brute_force,,0
+53.157.207.125,,,denial_of_service,,0
+161.185.65.145,,,command_and_control,,0
+206.28.138.161,,,malware,,0
+,,190882fe564bd22fcb5e7850e5030ac9,denial_of_service,Phishing email targeting employees with fake login page,1
+60.240.45.108,,,malware,Credential harvesting page impersonating corporate SSO,1
+237.82.49.9,,,malware,ignore this,0
+,,,command_and_control,,0
+,,04e20cc9b338b34c2e1074bb6ac323c5,data_exfiltration,just checking,0
+,6ecybgcy2p8i.edu,,data_exfiltration,,0
+,,2523c552cff7b9d3ff397ad7f44707d73214d84bad09b4b17552510883737b3e,ransomware,,0
+,25hnwrthq94lznltcx.buzz,,data_exfiltration,Data exfiltration via DNS tunnelling detected,1
+108.217.237.241,,,malware,test,0
+244.130.106.26,24hxoqp.tk,,ransomware,,1
+148.120.181.132,76flddcsetm8s276.ru,ee3a5fc74864826f556b12bfda6c6fe3,phishing,Drive-by download serving banking trojan,1
+,,,brute_force,Suspicious outbound traffic to known C2 server,1
+156.178.118.61,qigmtn9iom9.cn,,malware,Malicious macro in Office document,1
+121.195.86.230,,,malware,,0
+,,,ransomware,ignore this,0
+250.217.27.101,4hjmr3rzb4i4jpv.cn,6ff7105e0dc13b866cd724398113a277,phishing,Botnet command-and-control beacon every 60 seconds,1
+68.48.241.111,aofo4bgq.tk,aef0c7231d30a84f92af0e1e1f5670f9789274e802275a3c4b9e2a289c5a86e2,phishing,Ransomware dropper detected in email attachment,1
+,l0gyl5tzww8t1bqq35.com,,command_and_control,,0
+43.245.217.103,,,denial_of_service,not sure,0
+7.114.170.100,,,brute_force,Data exfiltration via DNS tunnelling detected,1
+125.131.113.149,,7a34f4ed6f0f99c6074ac34d6f317ac1,other,Phishing email targeting employees with fake login page,1
+,,477bf693c28061019468607e7682bec96f9427281e1292a7297fccba23144848,other,,0
+75.2.231.102,7clhd9r.buzz,,other,Phishing email targeting employees with fake login page,1
+,,,other,Malicious macro in Office document,1
+,mtejv5.ru,,malware,Botnet command-and-control beacon every 60 seconds,1
+2.234.0.53,,,malware,Data exfiltration via DNS tunnelling detected,1
+,,,other,hello world,0
+89.191.46.208,z89849u.cn,7fec9d0895d8c6541a6f0972ffaa624c5931f90c26147cfc7d0bbdd316451b19,brute_force,Domain hosting exploit kit distributing malware,1
+87.1.105.188,,,data_exfiltration,Malicious macro in Office document,1
+,,,denial_of_service,,0
+165.191.135.50,,ef5e3d0fa6303225402626886b5d698e,phishing,Malicious macro in Office document,1
+,,,other,,0
+,,d9e22cccb414f600f3ac7513e6ac64b359f2a6972547a4b97a5a03719063da14,ransomware,,0
+183.136.225.94,4s2vi1r0mzdoi.buzz,8b92ef4386a1c2bbc9ab29a9ca843c132438ae151360afbc7dd250a8ee9d0915,ransomware,Phishing email targeting employees with fake login page,1
+21.108.159.182,,cdcca85ac6f4b2a4425746a499c6fc22,brute_force,Malicious macro in Office document,1
+95.217.18.178,xjtt11dzh6nd.tk,db78b1761d36c3db03092250f7beaa31f858a45f08abf2f4f0835b154e6f08da,ransomware,Drive-by download serving banking trojan,1
+,,91c03f16be4f903107d07939a04082e3,other,hello world,0
+,,,data_exfiltration,,0
+,,d2d8f9f5e9baa4fc4b1d6707868b84e91c9e87e4273c541dd12a5f7888a0b6c1,ransomware,hello world,0
+159.101.101.151,v4l67o1lz09q1bp.xyz,cd790f54eb6eeb5b168d624d3daddd7b,brute_force,Drive-by download serving banking trojan,1
+218.190.165.12,,,command_and_control,Data exfiltration via DNS tunnelling detected,1
+,,,malware,,0
+,,,phishing,,0
+85.162.57.24,,9b84dae5d409b9efa74cf53c3ac3a5b7,command_and_control,Drive-by download serving banking trojan,1
+,,,phishing,,0
+213.2.158.133,,,command_and_control,asdf,0
+217.184.240.122,nenj5nfbg3r.cc,e18517419159f2fd467792a1dd0fdadb6c5ce2a2a550972202397d7e3e00be01,other,,1
+,,,denial_of_service,Domain hosting exploit kit distributing malware,1
+,,,malware,not sure,0
+,ykwolicgg6buciob0utb.cc,,ransomware,Suspicious outbound traffic to known C2 server,1
+,,,denial_of_service,,0
+,,,command_and_control,test,0
+,wre32iw4k8cflf.org,,other,,0
+172.81.141.67,xetqgpptjumel0zb.tk,7700de16a1414da62aa58a497defcfad6429cf1f7f3103b89360ab6416a95732,brute_force,Suspicious outbound traffic to known C2 server,1
+46.149.162.171,,,ransomware,,0
+,0qvb5o3xdyop.org,,brute_force,just checking,0
+,,c2cb0eee86707532591fc0dc89215c22,data_exfiltration,asdf,0
+,xn25jsh8ysztbnea0.edu,,data_exfiltration,,0
+58.113.226.136,,,ransomware,n/a,0
+,t7e3kio38.org,1e66375382d5de8c02c40e6112610656,denial_of_service,ignore this,0
+,r9w5jio2bbc5l27izcc.com,9ee50ec1f65be0d2e16e49e3b42d357c,phishing,just checking,0
+,lc38kc11w8o.tk,506698502002d07bb776e67bfde41b41,brute_force,Domain hosting exploit kit distributing malware,1
+114.139.87.122,,,command_and_control,Suspicious outbound traffic to known C2 server,1
+85.110.226.90,,,data_exfiltration,Data exfiltration via DNS tunnelling detected,1
+69.108.155.244,gn762frtbycqeqs.buzz,,other,Suspicious outbound traffic to known C2 server,1
+162.187.245.176,,,denial_of_service,Domain hosting exploit kit distributing malware,1
+,xhqxdj.org,,other,n/a,0
+109.110.144.83,,e1998e211caa18ef036586862a7355eccc2e2e6abc8d2438f6e72369689a0e04,brute_force,,1
+,,,brute_force,,0
+,,,ransomware,,0
+123.59.196.161,1yb0.top,5f69839139251dbe4bf65cc0dfeb2db819e9ce64458759f96cfe364583fdb6b4,denial_of_service,Phishing email targeting employees with fake login page,1
+117.195.251.86,e7k9h7lfj.cc,8145eefe8a334bcc0c1c158f648e4eda8ce173a7c2e064395b7257a25365519f,command_and_control,,1
+,kf4qxl3mlr89ctvhzfy.buzz,89d1952bc0e0d60e81b01ab07c12cb4fb15939af571a8c4a48c1079940a7e40a,phishing,Botnet command-and-control beacon every 60 seconds,1
+7.188.251.52,1sm1bem2iz6grjr.cn,d7368dedd7ec44f7b2bae448032f998f270fdd4b410e53e5dcf1748271e66539,command_and_control,Drive-by download serving banking trojan,1
+,w3fiqw07.edu,,brute_force,,0
+206.55.237.224,h9u76.xyz,e230e98c0c4f9cfdd3ef15e118ed6db1221070caeeb2afb344444a3e75ab46e6,denial_of_service,Domain hosting exploit kit distributing malware,1
+185.48.70.4,7zapmclhx.buzz,0b0939b183ec3b27a53fd41e7b21ada3ad02901bdb72fa6841e0e9704b2bc7de,malware,Credential harvesting page impersonating corporate SSO,1
+,tm7sdwgy63d.ru,ec60ec0bff798e0a21bb3b0089535bc8,denial_of_service,Suspicious outbound traffic to known C2 server,1
+,,,phishing,,0
+152.163.169.181,ogkhuu98ko.buzz,,other,Credential harvesting page impersonating corporate SSO,1
+,uo26qm9o.gov,,phishing,test,0
+,,45a59efcc20a3c52cfd5ecdf827807ad,denial_of_service,Domain hosting exploit kit distributing malware,1
+65.31.21.193,9p38zuud5c3.cc,,brute_force,Ransomware dropper detected in email attachment,1
+103.47.44.252,bil4ggaxttbzqx4z4und.tk,4a8c8c79503fb63f1fa9e4d6bddb19c7b2a0c5fe8676094328464b5c1a24cd80,brute_force,,1
+,,,data_exfiltration,just checking,0
+178.137.61.69,,,other,,0
+,,505325bb073ae7ea1ed8e4958cb5f285e839af237d93658a85af3011b8302bc7,ransomware,,0
+106.88.96.37,wb7dtdmu1bg9qivo.tk,604c7252c3fce32d023415db2a7a7371,malware,Credential harvesting page impersonating corporate SSO,1
+,,,data_exfiltration,n/a,0
+189.4.34.188,hy8th4y86ewqop0q55.buzz,,malware,Brute force SSH attempts from this IP,1
+,,,data_exfiltration,,0
+252.71.187.132,,467ddecf205049460ae853402e68e374,data_exfiltration,Malicious macro in Office document,1
+,,,denial_of_service,,0
+14.215.221.38,grxgpi4szeo2hxs.cc,1922eeb8e96b98de05bbc54c67e18e20,brute_force,Ransomware dropper detected in email attachment,1
+,,,other,asdf,0
+,,,phishing,,0
+105.170.213.150,zlipxx.xyz,,ransomware,Drive-by download serving banking trojan,1
+34.155.255.131,,a3bae1b8a41217c44b58f32220e2ca7c4513cbd3b7b85c3178dda98b437dbabf,malware,Drive-by download serving banking trojan,1
+65.254.27.36,,,brute_force,Data exfiltration via DNS tunnelling detected,1
+,qxgylo6864vucu7pc.buzz,6f2763f72ba116c6e621583dd9e3ca582d6024f5ef889c7cc33a5ee8ddfb92b1,brute_force,Drive-by download serving banking trojan,1
+,,,other,,0
+,,,command_and_control,asdf,0
+51.172.89.52,213xpn.ru,,ransomware,Brute force SSH attempts from this IP,1
+,,5b38bce42aabfd6feec29bc5e3c25f35fc6723a385a245ba44a7f36e313d02d8,brute_force,Malicious macro in Office document,1
+,gtj3qqd6nxq.edu,,brute_force,123,0
+,,,command_and_control,,0
+,ftt6sbd7j01xgjytfj.org,,brute_force,,0
+,kzbgrxx32092svx.cc,,malware,Malicious macro in Office document,1
+54.28.191.66,3kvoxrz9s8wln8tcu.xyz,,phishing,Domain hosting exploit kit distributing malware,1
+240.168.192.95,,4c403db848fc1ea90ed06acdca466751b3495c8bdcdbaab67eb2e96c6b02e269,denial_of_service,Malicious macro in Office document,1
+,,,denial_of_service,,0
+226.91.155.168,c21ceityo.cn,3b7a31aff060d22da196351cf8df466449000ac4e8dd2b6500275634f2830382,command_and_control,Botnet command-and-control beacon every 60 seconds,1
+9.26.250.125,o6jnba5pq7r8ubs.edu,,ransomware,,0
+,,,phishing,,0
+150.3.218.49,,,data_exfiltration,Suspicious outbound traffic to known C2 server,1
+11.165.192.173,,,ransomware,Botnet command-and-control beacon every 60 seconds,1
+,,,denial_of_service,,0
+77.167.232.54,,,ransomware,,0
+207.69.147.54,,,other,,0
+,,,ransomware,,0
+,515f7w9xftf8s.ru,,other,Ransomware dropper detected in email attachment,1
+43.64.125.181,,,other,Domain hosting exploit kit distributing malware,1
+,,,brute_force,Credential harvesting page impersonating corporate SSO,1
+62.45.165.39,w7cl8kd2i4a30mbqpxrk.cc,,phishing,Drive-by download serving banking trojan,1
+,,,other,,0
+76.236.181.85,,095993eaf35d97675a835105153e95bd,other,Drive-by download serving banking trojan,1
+,,e7e402ff23990db9fb4b6d8098e8ffcb,other,Domain hosting exploit kit distributing malware,1
+249.167.253.253,,967a9fbba7db1e1b6087c29dd8c9f86f,command_and_control,Credential harvesting page impersonating corporate SSO,1
+79.223.68.187,,7a64178226522310fd9b6c4581261036,denial_of_service,unknown,0
+73.219.99.203,,,command_and_control,Credential harvesting page impersonating corporate SSO,1
+202.135.187.189,ikll8bfaifa2r1.cc,0d5c705b5d405dc7a9d8a62e4574e453122acf7d5327e8a5ad701cb5d8b79b11,malware,Malicious macro in Office document,1
+136.171.225.215,,,data_exfiltration,Ransomware dropper detected in email attachment,1
+20.152.221.78,,,command_and_control,,0
+,sriztsguu1gyzd6fo.top,b8bd245078d0b2ed2370b8180d3981587714792c8569d456069cbd82b370e832,brute_force,Drive-by download serving banking trojan,1
+,o9ez6l1i12qa.top,fc26d006bab943617ae52e27dead1325,data_exfiltration,Phishing email targeting employees with fake login page,1
+130.76.87.31,m2htn.xyz,,malware,Drive-by download serving banking trojan,1
+,2bog2n3kj.gov,,denial_of_service,,0
+,,,command_and_control,,0
+167.250.150.173,,cf425a908438ad16e145551f527bc3d6b144b1f851193d8eaa870fda26a583f4,denial_of_service,,0
+200.188.24.43,,,ransomware,,0
+59.240.182.152,6p3yg01.xyz,,denial_of_service,Data exfiltration via DNS tunnelling detected,1
+,,1205a41ae4218fabd3a470fd8aee7f768d96a0362f3af85cd32282b6c9c698f3,other,asdf,0
+141.116.218.73,gg6wefm.com,,data_exfiltration,,0
+237.55.54.160,u1j794w.xyz,0feff1cffd052d139352c7baaf1e94b5,malware,Phishing email targeting employees with fake login page,1
+,,,phishing,just checking,0
+,,96b2839aedaf0162e37992673fc9e3f0d634d35c331060984bd7fbd748d7306d,phishing,Suspicious outbound traffic to known C2 server,1
+,,6543b3b6206dc6c4e95cd3550e82544a5ba7c26571cc311923e90e1d965fd6a5,command_and_control,Data exfiltration via DNS tunnelling detected,1
+28.85.249.207,4srsbubu2441.tk,,ransomware,Credential harvesting page impersonating corporate SSO,1
+146.220.199.192,,,other,Brute force SSH attempts from this IP,1
+11.204.208.209,,,malware,asdf,0
+160.216.158.53,sl5w5u2flkzy.cn,1046250a38578a33dd62ce9cab35c177bb59a5a9609f04ab73bb2644d36fece1,other,Ransomware dropper detected in email attachment,1
+,,,data_exfiltration,Data exfiltration via DNS tunnelling detected,1
+,,,data_exfiltration,,0
+,,,malware,asdf,0
+,,,command_and_control,,0
+,,,command_and_control,,0
+,,,data_exfiltration,,0
+207.169.177.183,,,command_and_control,Suspicious outbound traffic to known C2 server,1
+179.241.126.166,,23f636ea3e454a2cc4e00a02e4922508,ransomware,Malicious macro in Office document,1
+54.99.18.62,,,denial_of_service,,0
+109.2.79.249,,,denial_of_service,Credential harvesting page impersonating corporate SSO,1
+110.18.158.6,,,other,Suspicious outbound traffic to known C2 server,1
+99.152.60.21,,,other,,0
+66.231.35.61,qj862.cc,,brute_force,Suspicious outbound traffic to known C2 server,1
+145.4.185.10,a75nzf6xrlnyo04al.ru,b25bd328bca2df89b760c12903363c71fafc0903cd7d8cd6f5a8795558feafed,command_and_control,Credential harvesting page impersonating corporate SSO,1
+,5v1tuhhe09q8rx24p4g.cn,a9b3d39e1053b51dac3f387d6d03ba0c,command_and_control,Brute force SSH attempts from this IP,1
+101.219.22.248,7gftr.buzz,2dca718687ec173610ee6b03703da23dca68e2e47669f5302eb6326327d1e8c7,ransomware,Data exfiltration via DNS tunnelling detected,1
+,,,data_exfiltration,,0
+,,,command_and_control,ignore this,0
+,9b3fjz7hg8h2e3c.ru,c15dc9e9f272c24ebf39a2e76a24a46ff4b4bc8212116e6cf9da8f3ccb6b3e0e,malware,,1
+,wqflmfkyums06xxbq83.edu,,malware,,0
+219.165.189.242,nnd8nhpee0.cn,b502630e742efb5743a2749410c388cd7c4a7e8c4b18432147dfa3f99e26885b,denial_of_service,Data exfiltration via DNS tunnelling detected,1
+116.201.157.6,fcs8xrvdhq.cc,fb1c546e915b9c010a2de228f977d1c2,phishing,Data exfiltration via DNS tunnelling detected,1
+112.6.162.218,,621f98bf3f965fb5dce9e3f30ea5b550,ransomware,Brute force SSH attempts from this IP,1
+236.225.202.94,2dom5s1s2aibssub.cc,,brute_force,Phishing email targeting employees with fake login page,1
+,,,data_exfiltration,Botnet command-and-control beacon every 60 seconds,1
+47.201.190.194,,22c832bfb555db105e182beba52c970fe5e0c3c5485234f5706b48ce8227370e,other,Ransomware dropper detected in email attachment,1
+,,b38a8dafe24e853f1e0b9ba9e5c8b62be10a8de41b69cccfc56773c97c808344,brute_force,Brute force SSH attempts from this IP,1
+,,,malware,unknown,0
+,,29d43aa587c966061b967f5627eae0ca,malware,n/a,0
+246.11.252.115,,,data_exfiltration,,0
+139.149.225.251,,c274c91a65061518e511aaf376946d29,data_exfiltration,,0
+,,,ransomware,just checking,0
+130.33.82.11,,501599508d1287fbd22f9b9bbfaaea14cd9bea0276ebfd675724e1a7af7171b3,other,,1
+,i6xll9vahry6lntjynu.cc,,data_exfiltration,Credential harvesting page impersonating corporate SSO,1
+60.190.229.181,s2eabwhqy.buzz,,brute_force,Botnet command-and-control beacon every 60 seconds,1
+49.111.117.187,hk14nn4hbcp8mul.edu,,command_and_control,hello world,0
+197.176.6.122,rx75tz0k5jxelynr.top,f01594eb2023372d7c1956d7897eea69bbe2dc8e40ada32bc4c40bdf80e9a609,malware,Drive-by download serving banking trojan,1
+97.94.34.92,b449d8xrezk5dlhe3.ru,,ransomware,Brute force SSH attempts from this IP,1
+113.40.0.99,r4l9l8qt446ogfhi7l.tk,,brute_force,Phishing email targeting employees with fake login page,1
+,,,command_and_control,hello world,0
+177.115.137.131,knrkw.edu,,command_and_control,,0
+235.168.5.171,,,denial_of_service,,0
+,,,malware,Malicious macro in Office document,1
+,ipjoyynqdjzxz2g7w.net,,ransomware,,0
+70.248.44.32,,c19d9eaaa945a8be714e8bcc02c65ce1,other,Brute force SSH attempts from this IP,1
+,,,data_exfiltration,n/a,0
+,,,data_exfiltration,,0
+33.202.89.251,o03qcznbipc5m0l8.top,1c4ec91fe6e90fd9d056933de12d9b04,brute_force,Domain hosting exploit kit distributing malware,1
+29.48.167.156,mrzqzynfvlqq8pju.cc,f447c079fb045f4ffc9ee5c30d29093f,denial_of_service,Credential harvesting page impersonating corporate SSO,1
+112.13.239.126,rvkfumfnq4.top,dbfea667cfa9b92fce9002d30556ce8eeac4a4194d8414e470ec2d2c1a36331e,ransomware,Data exfiltration via DNS tunnelling detected,1
+31.161.91.107,5ssq4rz.cn,4bc6fdb8a7f21e291c1bdd0db1aefb2648e0d72635cbd0194640cf2feb06a701,ransomware,,1
+29.60.221.184,wsieeqmx4evmuds9v.buzz,0e47fe1eabd8b32f88aec4e6dcdabdf681dbda62fa7e21180364baf3dd61dd0a,brute_force,Phishing email targeting employees with fake login page,1
+84.114.96.253,,,data_exfiltration,Ransomware dropper detected in email attachment,1
+,3ra72x446p5mg.xyz,0156cf9a1ae433e9054eb162bd386367,phishing,Malicious macro in Office document,1
+142.10.67.8,,c650a60455b2ec82d7a2fc889eee6a2b,data_exfiltration,Drive-by download serving banking trojan,1
+161.171.150.199,,9437eeb01f4c6ea80903b682bcca1472,phishing,Ransomware dropper detected in email attachment,1
+,,,brute_force,Phishing email targeting employees with fake login page,1
+,,,malware,,0
+3.98.94.222,,,denial_of_service,,0
+,,,denial_of_service,Data exfiltration via DNS tunnelling detected,1
+219.47.231.180,,,phishing,Brute force SSH attempts from this IP,1
+178.134.192.9,,,data_exfiltration,,0
+190.188.200.111,jdci7f3lkk2y3mea.cn,,ransomware,,1
+30.62.152.199,,,malware,Malicious macro in Office document,1
+,,,ransomware,,0
+20.223.37.161,drz8f1a7vszgk6sy010.xyz,3609abc5b9944e4132ef68e9e4243a41951ae748fd25d1ec28325e262609f9de,command_and_control,,1
+29.11.214.183,,,ransomware,,0
+,,,ransomware,,1
+191.118.165.149,oblisoc09brmnr8wmyqz.tk,909899baba56edfbfde55b25725e9410005761bec3697a130a379c6a0ce377b9,phishing,,1
+,,,command_and_control,Domain hosting exploit kit distributing malware,1
+,,,command_and_control,,0
+,,,data_exfiltration,ignore this,0
+,5h5h10.ru,63e489f9a73f597c58955e7b85a44a5a,other,Suspicious outbound traffic to known C2 server,1
+226.45.33.100,jwsr4v2i.cn,41b2ba21fd77ffe42a5e1978e1a23027,other,Ransomware dropper detected in email attachment,1
+21.132.8.4,h942o108hj3qj11dor.cc,,data_exfiltration,Credential harvesting page impersonating corporate SSO,1
+213.52.2.33,,84da648c62c8dbb939d87e8da8549639,phishing,Phishing email targeting employees with fake login page,1
+,,,ransomware,,0
+163.136.219.195,icbp0jr9asp2.buzz,fbd8d191f13537d8e5930dffe0caeca2,phishing,,1
+,,,malware,,0
+54.203.88.146,,a15172cacb1d8ebe480ebb78848f0df8,brute_force,Data exfiltration via DNS tunnelling detected,1
+,,,command_and_control,,0
+231.74.230.168,,,command_and_control,test,0
+,,07670cbce32c06cf1a443fd713f46eb5,command_and_control,Credential harvesting page impersonating corporate SSO,1
+,,,other,123,0
+167.9.49.71,,076083b72ea45fe04d85dcc9544ffd3e6afc14613cde2389dac246167a531d21,data_exfiltration,,1
+209.62.227.57,,6e096843f7cda45359dc2c2e07976914a37b85e64e25534ee17636849110d4b7,ransomware,Phishing email targeting employees with fake login page,1
+21.156.57.31,1r89yf0twktkyc.xyz,d933e3be085905a134d367a29db54e29a93fac52be50ac17054b841334c396cb,denial_of_service,Data exfiltration via DNS tunnelling detected,1
+240.245.126.83,yg8yfw8ripg5h08476l.ru,,denial_of_service,Botnet command-and-control beacon every 60 seconds,1
+186.203.105.175,9r9adxe2hfgu8bw9e.xyz,01ff178caea3fbc4c57e1244e440c79e,ransomware,Phishing email targeting employees with fake login page,1
+193.84.188.205,hj90.ru,cb2097c652f6cb3d2d2acc6bd41d6cb44d7a8e4e91c79a1e2584dec2efe22f31,ransomware,,1
+30.129.147.110,6mxm39di2vqtws1.ru,9a39e87ace59b72aeb745de6c5c5a7bd,other,Suspicious outbound traffic to known C2 server,1
+153.196.53.60,,,brute_force,,0
+,,,brute_force,123,0
+,,89a16727ba825b82c24e8547521f6cced74598b3565fe33bdab9d3fb0d6e899a,data_exfiltration,Malicious macro in Office document,1
+11.12.229.167,,6fe9587f03079b85b4491e5e2de411ef,other,Drive-by download serving banking trojan,1
+,kqeu2asi5pvdrevj.xyz,b21c5f09c7e02794dd8812ce5bc16ab5d28def7109e37d033248d60a40ef8c62,phishing,Suspicious outbound traffic to known C2 server,1
+,mig5pbe01iggxxwfd5wi.top,,ransomware,Phishing email targeting employees with fake login page,1
+236.15.41.11,,2c48f9c62556a7c6e01df37fbd8cbe91269edede8f75a05824df3ab34820b0fd,phishing,Malicious macro in Office document,1
+,,,ransomware,Suspicious outbound traffic to known C2 server,1
+,,,malware,,0
+,,,denial_of_service,,0
+,,,other,,0
+,,662c6d9d69910b53181c22701bc0cbffc86deca858045813eecd9d87b3df2be2,data_exfiltration,Malicious macro in Office document,1
+36.57.41.207,brfmmi209uaxkkb.top,,data_exfiltration,Malicious macro in Office document,1
+,,,malware,hello world,0
+38.11.3.195,,,other,,0
+98.183.11.78,9a0zkn.ru,6936e10effb785a971d509b886f1160160d0be878c2a91ff1cb9595532323288,other,Suspicious outbound traffic to known C2 server,1
+,,,other,not sure,0
+200.161.24.166,dm87u9lu8tvzpnk4y.buzz,a9afaf9b6a96c9ad671a12c4a6b8ab93,brute_force,Drive-by download serving banking trojan,1
+113.100.23.194,,c8ea716e9b9ecf2ab5b592142fada217,command_and_control,Drive-by download serving banking trojan,1
+55.105.82.204,,06edd4b8dd21a5391ef174b725f274fb16438ffbd668c5231e62750fecd3360d,denial_of_service,Credential harvesting page impersonating corporate SSO,1
+,xe38j9y.top,74c1197fe5379c4139c860e446ccd0ad,phishing,,1
+75.137.76.67,ebhfiuew.tk,dded97df4dc33f65afdd8587c314230d,other,Ransomware dropper detected in email attachment,1
+46.183.109.164,,4312cac75d62884c30271adfad073e97,command_and_control,Botnet command-and-control beacon every 60 seconds,1
+186.196.25.47,,,other,hello world,0
+,,,phishing,Data exfiltration via DNS tunnelling detected,1
+125.49.255.88,,,other,Drive-by download serving banking trojan,1
+227.150.54.191,01ei8vi5mq.xyz,,brute_force,Botnet command-and-control beacon every 60 seconds,1
+206.251.197.158,rf0bufl1bxwbl.buzz,c4725a358ef26218afa591f6a6ec53b79d54188c2e34d3a2dd6ab79fc1921963,command_and_control,Brute force SSH attempts from this IP,1
+100.76.212.55,dz7yll74kvrs3krj3d8x.ru,d805be31041d8b93154f68f18044881c,other,Drive-by download serving banking trojan,1
+190.147.127.60,2bwnj4s.top,,command_and_control,Phishing email targeting employees with fake login page,1
+83.178.216.251,20i8j.cc,,malware,Data exfiltration via DNS tunnelling detected,1
+253.51.239.16,vh704mulx31yn9hvtpj.tk,,malware,Drive-by download serving banking trojan,1
+4.117.153.107,wi7k5mbrm.tk,afec0c5e2323e1c162af66b2e3cf7bc3,data_exfiltration,Ransomware dropper detected in email attachment,1
+244.79.203.175,,,data_exfiltration,Ransomware dropper detected in email attachment,1
+108.75.234.182,e8zj89upxptyxgt.net,,phishing,,0
+,,,denial_of_service,,0
+175.170.47.6,,33ca8b117b1aa33c410a8add9d0babee,data_exfiltration,,0
+85.11.19.21,,,malware,Botnet command-and-control beacon every 60 seconds,1
+3.24.122.213,,,brute_force,,0
+212.118.79.14,4dbwvwecr3bwpk41i.cc,,ransomware,Phishing email targeting employees with fake login page,1
+137.22.143.228,mmj6q8.cc,865a22a5f7f50b131239db946344d8a6efd87a769f5346ec5bcd9ca1deaf2399,brute_force,Ransomware dropper detected in email attachment,1
+200.24.122.22,,,brute_force,Phishing email targeting employees with fake login page,1
+,nm7xmn95b4.buzz,b38aaa35da04299dc02f032242c9ce0c,command_and_control,Botnet command-and-control beacon every 60 seconds,1
+167.48.242.37,,4fb4cd21487d38ed3a8b36fdb0f3fc6e,data_exfiltration,Malicious macro in Office document,1
+1.182.111.104,1bgc3d8dz5b8n684fjem.buzz,,brute_force,Botnet command-and-control beacon every 60 seconds,1
+,skae.gov,,brute_force,,0
+192.167.161.5,hehm7b6ch1h.tk,,ransomware,Suspicious outbound traffic to known C2 server,1
+141.155.119.173,x5zpbtrq5na59oh.cn,,phishing,,1
+82.78.218.5,,47825348c47903fec38be2a4b3898226d2dfcb6c7d55cb008345a6a37f20423f,command_and_control,Malicious macro in Office document,1
+214.218.8.22,,480defc7fcc2c1a8f488f7bc28cb9879,data_exfiltration,Suspicious outbound traffic to known C2 server,1
+252.207.159.116,,,ransomware,Ransomware dropper detected in email attachment,1
+,,,malware,unknown,0
+,7bi239.ru,c2d97994eaa044c5240ac7c6c4e19b00e79de3751299b0a4925b36e21494c5e7,denial_of_service,Credential harvesting page impersonating corporate SSO,1
+,,,data_exfiltration,test,0
+,,,phishing,asdf,0
+44.6.115.144,,84498165dc68b66bf01c089516910d8c,command_and_control,Suspicious outbound traffic to known C2 server,1
+107.40.52.184,,,malware,,0
+235.235.137.55,jk6a.cc,,phishing,Suspicious outbound traffic to known C2 server,1
+,,,malware,asdf,0
+,,,command_and_control,ignore this,0
+,4wg3reypaue.gov,0e0ae052f5970828f9dbdce097ec144b,phishing,,0
+50.230.137.47,xypc2cxr4.top,,denial_of_service,Credential harvesting page impersonating corporate SSO,1
+,,,command_and_control,just checking,0
+8.72.224.236,e76bi48jqmh.xyz,1023a6b02a7387628dd0f44cedeede4449e9cf0317e928821ba3e4a791475557,data_exfiltration,Suspicious outbound traffic to known C2 server,1
+209.192.189.137,,,ransomware,n/a,0
+121.56.30.224,,,data_exfiltration,Credential harvesting page impersonating corporate SSO,1
+138.29.212.222,ivvohw7y8l.ru,8a7d651b3539a053e81a07a1f9f9da9a,brute_force,Malicious macro in Office document,1
+228.95.27.1,,,data_exfiltration,unknown,0
+43.125.189.27,,23295585a72292e0fcc349e82f176e26,data_exfiltration,,1
+,,,other,,0
+93.34.242.191,0d9hwh5bvx.edu,,data_exfiltration,,0
+,,,other,,0
+239.160.202.251,6qzvgii1.tk,,other,Data exfiltration via DNS tunnelling detected,1
+,,,malware,,0
+,,,denial_of_service,,0
+,,,other,,0
+13.143.175.93,,e49582baa73da1f9bfc403547fbfcea2,denial_of_service,,1
+40.249.249.10,,bdec4d0cb1847c9ef8d9065912f9a1ae9c3c57336b0bb4a00b5f46ab3366e582,denial_of_service,Ransomware dropper detected in email attachment,1
+169.86.229.187,,,other,Domain hosting exploit kit distributing malware,1
+,,,ransomware,not sure,0
+104.226.127.173,,49ec7df8763482f6becab6039b60e4c0,other,Suspicious outbound traffic to known C2 server,1
+,,,brute_force,asdf,0
+135.202.74.117,,e2fc380b8e11f20746f5bd2ea0a85da7,denial_of_service,Botnet command-and-control beacon every 60 seconds,1
+,vi93s98rkbo.cn,,ransomware,Data exfiltration via DNS tunnelling detected,1
+12.26.94.45,,6cae39f2a62c9fbea8cfbc9baf64fc87,brute_force,Malicious macro in Office document,1
+,,,malware,,0
+,,,ransomware,Malicious macro in Office document,1
+70.64.59.117,,9e1a136aa092b6bcfeb530cdc689b40b,other,Botnet command-and-control beacon every 60 seconds,1
+,,,brute_force,Data exfiltration via DNS tunnelling detected,1
+,,51461fa6441102a70b89149dbcff2f3fe83ac5d8e9b90719be521fec61fbe538,data_exfiltration,Suspicious outbound traffic to known C2 server,1
+,,,data_exfiltration,,0
+175.145.33.192,1zvmuvl7kkz90dmc.buzz,d2b172ead460f1c6892540723e1d9f1e7eb6d2292c4a491257df7cff40d14588,malware,Ransomware dropper detected in email attachment,1
+,,,command_and_control,just checking,0
+113.183.166.245,1qkzq.top,12ec86e6a0c54d20d7086c24296ac027,malware,Suspicious outbound traffic to known C2 server,1
+32.90.210.39,xh5ymj6205n7q1.cn,,data_exfiltration,Domain hosting exploit kit distributing malware,1
+104.119.138.206,2f635y6q6m2.net,,denial_of_service,just checking,0
+,,,ransomware,123,0
+123.187.165.221,,6bd6404f39710edfcaf75e25e1ca2c57,brute_force,Domain hosting exploit kit distributing malware,1
+,,f47c84a34a079de2c07d8e9c723d0ed7,data_exfiltration,,0
+17.114.209.232,2puwl2e5llgc5ay.buzz,286a73ebd3e4d80bfa17a304ced2ce89a2647a95287271af7406c1dcaa5135dc,other,Ransomware dropper detected in email attachment,1
+,7rjbcblb9m2dy566.xyz,7f2f15fcd2a412b346c79c9a76f4cef74a9a87382d200bbbd6c109684a2a6df1,command_and_control,Domain hosting exploit kit distributing malware,1
+45.245.134.195,l8d5xo4exis3rsu1.tk,efc5876441b2c819f1d6cc2f9051c47b72a558c7af9f2739416ba3c63841610e,denial_of_service,Suspicious outbound traffic to known C2 server,1
+,,,other,,0
+24.169.84.136,ce7rmbcj.cc,,brute_force,Domain hosting exploit kit distributing malware,1
+223.177.223.243,23efubihv2prewufq.buzz,,malware,Phishing email targeting employees with fake login page,1
+,,,ransomware,asdf,0
+,,,data_exfiltration,,0
+184.87.124.139,,,ransomware,test,0
+169.224.65.130,,55d77fcc3f546ab1820bc1ba63ec0bc2,other,Botnet command-and-control beacon every 60 seconds,1
+,8q6uti.cn,,denial_of_service,Phishing email targeting employees with fake login page,1
+174.8.177.214,,eacf7faf1d5f4635da118881d839ca84d727f388cb1b8cc4456b4970befd4a74,malware,Drive-by download serving banking trojan,1
+,kr5uqmz1n.xyz,,denial_of_service,,1
+95.74.157.154,go4dwuf.top,1c002f48082d50f1cf223313408ce5a8c83748aed90334fe17295858f777dd4e,data_exfiltration,Suspicious outbound traffic to known C2 server,1
+,wkscw4vj81e8xi0a.org,badb20fe988caaa249e5339faa4598eb,data_exfiltration,,0
+62.6.187.57,,,other,,0
+,,,denial_of_service,,0
+221.72.233.148,3grs12ve9g.top,,ransomware,Ransomware dropper detected in email attachment,1
+105.133.136.52,1sx3z.top,46489e3936e8176bc0f30823b1c5e4d2acb544dc4a372dfad610cb630277f6c1,other,Ransomware dropper detected in email attachment,1
+50.219.71.126,7m2q0pkvmzu.ru,,brute_force,Brute force SSH attempts from this IP,1
+,tik5ywnwxpht4zzao9.cn,,denial_of_service,Botnet command-and-control beacon every 60 seconds,1
+80.38.89.178,,,data_exfiltration,Suspicious outbound traffic to known C2 server,1
+,iycd.cn,,data_exfiltration,,1
+84.172.195.217,,,brute_force,Domain hosting exploit kit distributing malware,1
+233.102.27.27,z0avzed4.ru,,command_and_control,Drive-by download serving banking trojan,1
+137.94.43.51,,7e96a7da57c5538124126dad611bb7367748d57750257d11587c12a063b571db,ransomware,Data exfiltration via DNS tunnelling detected,1
+171.56.135.32,adn98x5i4nma0q3p.cc,,command_and_control,Drive-by download serving banking trojan,1
+248.150.120.182,j8gshi.xyz,,phishing,Credential harvesting page impersonating corporate SSO,1
+114.106.102.190,,,malware,Domain hosting exploit kit distributing malware,1
+98.220.193.195,idcfd2wzry0z3rfq.buzz,,other,Malicious macro in Office document,1
+,xh1zcx1pkd3hhkiskw.cn,,phishing,Domain hosting exploit kit distributing malware,1
+106.128.250.91,z6qiem8fkk396j1.ru,a3e673c38eb9edc4e65e5827ec44327d5f18e281921c49e5fe8e819ea53b5de0,ransomware,,1
+8.129.231.167,,,ransomware,Brute force SSH attempts from this IP,1
+,,,command_and_control,123,0
+27.214.46.107,grjdy69rvi87tawbibbf.top,,other,,1
+164.15.146.223,9geo48z2i1rs6i.tk,,brute_force,Domain hosting exploit kit distributing malware,1
+45.34.2.178,1kzxfs10.cc,443156fd6ce7d63318163461c1561576,malware,Brute force SSH attempts from this IP,1
+113.55.103.132,,,ransomware,,1
+,,371742896f85235ff1e106e0dd163c91,command_and_control,Phishing email targeting employees with fake login page,1
+,,ca3ed335096e8b9dbcdc55780a8c8b89,denial_of_service,not sure,0
+185.56.31.128,5trqjdjif7.buzz,,other,Botnet command-and-control beacon every 60 seconds,1
+,ozzfjq40icg.edu,,brute_force,,0
+,1otx.gov,,other,,0
+252.164.71.72,,661c50a6439a9d69f13eae087181e142967bfc60a333dd32e9845794a871a472,denial_of_service,Malicious macro in Office document,1
+,aewsp6yzgw.buzz,,data_exfiltration,Malicious macro in Office document,1
+,jb2qu3foiro.org,,other,,0
+,,,malware,not sure,0
+,,,data_exfiltration,,0
+,prmq6znc13.net,,brute_force,asdf,0
+,,,malware,Brute force SSH attempts from this IP,1
+,,,other,just checking,0
+8.68.153.83,tbl0e4jhpzd2.tk,,ransomware,Domain hosting exploit kit distributing malware,1
+,2bnv47.tk,a5dd128581785754651a6e30a64e196329866563a70c4272eca30739dbfb1f19,phishing,Malicious macro in Office document,1
+,dkafk.net,,denial_of_service,,0
+111.198.170.237,7k3asm.ru,3d728a109c7910c95249901b55ad846c,malware,Drive-by download serving banking trojan,1
+,,6945b8f62e07fa86bfc4e5eb43b555771e9c1b11ad4bdb1f74aa88f092947c33,other,,0
+,,42aa2533ae01299bbdcea83c5e809d22,brute_force,Domain hosting exploit kit distributing malware,1
+98.65.157.93,docsmdrww.cc,114589e4e18eba5e08789f3530df8e1e,phishing,Suspicious outbound traffic to known C2 server,1
+213.45.232.64,bzobu0mck72lb2x.cc,,data_exfiltration,,1
+36.19.161.142,1ai7vv82yx4o.cc,1532232ab8edd6abe7bf03e1e1dff908f1686e1821e7c7e84fee0cac1ae52034,brute_force,Domain hosting exploit kit distributing malware,1
+,,,other,,0
+63.103.113.55,mc1k.top,,denial_of_service,Phishing email targeting employees with fake login page,1
+,,,brute_force,,0
+,,,other,,0
+58.176.156.22,,,data_exfiltration,Malicious macro in Office document,1
+108.158.219.233,,43c9b961a847fe3f612018e258e161c659ff47415e280bfbd9533548f1962325,other,Phishing email targeting employees with fake login page,1
+,,,other,,0
+,,,brute_force,,0
+79.102.9.130,,560d2d0a8f92916c9a011f26b45094b2714dc21f30bc0a6a2b67a913cbf8e878,brute_force,Ransomware dropper detected in email attachment,1
+8.51.199.37,,,denial_of_service,,0
+246.223.166.121,x74me6t1l40qujssif4.tk,ebc2c44db08f321bcffcc127b3b9974cc2d830d84717d589e176f76c99f7944a,phishing,Credential harvesting page impersonating corporate SSO,1
+,,,data_exfiltration,not sure,0
+,,,malware,,0
+122.147.9.200,g64cjqpbyln.buzz,,command_and_control,Phishing email targeting employees with fake login page,1
+110.246.159.3,,,phishing,,1
+,,,data_exfiltration,,0
+92.134.149.210,32gbttp5p46.buzz,,command_and_control,Phishing email targeting employees with fake login page,1
+115.140.26.99,,abc7360d41aa930b2b0c9583a57d306e9236c4337a18a749bb25b881728787b7,ransomware,Drive-by download serving banking trojan,1
+129.59.28.78,,,other,,0
+,r69kj8.edu,,other,ignore this,0
+,,6a6ba797d669a91e0d120343fd93e338,other,Credential harvesting page impersonating corporate SSO,1
+156.55.115.1,dpetmk958s.buzz,,command_and_control,Domain hosting exploit kit distributing malware,1
+13.27.49.81,8c2vmtoac7f.xyz,,command_and_control,Malicious macro in Office document,1
+24.134.47.238,,c56c9fdcc2ab2fe52ad1c2a66d511648,data_exfiltration,Phishing email targeting employees with fake login page,1
+,,1962f5612871a7e617179fdee0439d50,ransomware,Phishing email targeting employees with fake login page,1
+26.134.115.80,0ixsqw9.xyz,,phishing,Ransomware dropper detected in email attachment,1
+,,,malware,,0
+,,,denial_of_service,Suspicious outbound traffic to known C2 server,1
+130.145.190.154,,,other,Ransomware dropper detected in email attachment,1
+,zbv5wwdori.tk,,data_exfiltration,Brute force SSH attempts from this IP,1
+,jsloe329om4ny4.ru,8e5c4cbd073d9751058816d68d34b3e8,other,Drive-by download serving banking trojan,1
+121.70.132.111,,,command_and_control,asdf,0
+142.76.24.61,au77fo4lyr0dtsq.buzz,,brute_force,Ransomware dropper detected in email attachment,1
+,gapb196so9.com,,phishing,,0
+100.96.60.180,wv9weuuy13r78oo.gov,,phishing,,0
+,,,other,unknown,0
+189.83.21.131,b4hxzehy08.cn,65cdfed58bdf12b3eb6907bff0860ebf,malware,Credential harvesting page impersonating corporate SSO,1
+,suxsahovdsj1ebo95.ru,2c075b8fe155e48d244c7f9ab4ebe77b,other,Brute force SSH attempts from this IP,1
+166.165.48.198,,,data_exfiltration,Malicious macro in Office document,1
+221.160.70.80,,,brute_force,hello world,0
+,,,data_exfiltration,ignore this,0
+158.179.7.187,,,data_exfiltration,Drive-by download serving banking trojan,1
+,,,denial_of_service,,0
+21.167.191.95,flf9.cn,3ab7b3d579c2f9331bb35b0a6e3998c7,brute_force,,1
+150.11.117.116,,,brute_force,not sure,0
+,,,phishing,,0
+,,,phishing,ignore this,0
+,2jwrolykno.net,,other,,0
+163.101.6.122,aehkz2zcremjzq7eul.buzz,,phishing,Data exfiltration via DNS tunnelling detected,1
+,,,phishing,asdf,0
+235.68.178.159,,24898be762ed25ce22e13969480576d4ab6532ebdfa58c6e50e2a20f56adbc1d,denial_of_service,Malicious macro in Office document,1
+,,,phishing,,0
+,,,other,,0
+,4zgy0s9ocjp.cn,,data_exfiltration,Credential harvesting page impersonating corporate SSO,1
+91.220.99.95,dqwgkuq.top,f4d9324a6ee3f5486e547a1531532c4f,other,Malicious macro in Office document,1
+,,287f5239ab2d7231b97991ead5364c0a0aefa43e8949e540aaf677ab095509d3,phishing,Phishing email targeting employees with fake login page,1
+,,,ransomware,Drive-by download serving banking trojan,1
+195.191.47.48,c7b72yrs.cc,,command_and_control,Botnet command-and-control beacon every 60 seconds,1
+,,1d20a61fa2ce7fba84bd23ecd633e79206aed4b15dffc34ffffb137a3e0af1a2,brute_force,,0
+,,,other,,0
+,,,ransomware,,0
+180.130.171.80,,,malware,,0
+197.186.232.120,f37spe7ty7jac5.buzz,,ransomware,Ransomware dropper detected in email attachment,1
+88.71.135.243,5w8izbxqcz9.buzz,,phishing,Drive-by download serving banking trojan,1
+,znlvdu8e0601c8.edu,e1998ab42e66198d573e8d95ca1d0b2e,data_exfiltration,,0
+144.163.183.80,0gxnsayrp3h.buzz,,command_and_control,Botnet command-and-control beacon every 60 seconds,1
+,7qa306m5f3yu1.cn,fde9be588eb8a4a353609353b21e8f1411bd23bfd406f828087434f437c97ceb,other,Phishing email targeting employees with fake login page,1
+,,,malware,,0
+37.45.0.245,72ydkgf3vei7tdn.cc,6790e44cf6baf3bdf72d6ac2a46d40d2934a31690e51b0f6d8d3231ace7b6934,data_exfiltration,Domain hosting exploit kit distributing malware,1
+,316ewj.com,,data_exfiltration,,0
+216.219.174.79,8439sgihn.ru,806625775e6f31d74d8aa6a17cfcf71098d87aa75e0d652c5fe78c5af8df06c6,ransomware,,1
+106.204.51.194,8qk22h145pm.ru,,malware,Ransomware dropper detected in email attachment,1
+,,,malware,,0
+,,b5c1566bdb07ac8f63ebc4ab5e60448f,phishing,Drive-by download serving banking trojan,1
+,,,denial_of_service,,0
+,7lmog4b0kfjm28.com,,malware,,0
+,,,phishing,,0
+251.57.116.105,ykbcowrd.xyz,,malware,Ransomware dropper detected in email attachment,1
+,,,ransomware,,0
+,,,data_exfiltration,,0
+,zztbxm0pb1tnhmoqm.top,,ransomware,Brute force SSH attempts from this IP,1
+115.34.135.65,z94mrh.top,3695da2ba967d7a824a5a9f188b2e7764beb661378f71dbced14f20a655166e9,other,Ransomware dropper detected in email attachment,1
+,5nsyxtrsc9j0dphilm5.top,,malware,,1
+171.171.57.38,,,ransomware,Suspicious outbound traffic to known C2 server,1
+,,,denial_of_service,,0
+,38o7j0m8qu3ya.net,ceb9b4b61c12560cab052e3802a50ae595948cd7eff872beb71d0f25b0815f28,command_and_control,,0
+,ng71oxebs8ddprs467m.buzz,,brute_force,Suspicious outbound traffic to known C2 server,1
+,bxuemv0t8pxy.cc,1718a857922621bc7278fa86582bb21b,ransomware,Suspicious outbound traffic to known C2 server,1
+,,,other,,0
+21.249.60.114,,,command_and_control,,0
+23.127.49.166,3hagey.cc,,other,Suspicious outbound traffic to known C2 server,1
+,,,data_exfiltration,unknown,0
+94.114.102.186,z75ij.cn,,denial_of_service,Domain hosting exploit kit distributing malware,1
+,,,malware,Data exfiltration via DNS tunnelling detected,1
+,zsfxvad359ampcaoapwm.tk,4e4799cabf03031d52cf973bf9003a72,other,,1
+80.32.237.127,,,phishing,Botnet command-and-control beacon every 60 seconds,1
+11.222.29.29,,,brute_force,just checking,0
+,8yyek4.edu,,other,n/a,0
+151.68.141.168,8u48sd.net,,other,just checking,0
+98.0.230.223,,,ransomware,Suspicious outbound traffic to known C2 server,1
+,,,brute_force,n/a,0
+,osrzmjtz8.cn,4d2c07d972ccb6210c05de58c3ac89f869f43bd774fdaccfbf08fda07988da4b,malware,Botnet command-and-control beacon every 60 seconds,1
+227.26.143.208,fuymn8yzqop7.cn,,malware,Botnet command-and-control beacon every 60 seconds,1
+,,3d1b9163121406c9b6dd02c535a45a08a1dc3c9df5b17ea2bc01679edeb89427,denial_of_service,,0
+,,,malware,hello world,0
+122.74.153.123,,f5cdf2230a8db57c3c4acc83adb1c832,brute_force,just checking,0
+,,,brute_force,,0
+249.11.26.71,,,command_and_control,,0
+129.8.224.38,b2phr1i.buzz,e197aa6d962a0b12922418d95e72c504ff45d1710faa5f57a167e255bf232777,command_and_control,Data exfiltration via DNS tunnelling detected,1
+,,,ransomware,,0
+144.116.60.239,d6j2owa98k11uo.ru,35275f31b14b68575ff7677549258862,data_exfiltration,Credential harvesting page impersonating corporate SSO,1
+226.216.61.240,4lsm9xkvvf1z5jge.cc,d57c16c1e0f4337bc959e4dbc5c86e16f39ad098be83fd8fa6f6c1722ba281f0,command_and_control,Credential harvesting page impersonating corporate SSO,1
+,,eacddd4adf5480bd75e2cb0e594149e2e2aa20e106fa1ecba905597167bef7ff,other,ignore this,0
+,ai5q.gov,2d1db767c49e7b5cefa227abe8d453e1,malware,,0
+54.13.25.137,gzuhuogl5uxwmu3rr576.buzz,0954f51fac17f176874470496e40b43e,ransomware,Botnet command-and-control beacon every 60 seconds,1
+24.112.74.218,,ab264d6ecf35088221766448ec60014882ce3dd865a2be562081bf9a10e6ccfc,other,,1
+75.158.214.4,,c6fb2cdf41a0be18b543ff46e6ca0d1b25f7bdfe3a9f2daf46ddb7a8c84affa5,denial_of_service,Brute force SSH attempts from this IP,1
+,,5e3981d72e309fb7adb7de965d8fa845,ransomware,Domain hosting exploit kit distributing malware,1
+,lrlieoinrn6cvk7isc.xyz,1537465c42abda7c7786cfcb6d878937,denial_of_service,Domain hosting exploit kit distributing malware,1
+193.2.54.116,pn57.ru,,denial_of_service,Brute force SSH attempts from this IP,1
+,br7qkyw26x3wtsondpeq.org,,data_exfiltration,test,0
+,uln9t.top,,ransomware,Malicious macro in Office document,1
+3.145.3.20,27aeb6zcvbbxcfzqbo9x.xyz,,other,Data exfiltration via DNS tunnelling detected,1
+79.64.233.74,,,brute_force,,0
+243.161.62.233,w2776y5hermjau.cc,,brute_force,Suspicious outbound traffic to known C2 server,1
+9.26.10.62,d6mvq8.tk,8238a7b30b9e20157c6947cd4c714756,malware,Data exfiltration via DNS tunnelling detected,1
+,,,command_and_control,,0
+1.240.50.85,hvwr6x.buzz,007ed48575cc5673851ea49aab87c85e,ransomware,Malicious macro in Office document,1
+123.238.69.207,,,other,not sure,0
+,21potn2b59vfngrfpg.buzz,376bf8862c469354ef215e8f515bb43c,brute_force,Ransomware dropper detected in email attachment,1
+60.178.14.135,,,malware,,0
+218.56.53.234,,fce41ed6cc65cbbba2fd213539a332ae,phishing,test,0
+,,,malware,,0
+,,,ransomware,,0
+78.9.46.149,,f59b317a265926d9c8897604e560773e,command_and_control,Suspicious outbound traffic to known C2 server,1
+240.90.237.41,,,other,,0
+144.231.88.74,5oxk9be29y9.tk,,command_and_control,,1
+,,42e42738228e6f8ea631a602a5a2d23d,other,,1
+,,,brute_force,,0
+88.138.173.115,,,command_and_control,Credential harvesting page impersonating corporate SSO,1
+4.207.247.181,l6yoeffve.xyz,a1d2bf2f01213ac7e31e253038e5686d38f7f4bc1179db4f54ee4a21f8d6589e,malware,,1
+10.242.249.79,wdq04r0dat01n8uxsk.cc,19a8499b45e95ab830d0f0ebf68f2a67,other,Drive-by download serving banking trojan,1
+172.216.251.69,nwcdmt6g.tk,6012e0ca00f545fdc4655aa14373840e74a708831dbf4b781d5138c10a2289cf,other,Suspicious outbound traffic to known C2 server,1
+,,,data_exfiltration,,0
+150.170.68.90,3k15xjfnacv3wmi.tk,66c21a0d120ccf92079e4b2b77986ea1106f9b64c0dac86f63909d00855d6eb5,other,Brute force SSH attempts from this IP,1
+,,,data_exfiltration,Domain hosting exploit kit distributing malware,1
+191.37.237.122,,,phishing,,0
+212.178.172.129,,,phishing,,0
+100.14.126.206,,3a94481b207fcf1308cbed99cac8e132,command_and_control,,0
+,,,ransomware,123,0
+,,,command_and_control,unknown,0
+65.10.144.37,,,data_exfiltration,,0
+,,,phishing,,0
+42.139.150.11,x3c0250vnvjodruz.top,2e8e70732418b879fedf8db7bbdf750a2f1874ddd73d0bf853c2e80d8a5fc69d,data_exfiltration,Domain hosting exploit kit distributing malware,1
+111.199.25.40,clep489xcw0p.cn,,data_exfiltration,Drive-by download serving banking trojan,1
+,,bd7993191eaf42add04d0769f4552ec66e9ae734c367d4e3ba074e8394b3f6e9,malware,ignore this,0
+,,,other,asdf,0
+,,,ransomware,,0
+,,,other,n/a,0
+67.73.161.98,1vl6q0n9a.xyz,1d7d07fa148fc59b61582b295c8202213b746391b865689f02c0c5c7f2428f85,command_and_control,Domain hosting exploit kit distributing malware,1
+245.163.247.192,fyiuuyxddk.gov,,phishing,,0
+194.171.191.105,,,command_and_control,Phishing email targeting employees with fake login page,1
+253.57.242.7,,,phishing,,0
+,n1l79wufsljokf4.ru,,denial_of_service,Ransomware dropper detected in email attachment,1
+105.179.87.229,xg7atsxd.top,f2f035049de6bcdc52c72cf13b5dc886cd0469da27175acf534b602ac28f604f,other,Ransomware dropper detected in email attachment,1
+174.248.217.92,309qm7e91y5.xyz,,data_exfiltration,Ransomware dropper detected in email attachment,1
+113.9.220.54,,7199d73bb63606ed5c567b4fce6187fdc0d2fd23faecc261631703dcddcd165f,denial_of_service,Ransomware dropper detected in email attachment,1
+,,,phishing,,0
+,68t1csy24c1ty3zem.cn,a282b9ecbff73b21a9bbe98528c1dfd499726fc9b6e6e1fb2c4bb23f54e609a6,malware,Drive-by download serving banking trojan,1
+,,,malware,,0
+248.236.125.107,rygc6tfa0f9v.cn,,malware,Botnet command-and-control beacon every 60 seconds,1
+68.94.24.130,w4a5qkvekcpo7.edu,,phishing,,0
+49.61.9.250,,,command_and_control,Ransomware dropper detected in email attachment,1
+240.140.8.55,,,brute_force,,0
+,,,command_and_control,unknown,0
+14.242.141.240,c5bvynaw1w2dtrvdmx8.cn,,brute_force,Botnet command-and-control beacon every 60 seconds,1
+,,,ransomware,,0
+22.228.213.139,,2a8a1559ba893dd6e392e3b16333a0f7,data_exfiltration,hello world,0
+,,05fcb6ddf8998212813101f87f03cb25b2a9da31a0ac4c47d6d3f85bfc335a0e,phishing,,0
+,,,command_and_control,Drive-by download serving banking trojan,1
+,50wclaisavtz.edu,,ransomware,,0
+82.147.250.85,,,ransomware,unknown,0
+,62a2zwsch46uw9.tk,e0064f07cba7c654764083df2bd6e9319ea2211c6c0c7eef5fd2b0427b9f2c48,data_exfiltration,Domain hosting exploit kit distributing malware,1
+,oyiexp9c4s15kqev8q.net,,malware,,0
+,,,ransomware,hello world,0
+177.22.86.196,,,brute_force,Drive-by download serving banking trojan,1
+8.38.71.232,,,data_exfiltration,ignore this,0
+190.5.38.214,q9ei35pt4lp.buzz,abb6551ac059c813b45126c592105b3299747f7a30c41d6fe018aa97fa38bc3b,other,Ransomware dropper detected in email attachment,1
+,,31d383b2d6e7b48e5de12f01900f4847d7b4a9456470a5388d1abcb34a34f603,phishing,,0
+,,,command_and_control,,0
+219.75.120.238,,,command_and_control,,0
+,,,other,asdf,0
+232.52.89.136,,,denial_of_service,asdf,0
+,z3rg7accsfmjj5.ru,3af5a1ece50c61a825091d0c16a6e2bb05c0a7c254d7c2e535376725a9545c45,malware,Domain hosting exploit kit distributing malware,1
+,tjo2jil4tajh9xkoni9.top,3bad3d2e04301e55fe642dab83e52e6af3aa1c80e84ecd4f30b652d9c68920b2,denial_of_service,Suspicious outbound traffic to known C2 server,1
+231.46.44.7,4bwqcdcp6g8zxc6lrfqk.cn,,command_and_control,Drive-by download serving banking trojan,1
+,,,other,just checking,0
+97.128.16.140,sykiiorw1iknmr9.ru,113c3ffd0ce686da068fd714d0f75c36,data_exfiltration,Drive-by download serving banking trojan,1
+,b9pg1j73o7r8vg6y9sc.net,,command_and_control,unknown,0
+,,,ransomware,n/a,0
+222.42.114.148,v8f6avtn8.buzz,5d3f3799002f67d758d81e58d934ff28d9312439700fc837e2db9f66231ca22a,command_and_control,Botnet command-and-control beacon every 60 seconds,1
+144.224.81.216,g578u9rz6j31o75.cc,8fb5e85c62e00b1781287c1c3fe51788,data_exfiltration,Botnet command-and-control beacon every 60 seconds,1
+,,,command_and_control,,0
+220.118.107.133,,9fe43e66fa1bee7cf967a91e66f2f6dc90746b5b6779a9f2b9075a1f7e8caeb5,denial_of_service,,1
+60.61.180.246,,,malware,Ransomware dropper detected in email attachment,1
+,,,command_and_control,,0
+206.174.85.152,,c44f2675e5c35c515c04bb8fdf35e0ab,command_and_control,Botnet command-and-control beacon every 60 seconds,1
+252.235.188.182,,12601ba5e7f855a663d23232b1b00041,brute_force,Credential harvesting page impersonating corporate SSO,1
+140.33.71.22,dzx3wa.ru,b25562ff8e561180495a8678664ef594,data_exfiltration,Suspicious outbound traffic to known C2 server,1
+,,,command_and_control,ignore this,0
+,,,other,,0
+,,,brute_force,Suspicious outbound traffic to known C2 server,1
+213.92.248.170,,e0a1d321cc3d83d72578cb33f6682d42,data_exfiltration,Domain hosting exploit kit distributing malware,1
+110.193.19.181,,,command_and_control,Data exfiltration via DNS tunnelling detected,1
+251.91.211.200,,,command_and_control,unknown,0
+,,4a7f440f98a7711536ef33ba60b65858,data_exfiltration,,0
+,,748f8e335c8d8b017315e499e24db5f8,data_exfiltration,Suspicious outbound traffic to known C2 server,1
+235.141.105.196,yvgy770.cc,37ed577bff68cb1a20d4d50d091115f0baad6e35084bea273784a1493e70b2ab,brute_force,Drive-by download serving banking trojan,1
+172.61.100.162,8xwovplvsdks.top,,other,Drive-by download serving banking trojan,1
+,,,brute_force,not sure,0
+253.118.47.173,3ibkfi.buzz,85286b44a5519aabe71e3af388c9d14a431d3c1d5dc06387050602d14f54dc93,other,,1
+55.254.25.76,jqf6dmox8near.tk,,command_and_control,Phishing email targeting employees with fake login page,1
+240.2.91.167,,,malware,Brute force SSH attempts from this IP,1
+183.116.96.14,,,denial_of_service,,0
+,lbylbapkl.net,,malware,,0
+221.129.236.226,,269e36008701d477963246e71c10b9206a0b88a7a8377527a03db3e501e0af6e,denial_of_service,Brute force SSH attempts from this IP,1
+71.45.236.68,,,denial_of_service,Malicious macro in Office document,1
+,ftxqyail6ezq9wxuum30.xyz,,other,Domain hosting exploit kit distributing malware,1
+78.113.121.91,,,malware,just checking,0
+,,,phishing,n/a,0
+38.240.227.62,pnr6fk6k.xyz,,command_and_control,Botnet command-and-control beacon every 60 seconds,1
+,,,denial_of_service,,0
+42.15.185.71,j9k8kqanw2tlry6wt.xyz,7085a2f893a37e0074b58862df082626,phishing,Botnet command-and-control beacon every 60 seconds,1
+60.24.42.227,,,command_and_control,Suspicious outbound traffic to known C2 server,1
+152.139.105.173,,,denial_of_service,Domain hosting exploit kit distributing malware,1
+246.113.63.32,t4ku8w3ktn.cc,,phishing,,1
+218.225.207.126,keywcp767d.buzz,,denial_of_service,Drive-by download serving banking trojan,1
+,,,ransomware,123,0
+161.149.247.179,,,data_exfiltration,,0
+125.131.80.183,zubyuk0c6xahw.cn,,data_exfiltration,Ransomware dropper detected in email attachment,1
+35.221.71.216,,,malware,Malicious macro in Office document,1
+,,,other,n/a,0
+,,,brute_force,,0
+,,,other,just checking,0
+227.178.49.169,,3c3323e23c70b5eff1e03e49e183b7fc3cc6ae2dba61034b2a0b243f640038f0,data_exfiltration,Drive-by download serving banking trojan,1
+16.125.77.228,,,command_and_control,Credential harvesting page impersonating corporate SSO,1
+,zpcigc7flknv5sh.xyz,,command_and_control,Ransomware dropper detected in email attachment,1
+,,,command_and_control,n/a,0
+,,52d441aa15732823720416e8da5ff288241763500e0308212df7bf190ec013cb,ransomware,Credential harvesting page impersonating corporate SSO,1
+161.114.37.5,,4794cb8ed6267dfc521a601e67e34f38390096a9a9854c512262bf115f24bb2a,phishing,Phishing email targeting employees with fake login page,1
+104.144.129.70,zo94.cc,,other,Domain hosting exploit kit distributing malware,1
+,,93bf4d0876b60b174ed38351fed0a989,denial_of_service,Malicious macro in Office document,1
+199.90.240.45,67jf04m7kabktj4e8j0.com,,phishing,,0
+111.43.127.242,,,brute_force,ignore this,0
+,qnyefw3id.xyz,4819c469f819865218964815a9de2a86,phishing,Malicious macro in Office document,1
+31.82.61.62,,,phishing,Malicious macro in Office document,1
+15.176.111.63,xwgrf9pvbxl2ktsj.tk,,ransomware,Brute force SSH attempts from this IP,1
+240.66.219.153,0miv6o876aa7gpbzv9.xyz,400caa462e816e527aefaea9e5c13eab,denial_of_service,,1
+183.39.133.91,ciyfmn74g5.cn,904dd0ad467904ac10e1f2d09cc4e438,ransomware,Data exfiltration via DNS tunnelling detected,1
+93.169.228.171,,a0ec35c1d5e0dae30cfa50f83897e6d49050c65081aec554a899476ce58cb42f,denial_of_service,Drive-by download serving banking trojan,1
+44.146.41.9,husl4k.cn,,command_and_control,,1
+7.183.126.202,,0bc3a9de09f535b1d4f40fa5b534dc1e,malware,Credential harvesting page impersonating corporate SSO,1
+,82x8g89vmseqytvdpy.tk,,malware,Suspicious outbound traffic to known C2 server,1
+,,,ransomware,,0
+,0gezc8bdxmes2mf8.org,,data_exfiltration,test,0
+,,,phishing,test,0
+199.55.220.118,,06299534551c83d377a2255e5bc85458,phishing,Suspicious outbound traffic to known C2 server,1
+200.128.16.206,6337xrveq7qe10u.ru,,brute_force,,1
+10.234.97.22,qjrb04v3dzecm29f03y.cc,,denial_of_service,,1
+,,,other,Brute force SSH attempts from this IP,1
+,,1a3efe26e017cb6f7dcbc3835e67e7e3f1e9b57c43439e53e691bebced0dc283,phishing,n/a,0
+254.17.227.130,,6a438424f001cf5e88d5e41a034f8e79,phishing,Malicious macro in Office document,1
+,o3ng3tke95x6c74zzz.ru,,data_exfiltration,Phishing email targeting employees with fake login page,1
+,,,phishing,,1
+46.20.152.236,fqnfz.tk,210dded5cb414b920076969783bf9e85cf2e4250da393638e7d926b5e071914a,data_exfiltration,Botnet command-and-control beacon every 60 seconds,1
+,venqubln4x2jyd3l0.org,,other,,0
+116.188.187.176,uky1jgj.top,864b0641747c44fbd92c913867a0112d,command_and_control,Drive-by download serving banking trojan,1
+22.77.151.97,p71chcnn.top,,phishing,Phishing email targeting employees with fake login page,1
+178.254.1.7,vs3enqt8zmm4o6swo7.cn,390216631116838d9cb361dd1d19ace6,denial_of_service,Botnet command-and-control beacon every 60 seconds,1
+193.109.181.52,3oqrt23bgfi.ru,ad5577fda64fe71bfdf1eef2345ee8ab4cde5436f47e10adff3ce1e55a9c399c,denial_of_service,Data exfiltration via DNS tunnelling detected,1
+,,f717eea398e77558a75aa22656ad09c588a31eae4c0e74643494ca92dbef0f2b,ransomware,,0
+173.207.226.142,,713f5a0309b698c178027608f832ae6f8523f3767538f6d103e4edee5b371b07,brute_force,Drive-by download serving banking trojan,1
+,,,other,,0
+,,,data_exfiltration,n/a,0
+157.114.109.38,,,malware,Suspicious outbound traffic to known C2 server,1
+37.188.25.251,x5pd645mrocv4p0t4.cc,,ransomware,Suspicious outbound traffic to known C2 server,1
+51.129.178.252,bepdga30m4pd7.com,,malware,,0
+153.116.194.198,,,command_and_control,,1
+124.148.200.69,,,data_exfiltration,Suspicious outbound traffic to known C2 server,1
+97.141.85.254,,,command_and_control,just checking,0
+,,,command_and_control,Ransomware dropper detected in email attachment,1
+,,,brute_force,,0
+,lmbja01wlu.ru,4d193e2df3fc392ffb3470ef06bd84a35e6d651fc2d3425df6d9803253d95e00,other,Phishing email targeting employees with fake login page,1
+,,,data_exfiltration,unknown,0
+,9ycs4.tk,ef58734b9e66a0473e34236cb0ee07cdc53d616ed392b9134d254740f4dc7b8c,phishing,Credential harvesting page impersonating corporate SSO,1
+,,,malware,,0
+,,26503564d56e2cb238612643de7e37e3f2629fc4f7ee68b864d89d9f94fa60d6,command_and_control,,0
+,,ed9e292c000e06852b9322caaaf44ce44f68bdd3b6037b1131ca9f8561017d9f,data_exfiltration,Domain hosting exploit kit distributing malware,1
+,,,other,,0
+,,,denial_of_service,unknown,0
+,,,denial_of_service,,0
+,4l1kuudf7.org,,brute_force,,0
+30.187.45.183,ng2gc1zrrmsrr.top,232714a9894ef68124f539126015a68837fd5cd75cc547dd67c96bc071b66357,command_and_control,Domain hosting exploit kit distributing malware,1
+,1gu0odye.org,,denial_of_service,,0
+72.157.62.158,meavi7evj6v9.buzz,,data_exfiltration,Malicious macro in Office document,1
+26.167.49.133,,,data_exfiltration,,0
+,,,command_and_control,,0
+178.145.142.235,sjg7lbjhj76.buzz,1e5a32811203aa446ed9b39bee769b23,data_exfiltration,Credential harvesting page impersonating corporate SSO,1
+124.56.63.96,,,other,,0
+185.122.186.43,yjmqky.xyz,,command_and_control,Botnet command-and-control beacon every 60 seconds,1
+247.101.187.242,,a9ef6d17d9039cc601efd6059c464bc5e76192312146a38dfd23a18b0df96475,ransomware,Drive-by download serving banking trojan,1
+,,,malware,Brute force SSH attempts from this IP,1
+,,,denial_of_service,Botnet command-and-control beacon every 60 seconds,1
+,,,denial_of_service,Credential harvesting page impersonating corporate SSO,1
+106.67.247.46,e3oeoglo376bvpehpc.buzz,,data_exfiltration,Malicious macro in Office document,1
+,,840d18b5504f7835f42b275afe311ecb5fd77cc809836bc448337c6f2caa403f,brute_force,,0
+,,,phishing,,0
+,,,denial_of_service,,0
+,,,ransomware,,0
+,,,denial_of_service,,0
+,,,denial_of_service,hello world,0
+,otan1.ru,,data_exfiltration,,1
+46.234.171.228,lm147tjoxy7.cc,,phishing,Brute force SSH attempts from this IP,1
+,m19d.top,,data_exfiltration,Suspicious outbound traffic to known C2 server,1
+240.73.35.156,,,phishing,,0
+241.119.53.180,e6x66.ru,,other,Botnet command-and-control beacon every 60 seconds,1
+248.243.245.168,mnxg2xs3.cn,,brute_force,Malicious macro in Office document,1
+241.1.100.11,kwlzpwh5iovp.top,,ransomware,Suspicious outbound traffic to known C2 server,1
+,ygmo5ijkpwozn7ckhv.ru,,denial_of_service,Credential harvesting page impersonating corporate SSO,1
+,,,denial_of_service,,0
+7.208.36.80,i8i3fmxhxvfqlc3g.cn,84252bcf2c198c43bd7cb6620fa7112b,brute_force,Brute force SSH attempts from this IP,1
+,7k44gjyrihl6i.xyz,e91e46fdf761fc2e9a9c58a33b405a2f,phishing,Malicious macro in Office document,1
+254.162.40.187,,,denial_of_service,Malicious macro in Office document,1
+,,,denial_of_service,,0
+79.191.103.163,leoq7fxyz9uj.xyz,,malware,Phishing email targeting employees with fake login page,1
+23.152.190.233,,,data_exfiltration,Ransomware dropper detected in email attachment,1
+,,,ransomware,,0
+,,,ransomware,test,0
+,,,malware,Malicious macro in Office document,1
+137.215.106.105,2f8g6u45wnxrpw.cc,,ransomware,Domain hosting exploit kit distributing malware,1
+42.200.16.62,,,ransomware,Brute force SSH attempts from this IP,1
+190.141.101.133,2avv3u63p2vpc5eujd.top,,command_and_control,Botnet command-and-control beacon every 60 seconds,1
+49.150.145.133,,8942d0549e6a1f79d9af4ebbd3c0155addc642fc82117f50e0fbcfa8dd1ff953,phishing,Credential harvesting page impersonating corporate SSO,1
+197.227.111.70,,,denial_of_service,just checking,0
+,,,denial_of_service,,0
+55.66.189.64,,,command_and_control,,0
+,3tza8jp5st.gov,,command_and_control,ignore this,0
+11.252.40.192,,,phishing,,0
+56.88.127.141,,,brute_force,just checking,0
+,,,ransomware,Drive-by download serving banking trojan,1
+,,,command_and_control,,0
+153.122.166.198,,83ab927ea53a9e2d6c15917773e995cb,denial_of_service,Brute force SSH attempts from this IP,1
+187.156.73.19,,,brute_force,Credential harvesting page impersonating corporate SSO,1
+,,842b635baf1df7794fe81173b3a05639222a5f10986862c9b07649a9d8e31a01,denial_of_service,,0
+,80pz2qsq14vjc8egb4.com,,denial_of_service,,0
+56.246.180.21,,,data_exfiltration,Phishing email targeting employees with fake login page,1
+154.58.217.12,,,malware,test,0
+126.95.25.140,r8iais.cn,3c530e97011792db9b2202d7ab1a7c41,other,Brute force SSH attempts from this IP,1
+,,,phishing,Botnet command-and-control beacon every 60 seconds,1
+,,,brute_force,,0
+182.0.146.123,jrzz6pynvc1wxh4.edu,,command_and_control,,0
+233.105.97.226,swv4p8xsv.tk,,data_exfiltration,Data exfiltration via DNS tunnelling detected,1
+,,,malware,,0
+163.42.20.233,1795yvlkc24tg.tk,,ransomware,,1
+,e9sk198fg8zs.buzz,41a0d4c4a5ba1467e66de52b22497dc2,ransomware,,1
+,,f4eb2e4806f0c7e693a5e6bf7403fd8ebbaf4707a614e3707d835dc5d8f09d4d,phishing,Data exfiltration via DNS tunnelling detected,1
+81.72.162.114,qvzdf1u71ki.xyz,,malware,,1
+,,,other,,0
+,,,phishing,hello world,0
+211.126.176.12,,,ransomware,Credential harvesting page impersonating corporate SSO,1
+,,,data_exfiltration,,1
+,80tsztb4iwyb58lp.gov,17a41715920f94ec9e742e9adceb802cf06f656cc1deec1cd2e8b8b1177ad7e0,other,,0
+,,,malware,test,0
+39.51.90.95,,,phishing,just checking,0
+52.114.25.144,wdjj9zq3zgfek1me9cz.buzz,,data_exfiltration,Suspicious outbound traffic to known C2 server,1
+,,,phishing,Botnet command-and-control beacon every 60 seconds,1
+,jpjlabsxb25.edu,a34e7482f9a828a09ca5d6857d55335f662a271e2b67c811a3092c70f53a194f,brute_force,,0
+96.85.124.93,,,denial_of_service,Suspicious outbound traffic to known C2 server,1
+191.150.12.156,smv1xeo9hnje2.cn,,data_exfiltration,Credential harvesting page impersonating corporate SSO,1
+,,704799a3da3ba361a52f755483acee2a,other,Domain hosting exploit kit distributing malware,1
+,,,brute_force,,0
+147.253.94.188,,9fb3ada55bdcf60b15a10f5c1fb519f4,denial_of_service,Ransomware dropper detected in email attachment,1
+,,,data_exfiltration,ignore this,0
+91.252.17.59,spq6jit0.tk,,brute_force,Suspicious outbound traffic to known C2 server,1
+225.147.203.215,k5helx986s0h873bb9e.top,dcc37ef20bfccc9e0f2c47e73ed94a19,phishing,Credential harvesting page impersonating corporate SSO,1
+,km8jb4kj690j0rg8.org,,denial_of_service,,0
+,,56ad15076cae4ae7ea479658e6ae4a34,data_exfiltration,,0
+,ky6zxznwuaeb9nh.ru,5a9914dc065940235dd76a9b87c3f8800e3dc1fec5e1ca7ff59f8ed213030344,malware,Data exfiltration via DNS tunnelling detected,1
+84.2.24.191,ee38kyubt78m0uuxper.ru,61375ce76a97c200adb1a55ab7be14fb,command_and_control,Suspicious outbound traffic to known C2 server,1
+69.246.141.118,ilbxynhaod3oleq4fwbm.xyz,73d773baf252a661f3eafda4c1f39ad0,ransomware,Drive-by download serving banking trojan,1
+164.99.32.145,,,malware,Credential harvesting page impersonating corporate SSO,1
+177.96.123.11,whrkn50.cc,,denial_of_service,,1
+107.246.76.85,uc52mgoyq1u36u1pml.tk,3489161d5002f8ebcabab732a0200a70,command_and_control,Drive-by download serving banking trojan,1
+,,,brute_force,,0
+160.164.70.251,,4cf583be8db1e3e90851b28d37201b40d52455165ac97fad3a5996f6222bacf4,other,Drive-by download serving banking trojan,1
+,,,phishing,,1
+186.207.210.90,,,malware,Botnet command-and-control beacon every 60 seconds,1
+,,,data_exfiltration,Botnet command-and-control beacon every 60 seconds,1
+,,,command_and_control,test,0
+197.169.2.227,m8zl0aedsfcif.cc,,phishing,Data exfiltration via DNS tunnelling detected,1
+,,,data_exfiltration,asdf,0
+241.235.62.211,uiryjfmzqp7tm6.top,44ec191f60e23e63ca0f844f73459ae1,malware,Data exfiltration via DNS tunnelling detected,1
+220.25.166.251,y1bt.top,b50532d0d624b14df6f9adf51368643ae6378e0df7217f34ea50801384f92d9d,phishing,Botnet command-and-control beacon every 60 seconds,1
+180.140.240.81,jnvcli.top,,command_and_control,Data exfiltration via DNS tunnelling detected,1
+189.82.88.123,uy0brpdr.tk,,other,Suspicious outbound traffic to known C2 server,1
+171.254.235.108,6h9k918lfpl.buzz,463df67dc0469682d24b551afcee00c4687a7a249e025e8c09145c1b3c538ee3,other,,1
+29.101.78.19,,,denial_of_service,,0
+,,,command_and_control,just checking,0
+193.216.32.58,y3lsg5j.ru,3d61bf8b1e484dfbc00d5876191fa41a,phishing,Data exfiltration via DNS tunnelling detected,1
+,,,brute_force,,0
+218.18.152.169,,,phishing,Malicious macro in Office document,1
+,,,data_exfiltration,,0
+,,,brute_force,Phishing email targeting employees with fake login page,1
+113.232.247.211,kdu2i.cc,,denial_of_service,Ransomware dropper detected in email attachment,1
+141.178.223.48,pqhxfb1cbya03li0l.cc,,other,Drive-by download serving banking trojan,1
+,,,other,hello world,0
+,xq1ocgb9gkknijiij.xyz,e981a1f8fe4698eeed74474f935eb52aecf0569e7e61d7f98e1b0edefdbf8413,data_exfiltration,,1
+,r70jv517.edu,,data_exfiltration,n/a,0
+47.69.51.68,srzj0n4ay.ru,,phishing,Malicious macro in Office document,1
+71.131.160.94,wia7p8ebna6vrj.tk,f1168208c908b5f0bb5d3608c4eb0a06dd6f612563209110605e7c5d78abe91d,brute_force,Drive-by download serving banking trojan,1
+102.115.59.185,t42onvua91do2pq.cn,,phishing,,1
+,,,brute_force,,0
+21.92.19.15,lazgc68buw9ckw24mhvi.buzz,b063b69582893b25a6e723c3cd93843f0514a82fc736df6f31a33e6603b0b73b,other,Botnet command-and-control beacon every 60 seconds,1
+,,,command_and_control,,0
+19.216.118.161,15s52bjpl7eglcium.xyz,,phishing,Brute force SSH attempts from this IP,1
+,1eeiumk4wql.buzz,,ransomware,Data exfiltration via DNS tunnelling detected,1
+200.179.112.85,sexjp184ggjj.xyz,8812310087f7f7c89779a4d38c996cd8,data_exfiltration,Malicious macro in Office document,1
+4.52.64.155,,,ransomware,asdf,0
+83.207.236.5,,,brute_force,Botnet command-and-control beacon every 60 seconds,1
+,,,brute_force,,0
+,,,phishing,hello world,0
+252.73.219.63,,,ransomware,Phishing email targeting employees with fake login page,1
+120.18.107.239,dis8pz6lo4qgxxvji0l.buzz,0607251cf3e99e20728ab13f43033213a4f7e266ecc42f4817d71e2d0df95b93,data_exfiltration,Credential harvesting page impersonating corporate SSO,1
+,hl28yqzm.tk,,phishing,Drive-by download serving banking trojan,1
+158.150.107.193,kbxjqno5lkxp7t9t6.top,,data_exfiltration,Credential harvesting page impersonating corporate SSO,1
+68.170.64.160,n4skv.cn,,denial_of_service,Data exfiltration via DNS tunnelling detected,1
+,,,denial_of_service,Drive-by download serving banking trojan,1
+,i4xz.cn,,command_and_control,Malicious macro in Office document,1
+90.240.8.11,,,malware,Domain hosting exploit kit distributing malware,1
+117.211.208.122,yvrt5e90ddbmur81ga0.xyz,,denial_of_service,Domain hosting exploit kit distributing malware,1
+,,,other,,0
+,,,denial_of_service,unknown,0
+,,,data_exfiltration,,0
+,,,data_exfiltration,,0
+,rsr7xzv3lp5vj415.cn,b07ec31da7d3906a8f7fa6e89908364d,ransomware,Brute force SSH attempts from this IP,1
+52.110.182.74,,,data_exfiltration,,1
+157.235.109.84,,,command_and_control,Credential harvesting page impersonating corporate SSO,1
+196.60.209.199,mt23rgz8wy9dggn1dhu.cn,7d4b1127d1cf94b10f7f3d6b622f0e4d,malware,Data exfiltration via DNS tunnelling detected,1
+,gwhjcuoa2be.tk,,data_exfiltration,Malicious macro in Office document,1
+180.230.60.70,,0eee284896efa9aa2980f33c9b661d690eb09069056f3a79e1b1e07301db16c8,denial_of_service,Credential harvesting page impersonating corporate SSO,1
+,,,data_exfiltration,asdf,0
+,,,phishing,,0
+227.100.251.176,,,denial_of_service,Ransomware dropper detected in email attachment,1
+157.217.243.66,9fuszqk4g4vqpywco.tk,a55c8df693d0bff2f19e4ca957e89146869d3eebcc8e5d336510b5ac54d1758c,ransomware,Data exfiltration via DNS tunnelling detected,1
+77.219.133.111,,,brute_force,Ransomware dropper detected in email attachment,1
+,,,brute_force,,0
+34.149.47.107,ag0lx13w53uqe.edu,,malware,,0
+64.215.160.142,plkbmaw8dxekp.tk,,other,Drive-by download serving banking trojan,1
+74.206.177.240,u9ad9sa.net,,malware,ignore this,0
+225.122.26.54,qsx9b.xyz,b08f1885ed42fad73005d0be4b23621c,phishing,Suspicious outbound traffic to known C2 server,1
+,denah7ptqpvjjdhchiv.cc,,brute_force,Ransomware dropper detected in email attachment,1
+,,,malware,,0
+214.62.244.210,sledt70zibity.buzz,669bc6606ac1bdae14d9d9dc241fc6e3,command_and_control,Ransomware dropper detected in email attachment,1
+,4wr1.ru,,phishing,Suspicious outbound traffic to known C2 server,1
+223.64.48.90,,,brute_force,,0
+10.193.137.119,,,command_and_control,Suspicious outbound traffic to known C2 server,1
+147.103.65.66,ah94p5ii9n50p7.xyz,,malware,Malicious macro in Office document,1
+,skxvwj9cr.com,,phishing,,0
+192.244.103.24,,5817f26bdede13ad8d46d6ea8f106e5bda0f08812f1b34795cad5e311b2fcc89,data_exfiltration,Brute force SSH attempts from this IP,1
+,,,data_exfiltration,,0
+105.166.34.81,,,data_exfiltration,,0
+176.127.98.142,hp1i1xt.net,,phishing,,0
+,,,data_exfiltration,,0
+33.236.223.150,dyzdo254gi8175iqtt.top,68c6b601079f85a0c01d9c872483e71780daa343c2974f501a9ef59366f79f2c,malware,,1
+158.98.1.95,,,other,,0
+,,,brute_force,Phishing email targeting employees with fake login page,1
+245.70.53.31,aaaxhh.top,4165a7e2f04883ec17bd8bd66a824bc324c920369c5a3647901d4c6d76371bba,brute_force,Credential harvesting page impersonating corporate SSO,1
+198.85.99.42,vtpd3faumxd.cc,ae21bf633b85b8c42939bb4fae1a34332aa22a8473c629b853c9e867394fd05a,ransomware,Ransomware dropper detected in email attachment,1
+,ypi9s4s.cc,ac2b2c0c01e8f4fe9d8d80a88c39f624,ransomware,Botnet command-and-control beacon every 60 seconds,1
+155.28.190.192,qzeb0q2nyyze5ykciz.cc,09572ced9deabc25636e33282cfd084dfd9f2f1eab1d8af377bac4887f86f238,other,Brute force SSH attempts from this IP,1
+241.17.72.12,9cg0x9iocbt9a5gcdo.ru,,phishing,Suspicious outbound traffic to known C2 server,1
+63.193.55.30,ysz7wvnqp3trn1pt.edu,,ransomware,,0
+247.45.226.157,8vghvokc4.tk,86dc989d5dc5118852413621cf67102a277863da656b5f2c7e2572a05e7f60ae,data_exfiltration,Ransomware dropper detected in email attachment,1
+,,,ransomware,,0
+,2darbrkekzrpsfj.cn,,data_exfiltration,Credential harvesting page impersonating corporate SSO,1
+,,,other,,0
+32.0.52.218,lzem7o.buzz,,brute_force,Ransomware dropper detected in email attachment,1
+,kpmtol9k4dygu.top,,data_exfiltration,Brute force SSH attempts from this IP,1
+,,2d8baa62d959090dfb7997d25290971a,other,Drive-by download serving banking trojan,1
+,,b56c10ed32b0ead4473271d6adc60e03,phishing,,0
+,,,ransomware,Brute force SSH attempts from this IP,1
+,,,denial_of_service,asdf,0
+,,,phishing,,0
+225.98.191.31,,,data_exfiltration,Phishing email targeting employees with fake login page,1
+,izlm2eg90.com,,ransomware,,0
+199.175.67.42,,,brute_force,,0
+,jsrc25axgu4cboh0gsoe.tk,9e6eefe6c887e760cced67800474c6f2,brute_force,Brute force SSH attempts from this IP,1
+53.169.20.239,0cerco1gg7.com,d19b9db237079acd415eb761c70a2db39cc71b852b760cec3a2e09ba55687e4b,phishing,hello world,0
+92.126.21.100,z9pncmb7a9k.buzz,264c30710be242338c7f78415e451cf5252aefd8ef0eaffbf90e741efa456120,brute_force,Credential harvesting page impersonating corporate SSO,1
+115.251.234.148,bvskag.top,a210a088be86c759aa4baea993c7a0b0,phishing,Malicious macro in Office document,1
+,,,command_and_control,,0
+,gqhtkw.xyz,,phishing,,1
+188.22.163.112,,,data_exfiltration,,0
+21.163.92.86,,,other,hello world,0
+,,,denial_of_service,,0
+,to3078dfr7t.top,b485dfc2a4059d1c2e18b2400170f5ca5e874609a631e619a3aa83b14aa31329,brute_force,Botnet command-and-control beacon every 60 seconds,1
+,l0aq0d0dh.buzz,c51498a92c0f38d09e5fde74bd31d084496f1e8468ea18035cd8a515c663ca31,phishing,Data exfiltration via DNS tunnelling detected,1
+65.169.61.95,,,phishing,Ransomware dropper detected in email attachment,1
+142.123.162.168,w7uff.com,,phishing,n/a,0
+226.123.195.94,6zxnmp396x5.buzz,25e48261d73ccd3360ecf364b2545fab,ransomware,Data exfiltration via DNS tunnelling detected,1
+70.2.42.58,,,ransomware,Phishing email targeting employees with fake login page,1
+,,,malware,,0
+214.36.198.52,n082jjq5vwkfgl3on.xyz,,denial_of_service,Phishing email targeting employees with fake login page,1
+53.231.181.105,5f8bfxwrvv5nxafnb.tk,,brute_force,Phishing email targeting employees with fake login page,1
+131.51.78.230,tiuiz0i3j.xyz,972c95994eebce14feb1d91060e95d85,command_and_control,,1
+98.180.130.228,uwty588p2kzoslb.xyz,,command_and_control,Domain hosting exploit kit distributing malware,1
+,,,ransomware,ignore this,0
+186.32.187.137,5jmtega.xyz,3cc1fa86264d223efe17c97578c34401f1307a43f293d14775defe035d69b3f2,denial_of_service,Ransomware dropper detected in email attachment,1
+22.9.227.29,,5629df72efb944c2d8d1bfea3a2b9dbb,ransomware,Domain hosting exploit kit distributing malware,1
+246.252.177.78,bc4us.top,9a8e57bcc1ef0ef5663a9f8fd6504c97,ransomware,Phishing email targeting employees with fake login page,1
+,,,data_exfiltration,n/a,0
+196.227.49.207,sd54c3t4qv.tk,,other,Brute force SSH attempts from this IP,1
+50.255.233.242,,,data_exfiltration,,0
+,w2k8jag.cn,e3db1585d74f440d5944c9e971ba5586,denial_of_service,Brute force SSH attempts from this IP,1
+110.176.57.25,ai0vzsa0.top,2bb9dc02296e02abee94c5290fd1e70e3a6a2a6fda257f9bb31fec60e0fd495b,other,Credential harvesting page impersonating corporate SSO,1
+7.192.35.88,thxgcj30wuaayf.cc,c2abb3e5afc1333a7f0ad71465589560ec1d12ca4b06d47aa996336eec307a93,ransomware,Drive-by download serving banking trojan,1
+,,,command_and_control,,0
+,x5rqziasvzb9ucd6ly.ru,,malware,Domain hosting exploit kit distributing malware,1
+,,,phishing,,0
+,z8m4v262.ru,07458422f44964af732c1c38cbb115940569ab9f18bc644710925af403c5e014,other,Botnet command-and-control beacon every 60 seconds,1
+176.47.201.86,j42l8i89qgrbki026vs.tk,3753faf0f06030db74f55c4143aa06b85629d43ce35c20c657214da7f6bbf83e,malware,Phishing email targeting employees with fake login page,1
+,,b2243ebffceac284a2b8306b1da8c5b6,denial_of_service,asdf,0
+127.38.248.160,f5fl.top,9f1cfcac0d2ddee7606edae2e7500408,denial_of_service,Drive-by download serving banking trojan,1
+,61gyb5u0.cn,,brute_force,Malicious macro in Office document,1
+,8wpj90klngi4iku.com,,malware,,0
+,suu4q06vax.cc,,malware,Credential harvesting page impersonating corporate SSO,1
+96.61.51.80,jz0e1c1.cc,,other,Botnet command-and-control beacon every 60 seconds,1
+,,,phishing,,0
+,7o0gd.xyz,6ac192f332613f13f79d260f185f2d86,data_exfiltration,Brute force SSH attempts from this IP,1
+87.168.12.171,,,command_and_control,,0
+,,3e2cac81870a65dadb39c8de52088e7a,brute_force,,0
+251.138.169.28,,,brute_force,,0
+,f5viu4sa3k5mgltuj.tk,,denial_of_service,Suspicious outbound traffic to known C2 server,1
+,,af57e27a0b17c90912bc07de791dfdf11a2cf6a0f5cf6958adc24af68c1c79e0,ransomware,test,0
+232.43.249.207,empa5t2sse3nwo9gq.cc,b162d1e0ae970e7fd044b9194d7b594c,phishing,Suspicious outbound traffic to known C2 server,1
+194.103.165.152,,,ransomware,not sure,0
+,7l93sa5tswb4tstvy.cc,19a162227fd558839a49c5f29b41a343,command_and_control,Ransomware dropper detected in email attachment,1
+,,,phishing,,0
+,,,phishing,test,0
+,t2ethgr2beilcd1lui09.org,,other,,0
+,,,phishing,,0
+124.106.128.156,0np901mgeb2pyt7.cc,b55374ac4ab9613139b2a45261561def,ransomware,Botnet command-and-control beacon every 60 seconds,1
+9.152.183.197,1r97swm0ohqgvde.xyz,,denial_of_service,Botnet command-and-control beacon every 60 seconds,1
+,,66451234db1c9a7b1d863698dc4c9b10574c7714612a6a4a28fd4545c4891396,malware,,0
+,2w6jaoki7rpz.ru,,brute_force,Ransomware dropper detected in email attachment,1
+,ni8hdorumpvbg.tk,ecb9810f8719e4c60b425a7a7b8d021d,command_and_control,Ransomware dropper detected in email attachment,1
+,,,phishing,Malicious macro in Office document,1
+5.61.88.219,,,denial_of_service,Domain hosting exploit kit distributing malware,1
+32.3.128.46,ik54vhmqgp2qxy7s2.top,2333f963162ba856ecd6abca711a3a8d,data_exfiltration,Credential harvesting page impersonating corporate SSO,1
+68.210.121.195,u9jcr.tk,cda6aceef6a9e984adfd778f6804fd57,malware,Brute force SSH attempts from this IP,1
+26.180.75.224,,,brute_force,Drive-by download serving banking trojan,1
+2.54.12.131,amk0uww2p10kib.tk,1200c0282b7944a13b3a28de7529666e1eceb00c4e9b4a747b580a84e71679b0,brute_force,Botnet command-and-control beacon every 60 seconds,1
+,,,ransomware,unknown,0
+,,4dba677a91d7c4c4f94b58dbcc83900f,phishing,Data exfiltration via DNS tunnelling detected,1
+,,,denial_of_service,123,0
+,,,malware,asdf,0
+50.9.18.229,i5t4inmt7u.cc,1a7aedd42b303805ba7addc4bcef8ec3,malware,Malicious macro in Office document,1
+17.69.14.67,,4f442c9c4d677d72cd34d55d13d3c7971bdd56fb9e17ab7bc5070fe5f06354ea,command_and_control,Phishing email targeting employees with fake login page,1
+216.146.39.84,pc5z5.ru,,ransomware,Data exfiltration via DNS tunnelling detected,1
+,,,other,,0
+,,,other,,0
+120.242.144.250,,2140804804bc5e8cc7d1b6df8b95d7fab3e9eef8f5afd7074f3f3b718732e2f0,brute_force,Data exfiltration via DNS tunnelling detected,1
+,,b22b35e1bc5d9972c29d9389e3e7419381a77571a6b00b6eed4ccee696edcb8e,data_exfiltration,hello world,0
+,,,denial_of_service,Ransomware dropper detected in email attachment,1
+,stojyt6qibw245igzlrg.org,,data_exfiltration,,0
+,vw5d.tk,4eaf4eb93e5aef80b185dbc169bf7a1174e4e65957fda035e4e1eacd24491114,phishing,,1
+224.209.93.31,lcg7bc067w17uvocsv54.net,,ransomware,,0
+,,,other,unknown,0
+,e27jdk268yx902psfllg.ru,1b9697bd1c1b867d9bf882679e375a2d,other,Ransomware dropper detected in email attachment,1
+198.187.213.204,,,phishing,Brute force SSH attempts from this IP,1
+,ecrg2ybaackexmbs2r3.tk,3ba79920f5857dcc41b208d9d037cf706c42cceac63269580cae7f834be17ddd,phishing,Brute force SSH attempts from this IP,1
+,,,brute_force,,0
+,,650fd933e6277073c823714635cb1a39,phishing,Ransomware dropper detected in email attachment,1
+,,,command_and_control,Phishing email targeting employees with fake login page,1
+240.29.254.152,,,brute_force,not sure,0
+175.131.89.33,,95b2184f6f8b891692ac66f6d1a96124,malware,Phishing email targeting employees with fake login page,1
+181.149.146.107,,,command_and_control,Phishing email targeting employees with fake login page,1
+89.178.11.222,,,ransomware,Domain hosting exploit kit distributing malware,1
+,,25e7add0bbd601333d95d3e4d74094f1,data_exfiltration,Credential harvesting page impersonating corporate SSO,1
+111.77.12.208,,9e9f9ac209eb72ceaabeed896a50a19a,ransomware,,1
+249.175.162.189,,,malware,,0
+121.81.131.111,b8wbyhsoz.edu,,malware,not sure,0
+33.217.121.151,,1fe531175ec3b1b9ada1193b60e276fe,phishing,Malicious macro in Office document,1
+,,,malware,hello world,0
+120.226.86.120,,,ransomware,,0
+229.228.38.148,s14gjo4ipcbjtpt.buzz,,data_exfiltration,Domain hosting exploit kit distributing malware,1
+164.224.241.182,,1ee6ad73d831af27a40521de915cbe682a387656350efbc8152eec24087d87a0,command_and_control,Data exfiltration via DNS tunnelling detected,1
+16.47.236.183,,,other,,0
+171.93.206.109,vj99pk0xp2os9.ru,,brute_force,Ransomware dropper detected in email attachment,1
+98.72.96.182,,,denial_of_service,Brute force SSH attempts from this IP,1
+,,,ransomware,,0
+52.21.211.52,,,ransomware,,0
+,lb16aq2212.edu,,data_exfiltration,123,0
+9.80.16.88,,,phishing,,0
+,,5aaec19e449a38452d3c39fbeec50f2f04e0940eba7899f286bf34cfd951d2fd,denial_of_service,ignore this,0
+220.134.129.161,5uci7x3dl.ru,,data_exfiltration,Data exfiltration via DNS tunnelling detected,1
+246.120.183.36,,,command_and_control,Data exfiltration via DNS tunnelling detected,1
+,wbsdh.cc,,denial_of_service,Domain hosting exploit kit distributing malware,1
+,7tbvdv6z2o9s.ru,,command_and_control,Phishing email targeting employees with fake login page,1
+151.206.62.135,,7818d117ad31e62afdf673a419395bca,command_and_control,Botnet command-and-control beacon every 60 seconds,1
+163.152.88.174,,62f5f4ece628431da021781dc9de0f8747426261b7ca410c5ce25fde045912a2,brute_force,,0
+,,,command_and_control,,0
+,,,denial_of_service,just checking,0
+144.24.94.129,vpj8.top,fa924ef6f9d51f93202a3ca66fc8dff19a896c20a04ee9a66beb6d1ec9e93a20,data_exfiltration,Ransomware dropper detected in email attachment,1
+,,,data_exfiltration,,0
+,,2c2c4ecf40471be7e12af502f6e7e47ecd50a8164bffb74e2ff86ef6ddab4952,phishing,Domain hosting exploit kit distributing malware,1
+65.141.209.20,qhv3476bw6tgip.buzz,e16d0b6ca57a3a522c25fb09f92e4c61,malware,Brute force SSH attempts from this IP,1
+,,c2ba62880f9b68e50eba5234b23f1d16,malware,Domain hosting exploit kit distributing malware,1
+176.20.2.223,xzcrgrr2l2ta77el.buzz,30176861bcb44bc9d57294df36479544,malware,Suspicious outbound traffic to known C2 server,1
+,,,denial_of_service,,0
+,,,denial_of_service,hello world,0
+,ge8i.gov,,other,,0
+,,,malware,,0
+246.76.96.41,,,data_exfiltration,,1
+230.197.17.62,udvdtyqrs9.xyz,b029a2d6455e4f0bd197da20c0fe88ccf94026984303c2b2e4372f93927db39b,brute_force,Phishing email targeting employees with fake login page,1
+231.123.140.63,611qmeao.cn,,command_and_control,Drive-by download serving banking trojan,1
+,,75b0229416f1115411a553defe719be5,other,,0
+36.172.180.159,5gfslbx0.buzz,7c5f6293e139ad218244adef1bd19a755517b25c48d585188b6e41e0317a40d0,phishing,Drive-by download serving banking trojan,1
+139.139.220.153,,,denial_of_service,Data exfiltration via DNS tunnelling detected,1
+137.6.22.54,,4b689d4f1d2793785cff91bb15b945d84fb34c94947a1bf2a8a3a2dd78b2a2a2,brute_force,Botnet command-and-control beacon every 60 seconds,1
+56.184.36.165,iaej4zn45g395j.ru,8de460a258d2b0d8d792bc13bdaf7d05,phishing,Data exfiltration via DNS tunnelling detected,1
+,,,malware,,0
+,,,data_exfiltration,,0
+104.208.97.15,,056ec40f7fc785ad12e266ea2c143dcf,data_exfiltration,Data exfiltration via DNS tunnelling detected,1
+253.231.34.172,ynv1qslbn2vidmj.tk,22fc8e82fae8e0ecffeda97411b902a6bcaa2ecd70d13fce6f2efc34df388649,other,Brute force SSH attempts from this IP,1
+,,,phishing,,0
+21.103.28.53,m15u1ezkeck82yobwu.buzz,9552c2a681d1e131b618b3adbf0405c7,data_exfiltration,Brute force SSH attempts from this IP,1
+154.71.128.53,8jlmzhanii6f1.tk,,phishing,Credential harvesting page impersonating corporate SSO,1
+,,,phishing,,0
+111.141.196.69,,,ransomware,,0
+209.199.232.49,,,data_exfiltration,,0
+,,63ea5d268ef731fc69625b026cc96e85,brute_force,,0
+,,,data_exfiltration,asdf,0
+,,3fd7afc5fb042b6c20324e8b8fe9feda,data_exfiltration,Credential harvesting page impersonating corporate SSO,1
+4.2.209.18,,,other,asdf,0
+,,,brute_force,,0
+,okdm2znebithhb59b9pq.com,,malware,asdf,0
+,pbz1vrsoie6kkjs.ru,,ransomware,Malicious macro in Office document,1
+,,,command_and_control,n/a,0
+174.25.6.22,,9ac69327a40b49cfd310710442a0ddd0e7f30877036ef43ec05b5397742dc4bc,phishing,Drive-by download serving banking trojan,1
+226.35.16.140,,f1d80e3a5500b597f5a586ee5add6c9ed79a2e0bddbac44cea5c91e23417a691,command_and_control,Malicious macro in Office document,1
+,,,command_and_control,just checking,0
+173.101.208.236,,9c08d00fb1cb62d5870a0879ede25823,phishing,Ransomware dropper detected in email attachment,1
+,,,malware,Ransomware dropper detected in email attachment,1
+117.97.149.94,,,denial_of_service,ignore this,0
+,,,other,just checking,0
+56.21.121.220,q4x4dy6pf9whez.cn,465d28e679395b379db99216dfd007eb,malware,Domain hosting exploit kit distributing malware,1
+,,1bc733b05c5ec63b936e5f6ba8cc5f7566ef95a5dbf51056cfb89094e547b14f,brute_force,,0
+147.143.31.49,z1we9k6.top,cb2404fafd403b0668d940b8a3438363,data_exfiltration,Brute force SSH attempts from this IP,1
+190.215.222.216,wvm1vg0fp8x69e.tk,88a5e40d2b09a8017e6cb88dc3393bc370be753b969368cd24f8a88c78be8ff0,brute_force,Suspicious outbound traffic to known C2 server,1
+24.100.42.237,,,ransomware,Botnet command-and-control beacon every 60 seconds,1
+,,,ransomware,,0
+9.183.234.222,,,data_exfiltration,Suspicious outbound traffic to known C2 server,1
+70.227.130.157,7g93rvy487k7ddaszvh.tk,fc3d3ac7a94d17ab019b70acf8d8b262,ransomware,Domain hosting exploit kit distributing malware,1
+90.90.254.5,,,other,,0
+,,33e33b35630502cfc113bb6a327c3bcff8ea545dd2316ae6d40f63050f242795,other,,0
+,148nzrv9n.ru,fc520edc131af4437d6d9da19219f0a2,command_and_control,Brute force SSH attempts from this IP,1
+,nr2lds1p.com,,ransomware,n/a,0
+,,7c584baa955a3bdd80ed7761bc2edc90,command_and_control,unknown,0
+,,,malware,,1
+,,bb1ed755b8ae9631229d2e3b1ddf4e34,other,test,0
+88.104.57.177,,,denial_of_service,Brute force SSH attempts from this IP,1
+238.92.246.244,,,ransomware,Brute force SSH attempts from this IP,1
+,,,command_and_control,ignore this,0
+,,,other,,0
+76.177.161.173,jhp0bslbntrwvak8bn.tk,ba54064e790d69f824399472fe17846f,ransomware,Ransomware dropper detected in email attachment,1
+,p23kn.net,a079de915e86ed5b90db99bc8916a37b316249a8047a7ee99a7ba7e38ffd8a7c,command_and_control,n/a,0
+216.51.233.146,5ezaf6hpx55vhehfk9.top,,other,Credential harvesting page impersonating corporate SSO,1
+169.13.168.243,7msag.ru,,command_and_control,Drive-by download serving banking trojan,1
+219.201.156.50,,,denial_of_service,,0
+,mxyhk9iflv9cp6y.cn,4fe5a2a257e128217b6744d9d7c2ce12c5140e336581e2d1847c6efa8e8f7476,brute_force,Malicious macro in Office document,1
+144.35.94.93,,,data_exfiltration,,0
+,sj4z8y1gfds.ru,33eeeb82ad2695cfa5b28617ff5342b5f134f3938bcb8ae7cbec627918bd20f1,command_and_control,Domain hosting exploit kit distributing malware,1
+,0kh9.com,,command_and_control,not sure,0
+,,,data_exfiltration,ignore this,0
+98.54.245.217,m7o1uj1.xyz,00e617c6f9c242571ebc9c17e88269c27dbb8cf54ca7616f591bae818b4f74d6,brute_force,Credential harvesting page impersonating corporate SSO,1
+56.220.45.236,,,phishing,,0
+,,,denial_of_service,just checking,0
+197.142.218.181,1fv2gght91v6orj3w.ru,1ddf7be011915ef05d80e3aa1588d20d,brute_force,Ransomware dropper detected in email attachment,1
+,gbc1v.xyz,,command_and_control,Ransomware dropper detected in email attachment,1
+15.206.156.24,,6a13299006ffbf3ae38e21f871b2577a1f299e682257a5cad64b21018d331c7e,denial_of_service,Ransomware dropper detected in email attachment,1
+178.24.67.178,,8adcc73929528c235a7bb90270baa1a83d0e2a21b11888d869cf712e922262d3,command_and_control,,1
+46.13.140.81,nu83f.top,,brute_force,Phishing email targeting employees with fake login page,1
+194.224.85.163,wn9gbzva2.edu,,phishing,,0
+134.53.20.253,zw3l2ph44hmkw46.buzz,,other,Drive-by download serving banking trojan,1
+113.178.78.15,kn62yhc0aiyxgt8y93x6.xyz,7c1a3d97010798564a87914307cf642f,ransomware,Domain hosting exploit kit distributing malware,1
+,pia66cu33wwsgidzz.com,,data_exfiltration,,0
+,,,malware,ignore this,0
+,kuag7ez5.ru,3189270e2dde599e605455fc1720f292,phishing,Phishing email targeting employees with fake login page,1
+38.106.77.139,a2h5bsgwo0fcld56sss5.top,efc8a8b9806ab574a276581ddc084fe2,brute_force,,1
+,,,malware,asdf,0
+,,,data_exfiltration,Domain hosting exploit kit distributing malware,1
+3.150.245.20,,62f2f95934a244b3a6fe3779bbc20529b99d0da25dc90c35aa19b3bdc2f596b5,phishing,Suspicious outbound traffic to known C2 server,1
+,,,ransomware,,0
+,,,malware,Suspicious outbound traffic to known C2 server,1
+93.96.124.164,,,malware,Credential harvesting page impersonating corporate SSO,1
+57.165.78.146,,,malware,,0
+103.70.47.235,tzhcwfu.xyz,29087c656a0d7e6785bd0234c926f99a,data_exfiltration,Data exfiltration via DNS tunnelling detected,1
+181.113.164.133,,2156778c2e8dccc8129c4b3949e4d435,denial_of_service,Drive-by download serving banking trojan,1
+,0p4uzir9cvwtggweyjw.top,,data_exfiltration,Ransomware dropper detected in email attachment,1
+,,,malware,,0
+,,,denial_of_service,hello world,0
+29.244.43.198,,,ransomware,Domain hosting exploit kit distributing malware,1
+199.21.0.248,,,phishing,n/a,0
+54.230.189.190,,,phishing,Brute force SSH attempts from this IP,1
+,,,other,,0
+104.96.235.5,u7gvcpmkuh6n.cc,,command_and_control,Malicious macro in Office document,1
+,e3n6dkbc40n.tk,,brute_force,Drive-by download serving banking trojan,1
+89.1.36.202,e1yotvn.xyz,,command_and_control,,1
+,,,data_exfiltration,,0
+228.19.236.212,,,command_and_control,Domain hosting exploit kit distributing malware,1
+17.164.230.141,l6cnxcwksjydiq.org,f35595d74ac1857116481c00e36ba59c,phishing,asdf,0
+,dbvu1crgy09g6njh8c.cn,,brute_force,Data exfiltration via DNS tunnelling detected,1
+193.126.164.183,y3321itb.buzz,8b3085c2663e2f89fe04e3254036335e34205800afb3dc45fe643ec71de652a0,malware,Data exfiltration via DNS tunnelling detected,1
+,,ec8c10b19b95d1aa9ad5afb41832685573ce4fbaf187583baf3a4d1b51d2ed56,other,Drive-by download serving banking trojan,1
+17.248.245.33,3o3aq0w0r0fjh7.tk,4090625e4a3175d656592d6d52c59504b5e970658bb88b2f8b3056b8a7f412d9,data_exfiltration,Credential harvesting page impersonating corporate SSO,1
+69.111.180.254,,,denial_of_service,Brute force SSH attempts from this IP,1
+250.87.148.105,,6b05614289da387392efbdad7a970acce6aad05c48c76869d273c65187dc83cc,brute_force,Data exfiltration via DNS tunnelling detected,1
+,,,command_and_control,Data exfiltration via DNS tunnelling detected,1
+,fwz37r2doz67drom4hh.net,,malware,asdf,0
+179.161.134.124,,,denial_of_service,,1
+15.85.162.126,,1778c19372ed5e2160724376103c7ce93f3aa0aacce18a627815287e6196ed92,ransomware,,0
+124.121.129.54,x9ui.cc,8948949c61f1653de1fcda3afbf53a02cc8a0aa791bee71decf636245290e631,brute_force,Malicious macro in Office document,1
+208.48.77.101,uanbo.ru,005321ac538c268650a9a7e6bc60caa2,command_and_control,Suspicious outbound traffic to known C2 server,1
+103.244.178.181,,e55c7476be6d1dcc5dc1cd5d9c7c0d738eb4f89912260dc36076394f9a79ca1e,phishing,Domain hosting exploit kit distributing malware,1
+177.52.126.241,,,other,Botnet command-and-control beacon every 60 seconds,1
+,ld59osnwg6dmec3uv.edu,,command_and_control,n/a,0
+,,,data_exfiltration,,1
+89.12.226.196,,,ransomware,Suspicious outbound traffic to known C2 server,1
+219.226.187.126,,,command_and_control,Domain hosting exploit kit distributing malware,1
+,,,phishing,,0
+,,,data_exfiltration,Phishing email targeting employees with fake login page,1
+80.162.10.97,ml9ejpvujouh.com,,denial_of_service,ignore this,0
+215.90.52.242,,7b7c629573ea20e6118feec2dc0287ad,other,Credential harvesting page impersonating corporate SSO,1
+,,,command_and_control,,0
+,,97f538d7c858c61087eb03f4336f45b1,brute_force,hello world,0
+,,,brute_force,123,0
+,wqikuco.buzz,,ransomware,,1
+252.227.48.10,kaeifjttqqy5cj8ibu.xyz,,other,Drive-by download serving banking trojan,1
+146.24.103.215,j1lg67ixw60g.tk,,phishing,Ransomware dropper detected in email attachment,1
+219.77.148.182,r707d7nflr.xyz,8d76e5d635e5edbc7506878f0fff5afa50ddcc0997bcbb2fb63da706b5f24fb8,ransomware,Credential harvesting page impersonating corporate SSO,1
+,tcms5xudp43cy2hosz.buzz,100d7d1d60eb8817600139105f4a49c6,phishing,Data exfiltration via DNS tunnelling detected,1
+,,833a6a8dc1ddabe684faffcf4b4661745b2bebf760d79e8f7e8bb3c1d2f78502,other,,0
+224.27.71.210,hx8juffzvi68c9n.cn,11df41b5398139b5786d0d7f3a344edc1ad773e77f8c7d8d6c1691cce209a62e,data_exfiltration,Credential harvesting page impersonating corporate SSO,1
+184.58.23.17,,4da167cbab1bd1b415c4c854c3ecb7a9,command_and_control,Brute force SSH attempts from this IP,1
+77.148.59.43,5hn7bj7mikm00.cn,ee76b295d4bfa9512d5330b24c8e6eae,brute_force,Malicious macro in Office document,1
+107.68.53.113,6b4kw6dil3.tk,,other,Domain hosting exploit kit distributing malware,1
+112.83.209.3,,d3a84e5f978810116db4168250abc92e,malware,,1
+,apyvpqkvwvlwct.top,ba30cbf7ddcaeadfeebe59ba5f3f0c6f,command_and_control,Ransomware dropper detected in email attachment,1
+46.230.15.129,7h4t0m.top,,command_and_control,Malicious macro in Office document,1
+156.169.168.122,6les8ixr2.tk,,malware,Brute force SSH attempts from this IP,1
+252.100.242.248,,,malware,,0
+44.166.83.234,4wd2bgd55v7i6dtk6k1.tk,,other,Phishing email targeting employees with fake login page,1
+127.225.29.176,,,data_exfiltration,unknown,0
+22.110.103.167,,,other,,1
+125.221.153.223,zf0nwspa1jvpqdoe5oik.top,077ad32c0037500150b7cc6ec81a8b89,denial_of_service,Drive-by download serving banking trojan,1
+178.196.213.180,oyi32t04.tk,,ransomware,,1
+,5qhp.gov,,other,,0
+,,,phishing,,0
+,,89cf6f8237914e69d2d06dadb4de718a,brute_force,Credential harvesting page impersonating corporate SSO,1
+180.18.34.101,,,other,Credential harvesting page impersonating corporate SSO,1
+,,,ransomware,,0
+,,,phishing,Drive-by download serving banking trojan,1
+,,,denial_of_service,not sure,0
+153.162.150.70,,,other,Ransomware dropper detected in email attachment,1
+41.135.6.127,,,phishing,Domain hosting exploit kit distributing malware,1
+31.39.0.236,,,other,,1
+107.73.208.106,,,brute_force,,0
+230.113.64.46,,,brute_force,Phishing email targeting employees with fake login page,1
+,,,command_and_control,,0
+101.18.104.171,qg1p69mskr3b14z.top,d2263afce82bae557152966be9117252,brute_force,Data exfiltration via DNS tunnelling detected,1
+183.90.178.87,,,data_exfiltration,Brute force SSH attempts from this IP,1
+,,,phishing,,0
+243.4.25.207,570q.cn,,malware,Data exfiltration via DNS tunnelling detected,1
+252.165.8.116,1lz1lejv4cu5tid6blo6.tk,b0578f85b255dbcb929b3589308c26c1,command_and_control,Ransomware dropper detected in email attachment,1
+,ir6sx.cc,6913d3a8e0f34dc215c7faf5cf1c4ef6fd5473d628c5eb0f8a38a68b095b8ba0,denial_of_service,Drive-by download serving banking trojan,1
+,r18cyig06fhkh0.ru,7e5b776429b23adc085e251c69e3445f,phishing,,1
+,,,brute_force,123,0
+38.251.112.134,,,command_and_control,,1
+103.202.10.36,rc01oiy646y087ok9.xyz,,data_exfiltration,Botnet command-and-control beacon every 60 seconds,1
+,,29a7d3a1aeaa4af306fc1e1495d725faf828e546b5f86262821232a3d240332d,malware,Domain hosting exploit kit distributing malware,1
+16.199.72.3,,,command_and_control,Phishing email targeting employees with fake login page,1
+57.189.44.102,,,other,Credential harvesting page impersonating corporate SSO,1
+136.8.70.252,,,ransomware,Malicious macro in Office document,1
+,1fzf.top,,malware,Drive-by download serving banking trojan,1
+11.42.40.130,,,ransomware,test,0
+245.177.255.112,j1h6g530n1a14q1ebp.xyz,,malware,,1
+,,,denial_of_service,Phishing email targeting employees with fake login page,1
+,xqtilsejb7iuelcjr4.ru,,denial_of_service,Botnet command-and-control beacon every 60 seconds,1
+142.220.10.229,,,malware,asdf,0
+,,07951c66be61011d44a54a0f37286185,brute_force,test,0
+,,,brute_force,asdf,0
+81.165.244.141,l4yo.buzz,,command_and_control,Domain hosting exploit kit distributing malware,1
+6.245.89.47,,,other,,0
+,godlr9w316kytsp.cn,f254bcd04be9378eb1897f9f12d06d04,other,Botnet command-and-control beacon every 60 seconds,1
+213.99.18.94,,1f191e6d7e2d21a91fca83fbb3db635e,denial_of_service,Suspicious outbound traffic to known C2 server,1
+,,f44b6d560d814fa0326095a51f001303,brute_force,,0
+,k8um4ivdb1dud0yehm.tk,,other,Ransomware dropper detected in email attachment,1
+114.16.193.254,6w7yh0k1ks5fgp5.cc,0df04c646d3564c1e0e3103821db988532e411115111cfa8bd4755c91d4a0ad1,brute_force,Phishing email targeting employees with fake login page,1
+237.69.51.83,,766b3577b60da5db9e2ef44e2e9284687e2dfc21105a55cc99f2694109e2dd56,command_and_control,Botnet command-and-control beacon every 60 seconds,1
+,,,phishing,not sure,0
+,wbctpl1q514.ru,,command_and_control,Domain hosting exploit kit distributing malware,1
+144.105.107.37,1plmwcjspzhxvnyg.xyz,5aa8bcc331a302924a328e8110bb5b54b463f6b67fc77054488e6027d2f49a3a,data_exfiltration,Domain hosting exploit kit distributing malware,1
