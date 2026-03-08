@@ -1,0 +1,37 @@
+# ── Git ──────────────────────────────────────────────
+.git
+.gitignore
+
+# ── Python caches ────────────────────────────────────
+__pycache__
+*.pyc
+*.pyo
+*.egg-info
+dist/
+build/
+
+# ── Virtual environments ─────────────────────────────
+venv/
+.venv/
+env/
+
+# ── IDE ──────────────────────────────────────────────
+.vscode/
+.idea/
+
+# ── Docker ───────────────────────────────────────────
+docker/
+docker-compose.yml
+Dockerfile
+
+# ── Docs / Architecture ─────────────────────────────
+Architecture Plan/
+*.md
+!backend/README.md
+
+# ── ML models (large binary) ────────────────────────
+ml/model.pkl
+
+# ── OS ───────────────────────────────────────────────
+.DS_Store
+Thumbs.db

@@ -1,6 +1,12 @@
 # ──────────────────────────────────────────────────────────
 # Docker Compose — Threat Intelligence Platform
 # Services: FastAPI backend  +  PostgreSQL database
+#
+# Usage:
+#   cd docker
+#   docker compose up --build          (foreground)
+#   docker compose up --build -d       (detached)
+#   docker compose down -v             (stop + remove volumes)
 # ──────────────────────────────────────────────────────────
 
 version: "3.9"
@@ -12,15 +18,34 @@ services:
       context: ..
       dockerfile: docker/Dockerfile
     container_name: threat-intel-backend
+    restart: unless-stopped
     ports:
       - "8000:8000"
+
+    # Read all config from the single .env in backend/
     env_file:
       - ../backend/.env
+
+    # Override DB_HOST — inside Docker it must point to the "db" service
+    environment:
+      DB_HOST: db
+      GOOGLE_SHEETS_CREDENTIALS_FILE: /run/secrets/gsheet_credentials
+
+    # Mount the credentials file as a read-only secret
+    volumes:
+      - ../backend/credentials.json:/run/secrets/gsheet_credentials:ro
+
     depends_on:
       db:
         condition: service_healthy
-    volumes:
-      - ../backend:/app # live-reload during development
+
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost:8000/health" ]
+      interval: 30s
+      timeout: 10s
+      start_period: 20s
+      retries: 3
+
     networks:
       - threat-net
 
@@ -29,26 +54,38 @@ services:
     image: postgres:15-alpine
     container_name: threat-intel-db
     restart: unless-stopped
+
+    # Read DB credentials from the same .env used by the backend
+    env_file:
+      - ../backend/.env
+
+    # Map our DB_* variables to the names PostgreSQL expects
     environment:
-      POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: postgres
-      POSTGRES_DB: threat_intel
+      POSTGRES_USER: ${DB_USER:-postgres}
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-postgres}
+      POSTGRES_DB: ${DB_NAME:-threat_intel}
+
     ports:
       - "5432:5432"
+
     volumes:
       - pgdata:/var/lib/postgresql/data
+
     healthcheck:
-      test: [ "CMD-SHELL", "pg_isready -U postgres" ]
+      test: [ "CMD-SHELL", "pg_isready -U postgres -d threat_intel" ]
       interval: 5s
       timeout: 5s
       retries: 5
+
     networks:
       - threat-net
 
+# ── Named volumes ─────────────────────────────────────
 volumes:
   pgdata:
+    driver: local
 
-
+# ── Network ───────────────────────────────────────────
 networks:
   threat-net:
     driver: bridge
