@@ -60,3 +60,49 @@ The system will also maintain logs for all submissions and validations.
 - Database of validated threats
 - API for accessing threat intelligence
 - Containerized deployment
+
+## Project Structure
+
+The project will be organized as follows:
+
+threat-intelligence-platform/
+
+README.md  
+PROJECT_REQUIREMENTS.md  
+TECH_STACK.md  
+TODO.md  
+
+docker/  
+    Dockerfile  
+    docker-compose.yml  
+
+backend/  
+    app/  
+        main.py  
+        config.py  
+
+        api/  
+            routes_threats.py  
+            routes_validation.py  
+
+        services/  
+            sheets_service.py  
+            validation_service.py  
+            threat_service.py  
+
+        models/  
+            threat_model.py  
+
+        database/  
+            db.py  
+            schema.py  
+
+        utils/  
+            logger.py  
+
+ml/  
+    train_model.py  
+    model.pkl  
+
+monitoring/  
+    prometheus.yml
