@@ -1,67 +1,56 @@
-# Project Development Plan
-
-## Phase 1 – Data Collection Setup
-
-Goal:
-Create the data submission pipeline.
-
-Tasks:
-- Create Google Form for threat intelligence submission
-- Define form fields (IP, domain, hash, threat type)
-- Link form responses to Google Sheets
-- Access responses using Google Sheets API
-- Build simple Python script to fetch submissions
-
-Deliverable:
-System can read threat reports from Google Forms.
+# Development Plan
 
 ---
 
-## Phase 2 – Backend and Data Storage
+## Phase 1 – Frontend + API Integration
 
-Goal:
-Build backend services and database.
-
-Tasks:
-- Create FastAPI backend
-- Design database schema
-- Store submissions in PostgreSQL
-- Create API endpoints for threat data
-- Implement basic validation checks
-
-Deliverable:
-Backend service that processes and stores threat reports.
+- Build login page
+- Build threat submission form
+- Build dashboard UI
+- Create API endpoints:
+  POST /submit
+  GET /threats
+- Connect frontend to API
 
 ---
 
-## Phase 3 – AI Validation Module
+## Phase 2 – Validation Pipeline
 
-Goal:
-Add automated threat validation.
+- Implement feature extraction
+- Train ML model
+- Integrate validation service
+- Return confidence score
+- Display score in UI
 
-Tasks:
-- Prepare dataset for threat classification
-- Train simple ML model
-- Integrate model with backend
-- Assign confidence score to submissions
+---
+
+## Phase 3 – Database Integration
+
+- Design schema
+- Store threats
 - Store validation results
-
-Deliverable:
-System can automatically validate threat intelligence.
+- Link threats to users
 
 ---
 
-## Phase 4 – Deployment and Monitoring
+## Phase 4 – Microservices Split
 
-Goal:
-Prepare system for deployment and operations.
+- Separate API service
+- Separate validation service
+- Ensure service communication
 
-Tasks:
-- Dockerize backend services
-- Create Docker Compose setup
-- Implement CI/CD pipeline using GitHub Actions
-- Add monitoring using Prometheus and Grafana
-- Add centralized logging
+---
 
-Deliverable:
-Fully deployable and monitored system.
+## Phase 5 – Containerization
+
+- Write Dockerfiles
+- Create docker-compose
+- Run full system
+
+---
+
+## Phase 6 – Improvements
+
+- Add authentication (JWT)
+- Improve UI dashboard
+- Add monitoring

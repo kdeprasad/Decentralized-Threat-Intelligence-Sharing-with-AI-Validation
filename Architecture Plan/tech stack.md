@@ -1,86 +1,81 @@
 # Tech Stack
 
-## Form Interface
-Google Forms
+## Frontend
 
-Used for collecting threat intelligence submissions.
+- React (preferred)
+- Axios
 
-Example fields:
-- IP Address
-- Domain
-- Malware Hash
-- Threat Type
-- Description
+Purpose:
+- User login
+- Threat submission form
+- Dashboard for viewing threats
 
-## Data Access
-
-Google Forms responses will be accessed using:
-
-- Google Sheets
-- Google Sheets API
-
-Google Forms automatically stores responses in a Google Sheet.
+---
 
 ## Backend
 
 Language:
-Python
+- Python
 
 Framework:
-FastAPI
+- FastAPI
 
-Responsibilities:
-- Fetch form responses
-- Process threat data
-- Run AI validation
-- Store results
-- Provide API access
+---
 
-## AI Validation Module
+## Microservices
+
+### API Service
+- Handles REST API
+- Receives submissions
+- Communicates with validation service
+- Stores results in database
+
+### Validation Service
+- Feature extraction
+- ML model inference
+- Returns confidence score
+
+---
+
+## AI Module
 
 Libraries:
 - scikit-learn
 - pandas
 - numpy
 
-Purpose:
-- classify threat indicators
-- assign confidence score
-- filter invalid or suspicious submissions
+Models:
+- Logistic Regression
+- Random Forest
+
+---
 
 ## Database
 
-PostgreSQL
+- PostgreSQL
 
 Stores:
-- threat indicators
-- validation results
-- submission metadata
+- threat data
+- validation score
+- user info
+
+---
 
 ## Containerization
 
-Docker
+- Docker
+- Docker Compose
 
-Used to package backend services for deployment.
+---
 
-## CI/CD
+## Optional Additions
 
-GitHub Actions
+### Authentication
+- JWT-based login
 
-Used for:
-- automated builds
-- testing
-- container image creation
+### Monitoring
+- Prometheus
+- Grafana
 
-## Monitoring
-
-Prometheus  
-Grafana
-
-Used to monitor system metrics and service health.
-
-## Logging
-
-Loki or ELK Stack
-
-Used to collect and visualize application logs.
+### Queue (future)
+- Redis

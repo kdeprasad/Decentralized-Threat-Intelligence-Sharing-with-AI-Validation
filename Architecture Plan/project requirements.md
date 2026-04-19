@@ -1,108 +1,156 @@
 # Project Requirements
 
 ## Project Title
-Decentralized Threat Intelligence Sharing System with AI Validation for Google Forms
+Threat Intelligence Sharing Platform (Frontend-Driven, Microservices-Based)
 
-## Problem
+---
 
-Organizations often collect threat intelligence manually through reports, emails, or internal tools.  
-This process is slow and difficult to scale. There is no easy way to collect threat reports from multiple sources and automatically validate them.
+## Problem Statement
 
-We need a system where users can submit threat indicators through a simple interface and the system can automatically:
+Organizations need a structured way to report, validate, and analyze cybersecurity threats.
 
-- collect the reports
-- validate them
-- store them
-- share verified intelligence with other users
+Current challenges:
 
-Google Forms can be used as a lightweight submission interface for collecting threat intelligence data.
+- No unified platform for threat submission
+- Manual validation of threat indicators
+- Inconsistent and low-quality threat data
+- Lack of real-time feedback on submitted threats
+- Poor integration between users and backend systems
 
-## Proposed System
+---
 
-The system will use Google Forms to collect threat intelligence submissions such as:
+## Proposed Solution
 
-- malicious IP addresses
-- suspicious domains
-- malware hashes
-- phishing URLs
+Develop a web-based platform where organizations:
 
-The submitted data will be processed automatically by a backend service.
+1. Log in to the system
+2. Submit threat indicators via a frontend UI
+3. Receive an AI-generated validation score for each submission
+4. View stored threats and their validation status
 
-The backend will:
+The system uses a microservices architecture where all submissions go through a validation pipeline before being stored.
 
-1. fetch responses from Google Forms
-2. validate the threat indicators using an AI model
-3. store verified indicators in a database
-4. expose an API for retrieving verified threat intelligence
+---
 
-The system will also maintain logs for all submissions and validations.
+## System Overview
+
+Primary flow:
+
+User → Frontend → API Service → Validation Service → Database → Frontend
+
+Each threat submission is:
+
+- received via API
+- processed for feature extraction
+- validated using AI model
+- assigned a confidence score
+- stored in the database
+- displayed in the UI
+
+---
 
 ## Functional Requirements
 
-1. Users must be able to submit threat indicators through Google Forms.
-2. The system must automatically fetch new form responses.
-3. The system must validate threat indicators using an AI module.
-4. The system must store validated threats in a database.
-5. The system must expose APIs to access verified threat intelligence.
-6. The system must log all submissions and validation results.
+### User Management
+- Organizations can log in (basic authentication)
+- Each submission is associated with a user
+
+### Threat Submission
+- Users can submit:
+  - IP address
+  - domain
+  - malware hash
+  - threat type
+  - description
+
+### Validation
+- System extracts features from input
+- AI model assigns confidence score
+- Threat is classified:
+  - valid
+  - suspicious
+  - invalid
+
+### Threat Viewing
+- Users can view all submitted threats
+- Each threat shows:
+  - original data
+  - validation score
+  - validation status
+
+### API
+- GET /threats
+- POST /submit
+
+---
 
 ## Non-Functional Requirements
 
-- The system should process submissions automatically.
-- The system should support containerized deployment.
-- The system should allow monitoring and logging.
-- The system should be modular and scalable.
-
-## Expected Output
-
-- A working system that collects threat intelligence from Google Forms
-- AI validation of threat indicators
-- Database of validated threats
-- API for accessing threat intelligence
+- Modular microservices architecture
 - Containerized deployment
+- Scalable design
+- Fast API response
+- Clear separation of concerns
+
+---
+
+## Architecture
+
+Primary Flow:
+
+User  
+↓  
+Frontend  
+↓  
+API Service  
+↓  
+Validation Service  
+↓  
+Database  
+↓  
+Frontend  
+
+---
+
+## Microservices Breakdown
+
+### Frontend Service
+- Handles UI
+- Sends requests to API
+
+### API Service
+- Receives submissions
+- Sends data to validation service
+- Stores validated results
+
+### Validation Service
+- Performs feature extraction
+- Runs ML model
+- Returns confidence score
+
+### Database
+- Stores threats and validation results
+
+---
 
 ## Project Structure
 
-The project will be organized as follows:
-
 threat-intelligence-platform/
 
-README.md  
-PROJECT_REQUIREMENTS.md  
-TECH_STACK.md  
-TODO.md  
-
+frontend/  
+services/  
+  api-service/  
+  validation-service/  
 docker/  
-    Dockerfile  
-    docker-compose.yml  
-
-backend/  
-    app/  
-        main.py  
-        config.py  
-
-        api/  
-            routes_threats.py  
-            routes_validation.py  
-
-        services/  
-            sheets_service.py  
-            validation_service.py  
-            threat_service.py  
-
-        models/  
-            threat_model.py  
-
-        database/  
-            db.py  
-            schema.py  
-
-        utils/  
-            logger.py  
-
 ml/  
-    train_model.py  
-    model.pkl  
-
 monitoring/  
-    prometheus.yml
+
+---
+
+## Expected Output
+
+- Web application with login and dashboard
+- Threat submission interface
+- AI-based validation scoring
+- Stored threat intelligence
+- Containerized deployment
